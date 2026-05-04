@@ -1,4 +1,4 @@
-use crate::summarize::{ListenRec, Summary};
+use crate::summarize::Summary;
 use crate::{Episode, TranscriptSource};
 use anyhow::{Context, Result};
 use chrono::Utc;
@@ -51,14 +51,6 @@ fn render(req: &WriteRequest<'_>) -> String {
         s.push_str(&format!("episode_url: {}\n", yaml_str(u)));
     }
     s.push_str(&format!("transcript_source: {}\n", req.source.as_str()));
-    s.push_str(&format!(
-        "listen_recommendation: {}\n",
-        match req.summary.listen_recommendation {
-            ListenRec::Skip => "skip",
-            ListenRec::Skim => "skim",
-            ListenRec::Listen => "listen",
-        }
-    ));
     s.push_str(&format!(
         "generated_at: {}\n",
         Utc::now().to_rfc3339()

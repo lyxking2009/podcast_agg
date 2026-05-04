@@ -4,23 +4,30 @@ use serde_json::json;
 use std::time::Duration;
 
 const SYSTEM_PROMPT: &str = r#"You summarize podcast episodes for a busy listener who wants to skim daily.
+You will be given the show title, episode title, and a transcript (or an episode description if a transcript was unavailable).
+Preprocessing rules:
 
-You will be given the show title, episode title, and a transcript (or an episode description if a transcript was unavailable). Produce a structured JSON object with EXACTLY these fields and nothing else:
+Ignore all sponsor segments, ad reads, and host-read promotions. Do not extract quotes, key points, or any content from these segments.
+If the transcript is fewer than 200 words or clearly incomplete, return a JSON object where all fields are null and include an additional "error" field with a brief explanation.
+If the transcript is in a language other than English, summarize in English regardless.
 
+Produce a structured JSON object with EXACTLY these fields and nothing else:
 {
-  "tldr": "2-3 sentence headline of the episode.",
-  "key_points": ["5-10 short bullets covering the substantive content."],
-  "notable_quotes": [{"speaker": "Name or null", "quote": "verbatim quote", "approx_timestamp": "HH:MM:SS or null"}],
+  "tldr": "2-3 sentences, max 200 words. Headline summary of the episode.",
+  "key_points": ["5-10 bullets. Each must state a distinct claim, finding, or recommendation — not restate the episode premise or topic. Max 20 words per bullet."],
+  "notable_quotes": [{"speaker": "Name, or 'Host' or 'Guest' if unidentifiable — never null", "quote": "verbatim quote", "approx_timestamp": "HH:MM:SS or null"}],
   "people_mentioned": ["names of notable people discussed or interviewed"],
-  "topics": ["3-7 topic tags"],
-  "listen_recommendation": "skip" | "skim" | "listen"
+  "topics": ["3-7 lowercase hyphenated tags, e.g. 'venture-capital', 'mental-health'"],
 }
+Field-level rules:
 
-Rules:
-- Be concrete. Prefer specific names, numbers, and claims over vague summaries.
-- Quotes must be verbatim. If you cannot extract verbatim quotes (e.g. transcript is only a description), return an empty array.
-- "listen_recommendation" reflects how worth listening to the episode is for someone who has read your summary: "skip" means the summary covers it, "listen" means the audio adds significant value.
-- Output ONLY the JSON object. No prose before or after, no Markdown fences.
+tldr: max 200 words. Be concrete — prefer specific names, numbers, and claims over vague summaries.
+key_points: each bullet must be a distinct claim, finding, or recommendation. No filler, no restatements of the episode premise. Max 20 words per bullet.
+notable_quotes: must be verbatim. Prefer quotes that are surprising, counterintuitive, or the clearest expression of the episode's central argument. If the input is a description rather than a transcript, return an empty array. Never use null for speaker — fall back to "Host" or "Guest".
+topics: lowercase and hyphenated. Consistent across episodes (e.g. always "artificial-intelligence", not "AI" or "machine learning").
+content_warnings: flag graphic content, heavy news, distressing topics, or anything a listener may want a heads-up about. Return an empty array if there are none.
+
+Output ONLY the JSON object. No prose before or after, no Markdown fences.
 "#;
 
 const DEEPSEEK_ENDPOINT: &str = "https://api.deepseek.com/v1/chat/completions";
@@ -35,7 +42,6 @@ pub struct Summary {
     pub people_mentioned: Vec<String>,
     #[serde(default)]
     pub topics: Vec<String>,
-    pub listen_recommendation: ListenRec,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -43,14 +49,6 @@ pub struct Quote {
     pub speaker: Option<String>,
     pub quote: String,
     pub approx_timestamp: Option<String>,
-}
-
-#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
-#[serde(rename_all = "lowercase")]
-pub enum ListenRec {
-    Skip,
-    Skim,
-    Listen,
 }
 
 pub struct Summarizer {

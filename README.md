@@ -9,7 +9,7 @@ Daily summarizer for podcasts you subscribe to in the macOS Podcasts app. Fetche
    1. RSS-declared transcript URL (Podcast 2.0 SRT / VTT / JSON / HTML).
    2. Headless `claude` CLI invoked with `WebSearch` + `WebFetch` to find a published transcript on the web.
    3. The episode's RSS description (HTML stripped).
-3. **Summarize** — DeepSeek (`deepseek-v4-pro` by default) emits a structured JSON summary (`tldr`, `key_points`, `notable_quotes`, `people_mentioned`, `topics`, `listen_recommendation`). When the description fallback was used, the output is flagged and the quotes section is left empty.
+3. **Summarize** — DeepSeek (`deepseek-v4-pro` by default) emits a structured JSON summary (`tldr`, `key_points`, `notable_quotes`, `people_mentioned`, `topics`). When the description fallback was used, the output is flagged and the quotes section is left empty.
 
 State (last run date, processed episode GUIDs, failures) is persisted to `data/state.json` (gitignored). If a daily run is missed, the next run processes everything from the day after the last successful run through today, capped at `lookback_cap_days` (default 7). Failed episodes retry up to `max_attempts_per_episode` (default 3) before being marked as skipped.
 
@@ -80,7 +80,6 @@ duration: 1h27m22s
 audio_url: "..."
 episode_url: "..."
 transcript_source: rss | web | description | skipped
-listen_recommendation: skip | skim | listen
 generated_at: <RFC 3339>
 model: "<model name>"
 guid: "<guid>"
