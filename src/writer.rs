@@ -15,7 +15,7 @@ pub struct WriteRequest<'a> {
 
 pub fn write_summary(req: WriteRequest<'_>) -> Result<PathBuf> {
     let date = req.episode.published.format("%Y-%m-%d").to_string();
-    let dir = req.root.join("summaries").join(&date);
+    let dir = req.root.join("Podcast Summaries").join(&date);
     std::fs::create_dir_all(&dir).with_context(|| format!("mkdir {}", dir.display()))?;
 
     let show_slug = slug::slugify(req.show);

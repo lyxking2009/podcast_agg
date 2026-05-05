@@ -14,7 +14,7 @@ If the transcript is in a language other than English, summarize in English rega
 Produce a structured JSON object with EXACTLY these fields and nothing else:
 {
   "tldr": "2-3 sentences, max 200 words. Headline summary of the episode.",
-  "key_points": ["5-10 bullets. Each must state a distinct claim, finding, or recommendation — not restate the episode premise or topic. Max 20 words per bullet."],
+  "key_points": ["As many bullets as the content actually warrants — use more when the episode covers many distinct topics, and use fewer (even just a handful) when the episode is short or narrow. Each bullet must be a distinct claim, finding, or recommendation — not a restatement of the episode premise or topic. Make each bullet informative and self-contained: up to ~200 words, with specific names, numbers, mechanisms, and reasoning rather than vague gestures."],
   "notable_quotes": [{"speaker": "Name, or 'Host' or 'Guest' if unidentifiable — never null", "quote": "verbatim quote", "approx_timestamp": "HH:MM:SS or null"}],
   "people_mentioned": ["names of notable people discussed or interviewed"],
   "topics": ["3-7 lowercase hyphenated tags, e.g. 'venture-capital', 'mental-health'"],
@@ -22,7 +22,7 @@ Produce a structured JSON object with EXACTLY these fields and nothing else:
 Field-level rules:
 
 tldr: max 200 words. Be concrete — prefer specific names, numbers, and claims over vague summaries.
-key_points: each bullet must be a distinct claim, finding, or recommendation. No filler, no restatements of the episode premise. Max 20 words per bullet.
+key_points: do not target a fixed count — emit as many bullets as the content genuinely supports. A short or thin episode may justify only a few bullets; a wide-ranging one may justify many. Each bullet must be a distinct claim, finding, or recommendation — no filler, no restatements of the episode premise. Make each bullet informative and standalone (up to ~200 words): name the specific people, numbers, mechanisms, examples, and reasoning involved, so a reader who skims only this section understands the substance without listening.
 notable_quotes: must be verbatim. Prefer quotes that are surprising, counterintuitive, or the clearest expression of the episode's central argument. If the input is a description rather than a transcript, return an empty array. Never use null for speaker — fall back to "Host" or "Guest".
 topics: lowercase and hyphenated. Consistent across episodes (e.g. always "artificial-intelligence", not "AI" or "machine learning").
 content_warnings: flag graphic content, heavy news, distressing topics, or anything a listener may want a heads-up about. Return an empty array if there are none.

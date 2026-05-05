@@ -167,7 +167,7 @@ async fn main() -> Result<()> {
     tracing::info!(message = %summary_msg, "run complete");
 
     if !args.no_commit {
-        let summaries_dir = repo.join("summaries");
+        let summaries_dir = repo.join("Podcast Summaries");
         let state_path = repo.join("data/state.json");
         let paths = [summaries_dir.as_path(), state_path.as_path()];
         let _ = git_sync::commit_and_push(git_sync::CommitOptions {

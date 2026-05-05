@@ -4,6 +4,6 @@
 *.swp
 /tmp
 /data/
-/summaries/
+/Podcast Summaries/
 /.claude/
 /.launchd/
