@@ -1,0 +1,254 @@
+{
+  "last_run_date": "2026-05-09",
+  "last_run_completed_at": "2026-05-09T22:10:53.866339+00:00",
+  "processed": {
+    "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": {
+      "date": "2026-05-08",
+      "transcript_source": "web"
+    },
+    "54f1cb80-4571-11f1-bb1d-7749988d9e62": {
+      "date": "2026-05-04",
+      "transcript_source": "description"
+    },
+    "6162ba8a-4843-11f1-b7b7-53d3b402f9a6": {
+      "date": "2026-05-05",
+      "transcript_source": "description"
+    },
+    "653bb844-d3b0-425e-9e28-b43e00ee5196": {
+      "date": "2026-05-04",
+      "transcript_source": "description"
+    },
+    "90f96f60-25be-45ac-b832-56776a23d534": {
+      "date": "2026-05-08",
+      "transcript_source": "description"
+    },
+    "9a9cf894-37ab-4e06-860b-b4430179def7": {
+      "date": "2026-05-08",
+      "transcript_source": "web"
+    },
+    "9d725fc2-4905-11f1-b7a7-f395de5389e9": {
+      "date": "2026-05-08",
+      "transcript_source": "description"
+    },
+    "bd678cc4-456a-11f1-a054-a3c32e27c734": {
+      "date": "2026-05-03",
+      "transcript_source": "description"
+    },
+    "e2537d51-1bd2-449b-b065-b442010d29aa": {
+      "date": "2026-05-08",
+      "transcript_source": "description"
+    },
+    "flightcast:01KR2X2BAZ90G100FM12K5BYS0": {
+      "date": "2026-05-08",
+      "transcript_source": "description"
+    },
+    "https://lexfridman.com/?p=6450": {
+      "date": "2026-05-08",
+      "transcript_source": "description"
+    },
+    "prx_5868_26bc200a-7325-405d-afed-cfb90a88cdc3": {
+      "date": "2026-05-08",
+      "transcript_source": "description"
+    },
+    "substack:post:194289889": {
+      "date": "2026-04-15",
+      "transcript_source": "description"
+    },
+    "substack:post:194566669": {
+      "date": "2026-05-03",
+      "transcript_source": "description"
+    },
+    "substack:post:196292432": {
+      "date": "2026-05-05",
+      "transcript_source": "description"
+    },
+    "substack:post:196892360": {
+      "date": "2026-05-08",
+      "transcript_source": "description"
+    }
+  },
+  "failures": [
+    {
+      "guid": "a6ff5c8c-47f4-11f1-a8a5-03b48837c50f",
+      "title": "Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": [],\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is too short or incomplete to summarize.\"\n}",
+      "first_seen": "2026-05-04",
+      "attempts": 1
+    },
+    {
+      "guid": "d6d187a0-44f7-11f1-9273-07e12cf85d95",
+      "title": "Talk Your Book: Animal Spirits Live with F/m Investments",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is unavailable or incomplete; only a brief episode description was provided with no conversational content.\"\n}",
+      "first_seen": "2026-05-04",
+      "attempts": 1
+    },
+    {
+      "guid": "db567f94-f8b7-4c3a-9854-8ef474661feb",
+      "title": "“Finding Satoshi”—How a Private Investigator Solved the Mystery of Bitcoin’s Creator | Bill Cohan & Tyler Maroney",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is not a full transcript; only an outline with timestamps and promotional material is provided.\"\n}",
+      "first_seen": "2026-05-04",
+      "attempts": 1
+    },
+    {
+      "guid": "69f9b9c02a1dd3f1a80a998f",
+      "title": "IBM CEO: Transforming a Tech Giant, AI Bets and Quantum Computing",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is incomplete and under 200 words; only an episode description was provided, not a full transcript.\"\n}",
+      "first_seen": "2026-05-05",
+      "attempts": 1
+    },
+    {
+      "guid": "9befe0f0-488a-11f1-b7ec-832fcaff0e27",
+      "title": "AI Takes Over the Economy, Earnings Season Scorecard, a Bid for eBay, Berkshire Post-Buffett, Uber Preview",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is incomplete and contains only introductory and sponsor material with no substantive discussion.\"\n}",
+      "first_seen": "2026-05-05",
+      "attempts": 1
+    },
+    {
+      "guid": "d73930f8-47f4-11f1-a018-3b5d50482f68",
+      "title": "Anthropic's Boris Cherny: Coding's Printing Press Moment",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is incomplete or too short.\"\n}",
+      "first_seen": "2026-05-05",
+      "attempts": 1
+    },
+    {
+      "guid": "1f36ff96-746c-401f-90be-cc18a4639248",
+      "title": "What is driving the next phase of ETF innovation?",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is fewer than 200 words and clearly incomplete. It appears to be an episode description, not a full transcript.\"\n}",
+      "first_seen": "2026-05-05",
+      "attempts": 1
+    },
+    {
+      "guid": "c62404c3-837e-4c17-bdbd-8893edc035cd",
+      "title": "Cosmic Queries – Starquakes with Conny Aerts",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript incomplete and too short to summarize (length < 200 words).\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "1aac5464-216c-11f1-90d1-efe038bf3b93",
+      "title": "The Stock Market Is Doing Something We’ve Never Seen Before (EP. 463)",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is incomplete: only contains show intro, sponsor messages, and disclaimers; actual episode discussion content is missing.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "f04b68e0-7fbf-4a3f-ba10-b444016f98a6",
+      "title": "Winning the Degenerate Economy with StockTwits CEO Howard Lindzon",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is incomplete; fewer than 200 words and contains only a brief summary.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "dbf554b0-216a-11f1-89e0-1bd0f43975c6",
+      "title": "The Investor Utopia is Here with Eric Balchunas",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is incomplete or too short (fewer than 200 words). No summary possible.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "daaeaa76-4874-11f1-88ce-331a65b81038",
+      "title": "667. The Mystery of the Mona Lisa",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is incomplete and fewer than 200 words.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "527afe18-4926-11f1-aebd-a3b893615d09",
+      "title": "TIP813: Microsoft (MSFT): Is Microsoft a Misunderstood AI Opportunity? w/ Daniel Mahncke & Shawn O’Malley",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is not available; only an episode description with timestamps and sponsor links was provided, lacking actual dialogue or sufficient content for summarization.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "a6791f6a-48ed-11f1-b9ca-6fedb645135b",
+      "title": "Introducing: No Such Thing",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is a short promotional segment for another podcast, fewer than 200 words and incomplete.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "3e1f69e4-4b02-11f1-ad1e-7b19f4afcb2a",
+      "title": "Coinbase's Chief Policy Officer on Why He Believes the Clarity Act Will Pass",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is incomplete; it appears to be a summary rather than a full transcript.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "41294c52-4983-11f1-a5a7-0beee9669ba8",
+      "title": "DEX in the City: With the Stablecoin Yield Compromise, Can the Clarity Act Get Passed?",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"The provided transcript is incomplete and appears to be an episode description rather than a full transcript. It is fewer than 200 words and lacks substantive content for summarization.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "7a8aaf0e-47e9-11f1-a2d1-030e826b82d5",
+      "title": "A16z Crypto Raised $2.2 Billion for Fund 5. Here's How They Plan to Deploy It",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is incomplete and fewer than 200 words. No conversation content provided.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "5c51dea2-48a4-11f1-aad3-37cf1e9be3b9",
+      "title": "Why Wrapped Energy or Compute Will Be the New Store of Value: Bits + Bips",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Incomplete transcript provided. Only a short episode description is available, not a full transcript.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "69fc88362ba0ef2cca6e2d73",
+      "title": "HIGHLIGHTS: Arvind Krishna - CEO of IBM",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": [],\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is incomplete or fewer than 200 words.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "52d36a4f-fb2e-4e58-b28f-b44400e35917",
+      "title": "Timeless Wisdom: A Mailbag Episode",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is under 200 words and incomplete.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "a432ffbc-4a11-11f1-86ac-5b14ffe916a2",
+      "title": "Michael Green: Has Passive Investing Crossed The Rubicon?  |  On The Tape",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": [],\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is fewer than 200 words and appears to be a summary, not a full transcript.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "65c0d084-48ad-11f1-ba46-dbdad0c83b2a",
+      "title": "Coming Into FOCUS: Crude Oil, Hot Inflation, and a Wall of Worry",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is fewer than 200 words and clearly incomplete, likely an episode description rather than a transcript.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "258befee-0a77-412f-bc07-b44300b368b2",
+      "title": "Mariana Mazzucato Thinks We Need More Moonshots",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is incomplete: only the episode description is provided, not the full conversation.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "c3e95a7b-352c-469a-b3b2-b444000d160c",
+      "title": "What’s the Deal With Summer Travel? Live With Brian “The Points Guy” Kelly and Nikki Ekstein",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"error\": \"Transcript is incomplete and fewer than 200 words.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "4b081434-b581-4698-89e5-0da4b7b1f12e",
+      "title": "Schubert: Die Schöne Mullerin Mini-Episode No. 1 (Free Preview)",
+      "reason": "parsing summary JSON: {\n  \"tldr\": null,\n  \"key_points\": null,\n  \"notable_quotes\": null,\n  \"people_mentioned\": null,\n  \"topics\": null,\n  \"content_warnings\": null,\n  \"error\": \"Transcript is fewer than 200 words and is a preview, not a full episode.\"\n}",
+      "first_seen": "2026-05-08",
+      "attempts": 1
+    },
+    {
+      "guid": "bee9fc40-4b40-11f1-88f0-8f180161ac76",
+      "title": "Uneasy Money: Who Owns Stolen Crypto? The $71M Fight Testing DeFi Limits",
+      "reason": "No transcript found: Unchained website is premium-only, YouTube auto-captions require PO token, third-party transcript services yielded no results",
+      "first_seen": "2026-05-09",
+      "attempts": 1
+    }
+  ]
+}

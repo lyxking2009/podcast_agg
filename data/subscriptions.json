@@ -1,0 +1,275 @@
+[
+  {
+    "uuid": "E0F3F3D4-886F-424D-BB3E-203D4FC9AEF2",
+    "title": "ACQ2 by Acquired",
+    "author": "Ben Gilbert and David Rosenthal",
+    "feed_url": "https://feeds.transistor.fm/acq2",
+    "web_url": "https://acquired.fm"
+  },
+  {
+    "uuid": "AB86797B-3C49-46A8-A409-5E2237D70538",
+    "title": "Acquired",
+    "author": "Ben Gilbert and David Rosenthal",
+    "feed_url": "https://feeds.transistor.fm/acquired",
+    "web_url": "https://acquired.fm"
+  },
+  {
+    "uuid": "C4B6D4A9-25B2-4BC2-A0BF-17D857C358E3",
+    "title": "Animal Spirits Podcast",
+    "author": "The Compound",
+    "feed_url": "https://feeds.megaphone.fm/TCP6464651487",
+    "web_url": "https://awealthofcommonsense.com/podcast/"
+  },
+  {
+    "uuid": "187DD93C-6441-40EA-BA2A-4CB2C5C4225D",
+    "title": "anything goes with emma chamberlain",
+    "author": "emma chamberlain",
+    "feed_url": "https://feeds.megaphone.fm/stupid-genius",
+    "web_url": null
+  },
+  {
+    "uuid": "EF601663-F47E-412F-B25F-FD9C8EF4B95F",
+    "title": "Bankless",
+    "author": "Bankless",
+    "feed_url": "https://rss.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
+    "web_url": "http://podcast.banklesshq.com/"
+  },
+  {
+    "uuid": "F6AD0D5D-CABC-4C61-9783-903E29934DD3",
+    "title": "BG2Pod with Brad Gerstner and Bill Gurley",
+    "author": "BG2Pod",
+    "feed_url": "https://anchor.fm/s/f06c2370/podcast/rss",
+    "web_url": "https://www.bg2pod.com"
+  },
+  {
+    "uuid": "B6CFAF42-9F36-431E-95A7-7E44D467EE83",
+    "title": "Chalk Radio",
+    "author": "MIT OpenCourseWare",
+    "feed_url": "https://feeds.simplecast.com/8fQdS6Dx",
+    "web_url": "https://chalk-radio.simplecast.com"
+  },
+  {
+    "uuid": "FA968A31-A5DA-490F-8341-97505005E725",
+    "title": "Critics at Large | The New Yorker",
+    "author": "The New Yorker",
+    "feed_url": "https://publicfeeds.net/f/5868/critics-at-large",
+    "web_url": "https://www.newyorker.com/podcast/critics-at-large"
+  },
+  {
+    "uuid": "CECA1E07-7970-452D-95BF-60A8E3142125",
+    "title": "Dwarkesh Podcast",
+    "author": "Dwarkesh Patel",
+    "feed_url": "https://api.substack.com/feed/podcast/69345.rss",
+    "web_url": "https://www.dwarkesh.com/podcast"
+  },
+  {
+    "uuid": "9E5E9ABA-52B9-49AF-B8FE-1C681322902B",
+    "title": "Everybody's Business",
+    "author": "Bloomberg and iHeartPodcasts",
+    "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f541f9b4-77cb-45aa-bf94-b1d300e5d357/1d448cb7-e0fc-45b8-b51f-b1d300e623a7/podcast.rss",
+    "web_url": "https://www.iheart.com/podcast/1119-everybodys-business-274105970/"
+  },
+  {
+    "uuid": "28EA022B-C327-4D13-9360-24CA8A50E414",
+    "title": "Flirting with Models",
+    "author": "Corey Hoffstein",
+    "feed_url": "https://feeds.captivate.fm/flirting-with-models/",
+    "web_url": "http://www.flirtingwithmodels.com/"
+  },
+  {
+    "uuid": "9F050F95-B7B1-4852-981A-89CCCF9CF6C9",
+    "title": "In Good Company with Nicolai Tangen",
+    "author": "Norges Bank Investment Management",
+    "feed_url": "https://feeds.acast.com/public/shows/622618c7057f3400120d15db",
+    "web_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen"
+  },
+  {
+    "uuid": "2643D04C-DF03-46DB-B787-7C03B40A0EBD",
+    "title": "Invest Like the Best with Patrick O'Shaughnessy",
+    "author": "Colossus | Investing & Business Podcasts",
+    "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+    "web_url": "https://colossus.com/"
+  },
+  {
+    "uuid": "FA10230E-057D-471D-BA29-F2F61B01EC54",
+    "title": "Latent Space: The AI Engineer Podcast",
+    "author": "Latent.Space",
+    "feed_url": "https://rss.flightcast.com/vgnxzgiwwzwke85ym53fjnzu.xml",
+    "web_url": "https://www.latent.space/podcast"
+  },
+  {
+    "uuid": "3D810589-BAE1-4879-8AA1-5B23EAEC6DE5",
+    "title": "Lenny's Podcast: Product | Career | Growth",
+    "author": "Lenny Rachitsky",
+    "feed_url": "https://api.substack.com/feed/podcast/10845.rss",
+    "web_url": "https://www.lennysnewsletter.com/podcast"
+  },
+  {
+    "uuid": "459F9D6E-EE97-416C-84FC-BC8368A96160",
+    "title": "Lex Fridman Podcast",
+    "author": "Lex Fridman",
+    "feed_url": "https://lexfridman.com/feed/podcast/",
+    "web_url": "https://lexfridman.com/"
+  },
+  {
+    "uuid": "CCF1F22B-712F-42ED-B2C1-BCA982FE0A05",
+    "title": "Masters in Business",
+    "author": "Bloomberg",
+    "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/5873a3cb-298f-40bc-b71f-ae2b0013000d/podcast.rss",
+    "web_url": "https://www.bloomberg.com/audio/shows"
+  },
+  {
+    "uuid": "7842E11D-66C2-493B-BC4C-8B305FEF834B",
+    "title": "Money Stuff: The Podcast",
+    "author": "Bloomberg",
+    "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ee4336cb-155f-4488-90e0-b1400134e40e/77e6a3a7-290d-4a82-8164-b14001353ef2/podcast.rss",
+    "web_url": "https://www.iheart.com/podcast/164725399"
+  },
+  {
+    "uuid": "F9BF48E9-0D97-4A72-97EE-EBFEFD64B284",
+    "title": "Odd Lots",
+    "author": "Bloomberg",
+    "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
+    "web_url": "https://bloomberg.com/podcasts/odd_lots"
+  },
+  {
+    "uuid": "E3676CFA-F125-4E1D-A9C3-8DB9557A1920",
+    "title": "Philosophize This!",
+    "author": "Stephen West",
+    "feed_url": "https://feeds.megaphone.fm/QCD6036500916",
+    "web_url": "http://www.philosophizethis.org"
+  },
+  {
+    "uuid": "EA69932E-25C7-4E01-AD49-BBB39E0EDC9B",
+    "title": "RiskReversal Pod",
+    "author": "RiskReversal Media",
+    "feed_url": "https://feeds.megaphone.fm/RRM5151570998",
+    "web_url": "https://riskreversal.com/"
+  },
+  {
+    "uuid": "1E78A2D9-E274-468A-A5CD-55ECFE0E2D6E",
+    "title": "Sold a Story",
+    "author": "APM Reports",
+    "feed_url": "https://feeds.publicradio.org/public_feeds/sold-a-story",
+    "web_url": "https://features.apmreports.org/sold-a-story/"
+  },
+  {
+    "uuid": "0350E113-CD1F-4F72-B72A-F38F955175FD",
+    "title": "StarTalk Radio",
+    "author": "Neil deGrasse Tyson",
+    "feed_url": "https://feeds.simplecast.com/4T39_jAj",
+    "web_url": "siriusxm.com"
+  },
+  {
+    "uuid": "63B1FE55-2C74-455F-8F44-49F1712060C1",
+    "title": "Sticky Notes: The Classical Music Podcast",
+    "author": "Joshua Weilerstein",
+    "feed_url": "https://stickynotespodcast.libsyn.com/rss",
+    "web_url": "http://stickynotespodcast.libsyn.com/"
+  },
+  {
+    "uuid": "99C8ADC1-F23A-418D-9B4A-2A469B18BD6D",
+    "title": "Strategic Alternatives",
+    "author": "RBC Capital Markets",
+    "feed_url": "https://feeds.captivate.fm/strategic-alternatives/",
+    "web_url": "https://strategic-alternatives.captivate.fm"
+  },
+  {
+    "uuid": "3A7D2BF5-69D0-42E3-87FF-81DF58BCA3EE",
+    "title": "The Compound and Friends",
+    "author": "The Compound",
+    "feed_url": "https://feeds.megaphone.fm/TCP4771071679",
+    "web_url": "https://thereformedbroker.com/podcast/"
+  },
+  {
+    "uuid": "B37BE105-ECAF-43AD-902E-04094B9B1892",
+    "title": "The Edge",
+    "author": "California magazine",
+    "feed_url": "https://feeds.buzzsprout.com/1074376.rss",
+    "web_url": "https://alumni.berkeley.edu/california-magazine/the-edge-podcast/"
+  },
+  {
+    "uuid": "D715D279-B51D-40EE-9563-DBEBBD1CA1FA",
+    "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+    "author": "The Investor's Podcast Network",
+    "feed_url": "https://feeds.megaphone.fm/PPLLC8974708240",
+    "web_url": "https://www.theinvestorspodcast.com"
+  },
+  {
+    "uuid": "71065972-B9D7-4C7D-BC93-4845042EBB48",
+    "title": "The Master Investor Podcast with Wilfred Frost",
+    "author": "Paradine Productions",
+    "feed_url": "https://feed.podbean.com/TheMasterInvestorPodcast/feed.xml",
+    "web_url": "https://TheMasterInvestorPodcast.podbean.com"
+  },
+  {
+    "uuid": "76D260EB-03E5-4C44-A116-A860E3F1893C",
+    "title": "The Meb Faber Show - Better Investing",
+    "author": "The Idea Farm",
+    "feed_url": "https://feeds.megaphone.fm/TIFM6133783130",
+    "web_url": "https://www.themebfabershow.com/"
+  },
+  {
+    "uuid": "F737619E-C680-4C10-BB71-1201E983B27D",
+    "title": "The Memo by Howard Marks",
+    "author": "Oaktree Capital Management",
+    "feed_url": "https://rss.art19.com/the-memo-by-howard-marks",
+    "web_url": "https://art19.com/shows/the-memo-by-howard-marks"
+  },
+  {
+    "uuid": "AA485E61-B350-409D-A1E7-AD5ACD121B6C",
+    "title": "The Rest Is History",
+    "author": "Goalhanger",
+    "feed_url": "https://feeds.megaphone.fm/GLT4787413333",
+    "web_url": "http://therestishistory.com"
+  },
+  {
+    "uuid": "E3B8D986-C58B-4424-9B2D-CF6D0126A360",
+    "title": "Training Data",
+    "author": "Sequoia Capital",
+    "feed_url": "https://feeds.megaphone.fm/trainingdata",
+    "web_url": "https://www.sequoiacap.com/"
+  },
+  {
+    "uuid": "938ABD4D-C6D1-4BEF-AC39-3D5E6051038F",
+    "title": "Unchained",
+    "author": "Laura Shin",
+    "feed_url": "https://feeds.megaphone.fm/LSHML4761942757",
+    "web_url": "https://unchainedcrypto.com"
+  },
+  {
+    "uuid": "BF118F16-577E-4A7A-9BFF-8FE53EA104D2",
+    "title": "Wiser World",
+    "author": "Cloud10",
+    "feed_url": "https://feeds.megaphone.fm/wiserworld",
+    "web_url": "https://www.wiserworld.com"
+  },
+  {
+    "uuid": "A41F5F19-F649-4AEB-8BC9-C79BB1D025BC",
+    "title": "李诞",
+    "author": "李诞",
+    "feed_url": "https://feed.xyzfm.space/l3c8em3l8hfn",
+    "web_url": "https://www.xiaoyuzhoufm.com/podcast/65bb55f6513a776b57dedb32?utm_source=rss"
+  },
+  {
+    "uuid": "3BF66B90-581D-44F8-BADE-4F4B69CE260B",
+    "title": "硅谷101",
+    "author": "硅谷101",
+    "feed_url": "https://feeds.fireside.fm/sv101/rss",
+    "web_url": "https://sv101.fireside.fm"
+  },
+  {
+    "uuid": "8A742284-4CF1-45A7-86E8-08B83A66C36F",
+    "title": "蒋方舟·一寸",
+    "author": "蒋方舟",
+    "feed_url": "https://api.vistopia.com.cn/rss/program/403.xml",
+    "web_url": "https://api.vistopia.com.cn/rss/program/403.xml"
+  },
+  {
+    "uuid": "7055F50C-5C3E-4B84-BB67-4CDD6C28C0E4",
+    "title": "西西弗高速",
+    "author": "西西弗高速",
+    "feed_url": "https://feed.xyzfm.space/76evp7fxkeu8",
+    "web_url": "https://www.xiaoyuzhoufm.com/podcast/665c17db078f60650296f455?utm_source=rss"
+  }
+]
