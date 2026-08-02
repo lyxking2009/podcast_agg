@@ -1,0 +1,60 @@
+---
+title: "Zcash, Ethereum, Aztec, Canton and More: Which Chain Will Win the Privacy Race?"
+show: "Unchained"
+date: 2026-07-31
+transcript_source: youtube_autocaptions
+guid: "d8916386-8d17-11f1-b653-6b265e08db61"
+---
+
+# Zcash, Ethereum, Aztec, Canton and More: Which Chain Will Win the Privacy Race?
+
+**Show:** Unchained
+**Date:** 2026-07-31
+**Transcript source:** youtube_autocaptions
+
+## Key Points
+- Host Laura Shin convenes three guests — Joe Andrews (CEO of Aztec Labs), Jarrad Hope (founder of Logos), and Mert Mumtaz (cofounder and CEO of Helius) — to debate why privacy is suddenly gaining momentum across crypto: Zcash's resurgence from top-100 to top-10 by market cap, Monero's boost, Ethereum's newly announced privacy roadmap, NEAR's confidential transactions, and Canton drawing institutional interest.
+- Jarrad Hope frames privacy through "transaction cost economics": a blockchain isn't just selling block space, it's selling "credible commitments" (motivational vs. imperative), and most of crypto's bad reputation stems from motivational commitments made off-chain (centralized exchanges, scams). He argues privacy at each step of a transaction's lifecycle reduces the "hazard" that counterparties or third parties (hackers, states, competitors) can exploit, which in turn unblocks institutional and retail market activity that currently avoids public chains.
+- Mert Mumtaz describes two personal interests in privacy: (1) Zcash represents completing Bitcoin's unfinished promise — cryptographic money that is actually private, not merely "traceable digital gold" as Bitcoin's own account bio states — and (2) privacy as a scaling technology for finance, since institutions cannot move meaningful volume on-chain when loan books and counterparties are fully exposed. He is building a ZK privacy protocol on Solana with Helius to address this.
+- Joe Andrews explains Aztec's origin: founded in 2017-2018 to bring bank-grade loans onto Ethereum, the team found Ethereum lacked the privacy institutions need and spent years building the zero-knowledge proof technology that became Aztec, a privacy-focused Ethereum L2. He frames privacy as both an institutional-adoption unlock and a moral obligation — users deserve at least the privacy they already have with their bank accounts.
+- The group distinguishes two camps of on-chain privacy: privacy through intermediaries (permissioned/trusted-party systems that replicate Web2 trust models) versus privacy through cryptography (which they consider the only "real" or valuable form). All three guests state privacy should benefit "everybody," citing the cipherpunk manifesto's framing of privacy as the ability to selectively disclose, plus civil-liberties, anti-surveillance, and even KYC/AML compliance-cost arguments (Hope: "privacy for the weak and transparency for the powerful").
+- On core mechanics, the panel describes zero-knowledge proofs as the foundational technology — a program proven locally on a device, updating encrypted state upon verification — noting two enablers of the current wave: devices can now prove much more complex programs, and state read/write capacity keeps scaling. Andrews flags interoperability (can Zcash "talk to" Ethereum, or a Solana privacy network to an Ethereum one?) as an open challenge that Ethereum's roadmap aims to help standardize.
+- Extended discussion of the Zcash Orchard pool counterfeiting bug: a vulnerability sat undetected for four years that could have allowed unlimited counterfeit ZEC minting, discovered and disclosed by Taylor at Shielded Labs using frontier AI tooling. Mumtaz explains the fix — a new shielded pool called Ironwood that adds quantum recoverability and uses a "turnstile" mechanism (funds can't exit a pool in aggregate more than entered it) to probabilistically bound and verify that no counterfeiting occurred as ~28% of supply migrates from Orchard to Ironwood. Both the old Orchard code and new Ironwood pool were formally verified across three separate audits after the bug was found, and the panel frames this as evidence that AI-assisted formal verification of ZK circuits will be the next major risk-reduction unlock for cryptographic money.
+- On Zcash's positioning, Mumtaz argues it's "the last PVE" (player-vs-environment) trade in finance — privacy benefits multiple parties simultaneously rather than being zero-sum — and predicts no single winner-take-all asset for digital gold or privacy money. He highlights fungibility (tainted coin histories, e.g., referencing the Canadian trucker protests) and Zcash's post-Ironwood quantum recoverability and scaling (75s to 20s block times, thousands of TPS target) as differentiators from Bitcoin. Andrews counters that Zcash's UX friction as a payment instrument (spread against local currency) makes it better suited to a "digital gold" thesis than as cash; Hope frames it around sound money and fungibility.
+- On Ethereum's privacy roadmap, Andrews calls it very ecosystem-focused and a positive long-term unlock (a coming post-quantum proving system and new state types will make privacy apps far easier to build, reducing the capital Aztec-like teams need to raise) but warns the roadmap is "quite far out," while the current legally-viable form of privacy is largely privacy-through-intermediaries (referencing Tornado Cash's legal fallout) — risking that cryptographic privacy demand isn't proven before the roadmap ships. He argues Ethereum's protocol-level privacy features are complementary to, not competitive with, Aztec, except potentially for native ETH private transfers on L1.
+- On Canton, all three guests are skeptical it represents real privacy: Mumtaz says he doesn't consider Canton "a leader in the privacy space any more than I would consider JP Morgan a leader in the privacy space," since its guarantees rest on trusting a sequencer/counterparty rather than cryptography — achievable without crypto at all. Andrews agrees, calling it "basically a bunch of banks trying to adopt a different tech stack." Hope offers a more measured view: Canton-style institutional adoption could be an early on-ramp that later transitions to cryptographically-secured alternatives once institutions recognize the counterparty risk, though he cautions that "temporary" infrastructure often becomes permanent due to accumulated tech debt and business inertia.
+
+## Overview
+This Unchained livestream episode, hosted by Laura Shin, gathers three privacy-focused builders — Joe Andrews (CEO of Aztec Labs), Jarrad Hope (founder of Logos), and Mert Mumtaz (cofounder and CEO of Helius) — to survey the competitive landscape of blockchain privacy amid a broader 2026 "privacy renaissance": Zcash's rise from top-100 to top-10 by market cap, Monero's gains, Ethereum's newly announced privacy roadmap, NEAR's confidential transactions, and Canton attracting institutional stablecoin activity. Each guest opens by explaining their personal stake in privacy: Hope frames it through cipherpunk history and transaction-cost economics (privacy as a prerequisite for "credible commitments" that unblock market activity); Mumtaz frames it as both completing Bitcoin's unfinished promise of private digital cash and as a scaling technology institutions require before they can move meaningful volume on-chain; Andrews frames it through Aztec's founding story — trying and failing to bring bank-grade loans onto Ethereum without privacy infrastructure, which led to years of building the underlying ZK tech.
+
+The conversation moves through who benefits from on-chain privacy (the consensus: everybody, drawing on the cipherpunk manifesto's "selective disclosure" framing and civil-liberties arguments), then into current technology and applications — zero-knowledge proofs as the shared foundation, Logos's hybrid mixnet/flooding-routing approach to protect both transacting users and validators from traffic analysis (addressing block-relay censorship concerns post-Tornado Cash), and AI-assisted formal verification of ZK circuits as an emerging risk-reduction frontier. A substantial segment covers the Zcash Orchard pool counterfeiting vulnerability — undetected for four years, discovered via AI-assisted auditing, and remediated through the new Ironwood shielded pool, which adds quantum recoverability and a turnstile mechanism to probabilistically verify no counterfeiting occurred as funds migrate. The panel debates whether Zcash is better positioned as "digital gold" or as electronic cash, generally leaning toward the former given payment UX friction.
+
+The episode closes with assessments of Ethereum's privacy roadmap (seen as ecosystem-strengthening and complementary to L2 privacy projects like Aztec, but risky in its long timeline relative to legally-viable privacy options today) and Canton (seen skeptically by all three guests as "privacy through intermediaries" — essentially bank-like trust in a sequencer — rather than genuine cryptographic privacy, though possibly a useful on-ramp for institutions before they migrate to stronger guarantees).
+
+## Implications
+For crypto market participants, the episode signals that the "privacy race" is not a single winner-take-all contest but a segmentation by technology and use case: cryptographic privacy (Zcash, Aztec, Logos-style infrastructure) versus intermediary-based privacy (Canton), with the guests uniformly favoring the former as the only durable, trust-minimized model. The Zcash Orchard bug and its Ironwood remediation illustrate both the real tail-risk in shielded-pool cryptography and a maturing response pattern — rapid AI-assisted discovery, formal verification, and turnstile-based supply auditing — that could become a template for de-risking privacy-preserving monetary assets going forward. For institutional and DeFi participants, the panel's read is that Ethereum's privacy roadmap will lower the cost of building privacy applications over a multi-year horizon, likely benefiting L2 privacy teams like Aztec rather than displacing them, while Canton's institutional traction may prove to be a transitional phase rather than an end state if counterparty-trust risk becomes apparent to the banks and asset managers now adopting it.
+
+## Notable Quotes
+- "I don't consider it a leader in the privacy space any more than I would consider JP Morgan a leader in the privacy space." (Mert Mumtaz, on Canton)
+- "Privacy is not secrecy, rather it is the ability to selectively disclose oneself." (Mert Mumtaz, quoting the cipherpunk manifesto)
+- "Privacy for the weak and transparency for the powerful." (Jarrad Hope)
+- "It's basically a bunch of banks trying to adopt a different tech stack." (Joe Andrews, on Canton)
+- "There can be no undetectable counterfeiting bugs going forward has been formally verified." (Mert Mumtaz, on the Zcash Ironwood upgrade)
+- "It could be too late to actually show that there's meaningful demand for this privacy." (Joe Andrews, on Ethereum's long-horizon privacy roadmap)
+- "The only type of privacy that is legally allowed is privacy through intermediaries." (Joe Andrews)
+- "It's crypto, so you have to be able to verify it." (Mert Mumtaz, on the Zcash counterfeiting bug)
+
+## People Mentioned
+- Laura Shin — Founder, CEO, and Host of Unchained
+- Joe Andrews — CEO of Aztec Labs
+- Jarrad Hope — Founder of Logos
+- Mert Mumtaz — Cofounder and CEO of Helius
+- Zac Williamson — Aztec co-founder (referenced re: Aztec's history)
+- Taylor — researcher at Shielded Labs who discovered and disclosed the Zcash Orchard pool counterfeiting bug
+- Sean Bowe — cited on Twitter regarding formal verification details of the Zcash fix
+- Vitalik Buterin — referenced re: Ethereum's origin as programmable money
+- Satoshi Nakamoto — referenced re: early Bitcoin forum discussion of adding privacy/ZK to Bitcoin
+- Hal Finney — referenced re: early advocacy for anonymity in Bitcoin
+
+## Topics
+crypto privacy, zero-knowledge proofs, Zcash, Ironwood upgrade, Orchard pool bug, Ethereum privacy roadmap, Aztec, Canton, Logos mixnet, formal verification, institutional adoption, cryptographic commitments

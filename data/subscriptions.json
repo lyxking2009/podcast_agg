@@ -42,11 +42,18 @@
     "web_url": "https://www.bg2pod.com"
   },
   {
+    "uuid": "3AFA3056-8946-4C91-A268-889CBFEF826A",
+    "title": "Big Technology Podcast",
+    "author": "Alex Kantrowitz",
+    "feed_url": "https://feeds.megaphone.fm/LI3617121267",
+    "web_url": "https://www.bigtechnology.com/"
+  },
+  {
     "uuid": "B6CFAF42-9F36-431E-95A7-7E44D467EE83",
     "title": "Chalk Radio",
     "author": "MIT OpenCourseWare",
     "feed_url": "https://feeds.simplecast.com/8fQdS6Dx",
-    "web_url": "https://chalk-radio.simplecast.com"
+    "web_url": "https://youtube.com/playlist?list=PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo&si=EyFFz3_dCYezwxzv"
   },
   {
     "uuid": "FA968A31-A5DA-490F-8341-97505005E725",
@@ -61,6 +68,13 @@
     "author": "Dwarkesh Patel",
     "feed_url": "https://api.substack.com/feed/podcast/69345.rss",
     "web_url": "https://www.dwarkesh.com/podcast"
+  },
+  {
+    "uuid": "67CA4321-B741-495F-A5D1-1D5DE53FD83B",
+    "title": "Empire",
+    "author": "Blockworks",
+    "feed_url": "https://feeds.megaphone.fm/empire",
+    "web_url": "https://blockworks.co/podcasts/empire/"
   },
   {
     "uuid": "9E5E9ABA-52B9-49AF-B8FE-1C681322902B",
@@ -112,6 +126,13 @@
     "web_url": "https://lexfridman.com/"
   },
   {
+    "uuid": "BF34487D-6BDF-462E-AD95-81FAFE01BD90",
+    "title": "Machine Learning Street Talk (MLST)",
+    "author": "Machine Learning Street Talk (MLST)",
+    "feed_url": "https://anchor.fm/s/1e4a0eac/podcast/rss",
+    "web_url": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk"
+  },
+  {
     "uuid": "CCF1F22B-712F-42ED-B2C1-BCA982FE0A05",
     "title": "Masters in Business",
     "author": "Bloomberg",
@@ -126,6 +147,13 @@
     "web_url": "https://www.iheart.com/podcast/164725399"
   },
   {
+    "uuid": "019B8427-CD6E-45DD-BD75-8D4BE7F66363",
+    "title": "No Priors: Artificial Intelligence | Technology | Startups",
+    "author": "Conviction",
+    "feed_url": "https://feeds.megaphone.fm/nopriors",
+    "web_url": null
+  },
+  {
     "uuid": "F9BF48E9-0D97-4A72-97EE-EBFEFD64B284",
     "title": "Odd Lots",
     "author": "Bloomberg",
@@ -138,6 +166,13 @@
     "author": "Stephen West",
     "feed_url": "https://feeds.megaphone.fm/QCD6036500916",
     "web_url": "http://www.philosophizethis.org"
+  },
+  {
+    "uuid": "506C399A-A259-4F91-9FF8-92A13D0B26B1",
+    "title": "Practical AI",
+    "author": "Daniel Whitenack and Chris Benson",
+    "feed_url": "https://feeds.transistor.fm/practical-ai-machine-learning-data-science-llm",
+    "web_url": "https://practicalai.show/"
   },
   {
     "uuid": "EA69932E-25C7-4E01-AD49-BBB39E0EDC9B",
@@ -172,7 +207,7 @@
     "title": "Strategic Alternatives",
     "author": "RBC Capital Markets",
     "feed_url": "https://feeds.captivate.fm/strategic-alternatives/",
-    "web_url": "https://strategic-alternatives.captivate.fm"
+    "web_url": "https://www.rbccm.com/strategicalternatives"
   },
   {
     "uuid": "3A7D2BF5-69D0-42E3-87FF-81DF58BCA3EE",
@@ -190,7 +225,7 @@
   },
   {
     "uuid": "D715D279-B51D-40EE-9563-DBEBBD1CA1FA",
-    "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+    "title": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
     "author": "The Investor's Podcast Network",
     "feed_url": "https://feeds.megaphone.fm/PPLLC8974708240",
     "web_url": "https://www.theinvestorspodcast.com"
@@ -217,11 +252,32 @@
     "web_url": "https://art19.com/shows/the-memo-by-howard-marks"
   },
   {
+    "uuid": "8659FAC4-8677-4F8A-8566-5C38FE86676A",
+    "title": "The Peter McCormack Show",
+    "author": "Peter McCormack",
+    "feed_url": "https://feeds.acast.com/public/shows/69d4f193b76468caacc5068f",
+    "web_url": "https://www.petermccormack.com/"
+  },
+  {
+    "uuid": "46D7EB78-CCB0-4A2A-BBFB-2E22469B8FB5",
+    "title": "The Peterman Pod",
+    "author": "Ryan Peterman",
+    "feed_url": "https://anchor.fm/s/106346b90/podcast/rss",
+    "web_url": "https://creators.spotify.com/pod/show/peterman-pod"
+  },
+  {
     "uuid": "AA485E61-B350-409D-A1E7-AD5ACD121B6C",
     "title": "The Rest Is History",
     "author": "Goalhanger",
     "feed_url": "https://feeds.megaphone.fm/GLT4787413333",
     "web_url": "http://therestishistory.com"
+  },
+  {
+    "uuid": "A88B4A8A-7D18-4FEE-90F1-FB79D0E3D198",
+    "title": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)",
+    "author": "Sam Charrington",
+    "feed_url": "https://feeds.megaphone.fm/MLN2155636147",
+    "web_url": "https://twimlai.com"
   },
   {
     "uuid": "E3B8D986-C58B-4424-9B2D-CF6D0126A360",
@@ -245,30 +301,30 @@
     "web_url": "https://www.wiserworld.com"
   },
   {
+    "uuid": "BDBF12E6-2D28-4AB6-A2DD-D3DD4D07C1B8",
+    "title": "Y Combinator Startup Podcast",
+    "author": "Y Combinator",
+    "feed_url": "https://anchor.fm/s/8c1524bc/podcast/rss",
+    "web_url": "http://www.ycombinator.com"
+  },
+  {
     "uuid": "A41F5F19-F649-4AEB-8BC9-C79BB1D025BC",
-    "title": "李诞",
-    "author": "李诞",
+    "title": "\u674e\u8bde",
+    "author": "\u674e\u8bde",
     "feed_url": "https://feed.xyzfm.space/l3c8em3l8hfn",
     "web_url": "https://www.xiaoyuzhoufm.com/podcast/65bb55f6513a776b57dedb32?utm_source=rss"
   },
   {
     "uuid": "3BF66B90-581D-44F8-BADE-4F4B69CE260B",
-    "title": "硅谷101",
-    "author": "硅谷101",
+    "title": "\u7845\u8c37101",
+    "author": "\u7845\u8c37101",
     "feed_url": "https://feeds.fireside.fm/sv101/rss",
     "web_url": "https://sv101.fireside.fm"
   },
   {
-    "uuid": "8A742284-4CF1-45A7-86E8-08B83A66C36F",
-    "title": "蒋方舟·一寸",
-    "author": "蒋方舟",
-    "feed_url": "https://api.vistopia.com.cn/rss/program/403.xml",
-    "web_url": "https://api.vistopia.com.cn/rss/program/403.xml"
-  },
-  {
     "uuid": "7055F50C-5C3E-4B84-BB67-4CDD6C28C0E4",
-    "title": "西西弗高速",
-    "author": "西西弗高速",
+    "title": "\u897f\u897f\u5f17\u9ad8\u901f",
+    "author": "\u897f\u897f\u5f17\u9ad8\u901f",
     "feed_url": "https://feed.xyzfm.space/76evp7fxkeu8",
     "web_url": "https://www.xiaoyuzhoufm.com/podcast/665c17db078f60650296f455?utm_source=rss"
   }
