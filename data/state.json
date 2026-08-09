@@ -1,6 +1,6 @@
 {
   "last_run_date": "2026-08-09",
-  "last_run_completed_at": "2026-08-09T22:14:19Z",
+  "last_run_completed_at": "2026-08-09T22:15:38Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -3558,8 +3558,23 @@
     },
     "substack:post:209025209": {
       "date": "2026-08-09",
-      "transcript_source": "web",
+      "transcript_source": "youtube_autocaptions",
       "show": "Lenny's Podcast: Product | Career | Growth"
+    },
+    "ea283f31-8b41-42a8-9147-b49f01293e32": {
+      "date": "2026-08-09",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "ce7d70f2-9284-11f1-9a81-138b573a4a54": {
+      "date": "2026-08-09",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Investor's Podcast (We Study Billionaires)"
+    },
+    "49a7689a-938f-11f1-be9d-97d71a92ea8f": {
+      "date": "2026-08-09",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
     }
   },
   "failures": [
@@ -4137,14 +4152,6 @@
       "title": "#199 - Aubrey de Grey - The Man Who Says Ageing Can Be Cured",
       "reason": "Matching YouTube video found (video v6X6LZscBAw, duration matches) with auto-captions confirmed present, but caption retrieval was blocked by IP-level rate-limiting (HTTP 429) across curl, yt-dlp (multiple player clients), youtube-transcript-api, and browser automation (Cloudflare-gated mirrors). No transcript published elsewhere for this brand-new episode.",
       "first_seen": "2026-08-06",
-      "attempts": 1
-    },
-    {
-      "guid": "ea283f31-8b41-42a8-9147-b49f01293e32",
-      "title": "Introducing: Our Town",
-      "reason": "Transcript is incomplete; only a promotional trailer was provided, not a full episode.",
-      "first_seen": "2026-08-09",
-      "show": "Odd Lots",
       "attempts": 1
     }
   ]
