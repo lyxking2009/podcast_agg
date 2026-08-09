@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-08-02",
-  "last_run_completed_at": "2026-08-02T21:18:45Z",
+  "last_run_date": "2026-08-09",
+  "last_run_completed_at": "2026-08-09T22:14:19Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -860,7 +860,7 @@
     "338add54-5b12-11f1-b3cc-97c2839c1c63": {
       "date": "2026-05-31",
       "transcript_source": "web_podscripts",
-      "show": "The Investor's Podcast (We Study Billionaires) \u2014 The Investor's Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires) — The Investor's Podcast Network"
     },
     "8e8dfaac-5d37-11f1-97a8-03d1c644b93e": {
       "date": "2026-05-31",
@@ -1073,7 +1073,7 @@
       "date": "2026-06-04",
       "transcript_source": "web",
       "show": "Latent Space: The AI Engineer Podcast",
-      "episode_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs"
+      "episode_title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs"
     },
     "web_search_fallback:the-edge:2026-06-04": {
       "date": "2026-06-04",
@@ -1096,7 +1096,7 @@
       "date": "2026-06-04",
       "transcript_source": "web_search_fallback",
       "show": "Latent Space: The AI Engineer Podcast",
-      "episode_title": "The modern AI Drone tech stack \u2014 Yaroslav Azhnyuk, The Fourth Law"
+      "episode_title": "The modern AI Drone tech stack — Yaroslav Azhnyuk, The Fourth Law"
     },
     "8118c9de-60d8-11f1-8396-f304a5cefb39": {
       "date": "2026-06-05",
@@ -1401,7 +1401,7 @@
     "259291f5-2715-4dde-bcfe-b5beb4df5793": {
       "date": "2026-06-12",
       "transcript_source": "skipped_no_transcript",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "substack:post:198591984": {
       "date": "2026-06-14",
@@ -2259,7 +2259,7 @@
       "transcript_source": "web_search_fallback_paywalled",
       "show": "Bankless",
       "episode_title": "The Rise of Robinhood Chain: Tokenized Stocks, Perps, and 27M Users | Johann Kerbrat",
-      "note": "Early Access episode \u2014 Bankless Premium only, no transcript accessible"
+      "note": "Early Access episode — Bankless Premium only, no transcript accessible"
     },
     "web_search_fallback:latent-space:2026-07-05": {
       "date": "2026-07-05",
@@ -2309,7 +2309,7 @@
     "6a4b85b52e335a35a80eec92": {
       "date": "2026-07-06",
       "transcript_source": "web",
-      "show": "\u897f\u897f\u5f17\u9ad8\u901f"
+      "show": "西西弗高速"
     },
     "web_search_fallback:bankless:2026-07-06": {
       "date": "2026-07-06",
@@ -2776,7 +2776,7 @@
     "c7f51890-7fef-11f1-b70c-8b92740a4dcd": {
       "date": "2026-07-16",
       "transcript_source": "web-summary",
-      "show": "The Investor\u2019s Podcast (We Study Billionaires)"
+      "show": "The Investor’s Podcast (We Study Billionaires)"
     },
     "web_search_fallback:bankless:2026-07-16": {
       "date": "2026-07-16",
@@ -3313,6 +3313,253 @@
     "substack:post:209025231": {
       "date": "2026-08-02",
       "transcript_source": "youtube_autocaptions"
+    },
+    "f7d553c8-8b1f-11f1-95f3-331195b68540": {
+      "date": "2026-08-02",
+      "transcript_source": "web"
+    },
+    "substack:post:209664458": {
+      "date": "2026-08-03",
+      "transcript_source": "web",
+      "show": "Dwarkesh Podcast"
+    },
+    "9f77c183-6628-4b52-92cb-35891275bc02": {
+      "date": "2026-08-03",
+      "transcript_source": "web",
+      "show": "Flirting with Models"
+    },
+    "6ea24954-06b5-4daa-a250-b4980120947f": {
+      "date": "2026-08-03",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "3a2b2d44-8cef-11f1-9ce5-d371b6be301f": {
+      "date": "2026-08-03",
+      "transcript_source": "youtube_autocaptions",
+      "show": "RiskReversal Pod"
+    },
+    "TheMasterInvestorPodcast.podbean.com/27d818d8-61a9-3275-babc-69d05e86ce79": {
+      "date": "2026-08-03",
+      "transcript_source": "show_notes",
+      "show": "The Master Investor Podcast with Wilfred Frost"
+    },
+    "2f1ded6c-baab-45fa-9013-305a1af797ed": {
+      "date": "2026-08-03",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peterman Pod"
+    },
+    "b066c2cb-275d-4871-afd8-23795863b668": {
+      "date": "2026-08-03",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "61be3b50-8478-11f1-95d5-b35334592e1a": {
+      "date": "2026-08-05",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Animal Spirits Podcast"
+    },
+    "14458ec8-8ced-11f1-8276-7f6e540015d3": {
+      "date": "2026-08-05",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Big Technology Podcast"
+    },
+    "6a71bfff2031aa1a283a1af9": {
+      "date": "2026-08-05",
+      "transcript_source": "youtube_autocaptions",
+      "show": "In Good Company with Nicolai Tangen"
+    },
+    "c8fca7de-8f77-11f1-ae96-ab857574605f": {
+      "date": "2026-08-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy"
+    },
+    "3763bff8-ffa3-4c9c-89ef-b49d01588b52": {
+      "date": "2026-08-05",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business"
+    },
+    "ec3aaf82-8ff6-11f1-bd9d-27ad16bd3656": {
+      "date": "2026-08-05",
+      "transcript_source": "youtube_autocaptions",
+      "show": "RiskReversal Pod"
+    },
+    "84aa2d12-8f69-11f1-8f14-9b5c22d5309c": {
+      "date": "2026-08-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "RiskReversal Pod"
+    },
+    "82663d80-903f-11f1-817f-ebdaba5b1af3": {
+      "date": "2026-08-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Compound and Friends"
+    },
+    "6a71de75e9d2c023deb828b7": {
+      "date": "2026-08-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peter McCormack Show"
+    },
+    "00198340-89dd-11f1-8519-5f4366a34437": {
+      "date": "2026-08-04",
+      "transcript_source": "web",
+      "show": "Training Data"
+    },
+    "1bed1828-9060-11f1-b8bd-f7b7a2f40246": {
+      "date": "2026-08-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "22ad1f48-170f-42b8-81bf-e7b2fc3186c4": {
+      "date": "2026-08-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "6c9d13b1-ac9a-4a7a-a35b-99bfb8374668": {
+      "date": "2026-08-04",
+      "transcript_source": "web",
+      "show": "硅谷101"
+    },
+    "web_search_fallback:bankless:2026-08-05-kalshi": {
+      "date": "2026-08-05",
+      "transcript_source": "web_search_fallback",
+      "show": "Bankless",
+      "episode_title": "EARLY ACCESS - \"We Want to Be Bigger Than the CME\" | Kalshi's John Wang"
+    },
+    "web_search_fallback:bankless:2026-08-05-ansem": {
+      "date": "2026-08-05",
+      "transcript_source": "web_search_fallback",
+      "show": "Bankless",
+      "episode_title": "$ANSEM, Robinhood Chain, & Why SOL Still Beats ETH in 2026 | Mike Dudas"
+    },
+    "web_search_fallback:chalk-radio:2026-08-05": {
+      "date": "2026-08-05",
+      "transcript_source": "web_search_fallback_not_found",
+      "show": "Chalk Radio"
+    },
+    "web_search_fallback:critics-at-large:2026-08-05": {
+      "date": "2026-08-05",
+      "transcript_source": "web_search_fallback_not_found",
+      "show": "Critics at Large | The New Yorker"
+    },
+    "web_search_fallback:latent-space:2026-08-05": {
+      "date": "2026-08-05",
+      "transcript_source": "web_search_fallback_not_found",
+      "show": "Latent Space: The AI Engineer Podcast"
+    },
+    "web_search_fallback:the-edge:2026-08-05": {
+      "date": "2026-08-05",
+      "transcript_source": "web_search_fallback_not_found",
+      "show": "The Edge"
+    },
+    "09ad45b2-ee9c-4482-8700-b49d0161d97f": {
+      "date": "2026-08-06",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "b3360d48-183d-45f8-a014-8bb44ce160b4": {
+      "date": "2026-08-06",
+      "transcript_source": "rss_vtt",
+      "show": "Practical AI"
+    },
+    "ae1428e6-9127-11f1-8fef-8fd87b013512": {
+      "date": "2026-08-06",
+      "transcript_source": "show_notes",
+      "show": "Unchained"
+    },
+    "f5281bc8-9147-11f1-90f5-5783ac069008": {
+      "date": "2026-08-06",
+      "transcript_source": "show_notes",
+      "show": "Unchained"
+    },
+    "02224345-369f-4e8d-acc7-63b6539c4702": {
+      "date": "2026-08-06",
+      "transcript_source": "substack",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "web_search_fallback:critics-at-large:2026-08-06": {
+      "date": "2026-08-06",
+      "transcript_source": "web_search_fallback",
+      "show": "Critics at Large | The New Yorker",
+      "episode_title": "Critics' Cult Classics: Hanif Abdurraqib on Camp Lo's Uptown Saturday Night"
+    },
+    "substack:post:210233020": {
+      "date": "2026-08-07",
+      "transcript_source": "web",
+      "show": "Dwarkesh Podcast"
+    },
+    "01742c6a-91dd-11f1-85fc-c34b2e4013d6": {
+      "date": "2026-08-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire"
+    },
+    "9667b0b4-4f82-4654-a91a-b49e0184eae4": {
+      "date": "2026-08-07",
+      "transcript_source": "rss_omny_srt",
+      "show": "Everybody's Business"
+    },
+    "6a73c41daa557e62dcdfd3e1": {
+      "date": "2026-08-07",
+      "transcript_source": "show_notes",
+      "show": "In Good Company with Nicolai Tangen"
+    },
+    "be72ae5d-2e71-4985-a5bc-b49f013b8fc6": {
+      "date": "2026-08-07",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business"
+    },
+    "253af1b0-6485-46c3-b506-b49e01625633": {
+      "date": "2026-08-07",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "7171978e-91c2-11f1-b46c-8fb08fa4d654": {
+      "date": "2026-08-07",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod"
+    },
+    "04e910c7-bd39-416e-a896-22e046d1715d": {
+      "date": "2026-08-07",
+      "transcript_source": "show_notes",
+      "show": "StarTalk Radio"
+    },
+    "6c474906-8480-11f1-81e6-d79f625c8f35": {
+      "date": "2026-08-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Compound and Friends"
+    },
+    "95a325e6-8448-11f1-9558-43cd3a93042f": {
+      "date": "2026-08-07",
+      "transcript_source": "web",
+      "show": "The Meb Faber Show - Better Investing"
+    },
+    "0c1a1150-9289-11f1-bf33-e3697544f1ef": {
+      "date": "2026-08-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "d7147fc1-dcbb-4fcb-a266-3ce289764f9f": {
+      "date": "2026-08-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "https://www.bankless.com/podcast/rollup-the-eth-issuance-war-130m-coldcard-exploit-saylor-sells-again-uniswap-launchpad": {
+      "date": "2026-08-07",
+      "transcript_source": "web_search_fallback",
+      "show": "Bankless"
+    },
+    "d8300568-92b8-11f1-8c78-274048ed4432": {
+      "date": "2026-08-08",
+      "transcript_source": "show_notes",
+      "show": "Big Technology Podcast"
+    },
+    "51e5760a-931c-11f1-a893-c3a484f74cbe": {
+      "date": "2026-08-08",
+      "transcript_source": "show_notes",
+      "show": "Philosophize This!"
+    },
+    "substack:post:209025209": {
+      "date": "2026-08-09",
+      "transcript_source": "web",
+      "show": "Lenny's Podcast: Product | Career | Growth"
     }
   },
   "failures": [
@@ -3332,7 +3579,7 @@
     },
     {
       "guid": "db567f94-f8b7-4c3a-9854-8ef474661feb",
-      "title": "\"Finding Satoshi\"\u2014How a Private Investigator Solved the Mystery of Bitcoin's Creator | Bill Cohan & Tyler Maroney",
+      "title": "\"Finding Satoshi\"—How a Private Investigator Solved the Mystery of Bitcoin's Creator | Bill Cohan & Tyler Maroney",
       "reason": "parsing summary JSON: {  \"tldr\": null,  \"key_points\": null,  \"notable_quotes\": null,  \"people_mentioned\": null,  \"topics\": null,  \"error\": \"Transcript is not a full transcript; only an outline with timestamps and promotional material is provided.\"}",
       "first_seen": "2026-05-04",
       "attempts": 1
@@ -3367,7 +3614,7 @@
     },
     {
       "guid": "c62404c3-837e-4c17-bdbd-8893edc035cd",
-      "title": "Cosmic Queries \u2013 Starquakes with Conny Aerts",
+      "title": "Cosmic Queries – Starquakes with Conny Aerts",
       "reason": "parsing summary JSON: {  \"tldr\": null,  \"key_points\": null,  \"notable_quotes\": null,  \"people_mentioned\": null,  \"topics\": null,  \"error\": \"Transcript incomplete and too short to summarize (length < 200 words).\"}",
       "first_seen": "2026-05-08",
       "attempts": 1
@@ -3486,7 +3733,7 @@
     },
     {
       "guid": "4b081434-b581-4698-89e5-0da4b7b1f12e",
-      "title": "Schubert: Die Sch\u00f6ne Mullerin Mini-Episode No. 1 (Free Preview)",
+      "title": "Schubert: Die Schöne Mullerin Mini-Episode No. 1 (Free Preview)",
       "reason": "parsing summary JSON: {  \"tldr\": null,  \"key_points\": null,  \"notable_quotes\": null,  \"people_mentioned\": null,  \"topics\": null,  \"content_warnings\": null,  \"error\": \"Transcript is fewer than 200 words and is a preview, not a full episode.\"}",
       "first_seen": "2026-05-08",
       "attempts": 1
@@ -3501,7 +3748,7 @@
     {
       "guid": "substack:post:196468137",
       "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
-      "reason": "Transcript paywalled behind Substack \u2014 no public transcript available",
+      "reason": "Transcript paywalled behind Substack — no public transcript available",
       "first_seen": "2026-05-10",
       "attempts": 1
     },
@@ -3528,7 +3775,7 @@
     },
     {
       "guid": "1ad4a324-0c27-43fd-b451-b4394faf8e82",
-      "title": "John Gu \u2013 Crypto Market Making",
+      "title": "John Gu – Crypto Market Making",
       "reason": "No transcript source found",
       "first_seen": "2026-05-11",
       "attempts": 1
@@ -3550,7 +3797,7 @@
     {
       "guid": "b071c148-4c08-11f1-a608-c3028bde68e1",
       "title": "91. Eight Qualities of a Peacemaker: What I've Learned as a Student of Peacemaking",
-      "reason": "No transcript found \u2014 not available on Apple Podcasts page, not on YouTube, podcast website has no transcript for this episode",
+      "reason": "No transcript found — not available on Apple Podcasts page, not on YouTube, podcast website has no transcript for this episode",
       "first_seen": "2026-05-13",
       "attempts": 1
     },
@@ -3563,36 +3810,36 @@
     },
     {
       "guid": "27d52ebe-ddbb-4402-98db-27011c4b5a16",
-      "title": "Bonus Episode: Beethoven 5 en fran\u00e7ais!",
-      "reason": "Skipped \u2014 French classical music podcast, non-English",
+      "title": "Bonus Episode: Beethoven 5 en français!",
+      "reason": "Skipped — French classical music podcast, non-English",
       "first_seen": "2026-05-15",
       "attempts": 1
     },
     {
       "guid": "f2a37050-4f43-11f1-abd4-5b429f429528",
-      "title": "Tom Lee: The Market Can Climb Higher\u2014But Expect Turbulence | #630",
-      "reason": "No transcript source found \u2014 audio-only episode, no YouTube upload available yet",
+      "title": "Tom Lee: The Market Can Climb Higher—But Expect Turbulence | #630",
+      "reason": "No transcript source found — audio-only episode, no YouTube upload available yet",
       "first_seen": "2026-05-15",
       "attempts": 1
     },
     {
       "guid": "666a8252-603e-11f1-99de-135c737a61e4",
       "title": "America's Trillion-Dollar Race to Catch Chinese Miners with Brian Paes-Braga",
-      "reason": "No transcript available \u2014 Megaphone audio-only, no YouTube/web transcript found",
+      "reason": "No transcript available — Megaphone audio-only, no YouTube/web transcript found",
       "first_seen": "2026-06-05",
       "attempts": 1
     },
     {
       "guid": "5917a07f-52b0-4ecb-ba6e-e57f7cc0e106",
       "title": "Physics & Philosophy with Sean Carroll",
-      "reason": "No transcript available \u2014 Simplecast audio-only, no YouTube/web transcript found",
+      "reason": "No transcript available — Simplecast audio-only, no YouTube/web transcript found",
       "first_seen": "2026-06-05",
       "attempts": 1
     },
     {
       "guid": "027c3430-6114-11f1-9f97-7768ee497a43",
       "title": "Is Polymarket's Oracle Problem Getting Out of Hand? - Uneasy Money",
-      "reason": "No transcript available \u2014 Megaphone audio-only, no YouTube/web transcript found",
+      "reason": "No transcript available — Megaphone audio-only, no YouTube/web transcript found",
       "first_seen": "2026-06-05",
       "attempts": 1
     },
@@ -3630,10 +3877,10 @@
     },
     {
       "guid": "47b7778e-1ed6-4dab-b7c9-8b4a6555b867",
-      "title": "E240\uff5cOpenAI\u8054\u624bPE\u7838\u4e0b40\u4ebf\u7f8e\u5143\uff0c\u804a\u804a\u7845\u8c37\u6700\u706b\u65b0\u804c\u4f4dFDE",
+      "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
       "reason": "no_transcript_found",
       "first_seen": "2026-06-17",
-      "show": "\u7845\u8c37101",
+      "show": "硅谷101",
       "attempts": 1
     },
     {
@@ -3782,10 +4029,10 @@
     },
     {
       "guid": "5aeaeb64-9165-4271-9884-23329b511e11",
-      "title": "E245\uff5c\u85cf\u5728\u5927\u6a21\u578b\u80cc\u540e\u7684\u65b0\u95fb\u4eba",
+      "title": "E245｜藏在大模型背后的新闻人",
       "reason": "no_transcript_found",
       "first_seen": "2026-07-23",
-      "show": "\u7845\u8c37101",
+      "show": "硅谷101",
       "attempts": 1
     },
     {
@@ -3822,7 +4069,7 @@
     },
     {
       "guid": "f8763094-8d19-11f1-bbcb-5bbb7ea893bb",
-      "title": "Leopold Blows Up, OpenAI Drastically Cuts Prices, Microsoft\u2019s Best Day",
+      "title": "Leopold Blows Up, OpenAI Drastically Cuts Prices, Microsoft’s Best Day",
       "reason": "no_transcript_found: episode published ~2 hours before pipeline run, no transcript on bigtechnology.com/substack, podscripts.co, scripod.com, tapesearch.com, Apple Podcasts; no YouTube upload yet",
       "first_seen": "2026-07-31",
       "show": "Big Technology Podcast",
@@ -3837,10 +4084,68 @@
       "attempts": 1
     },
     {
-      "guid": "f7d553c8-8b1f-11f1-95f3-331195b68540",
-      "date": "2026-08-02",
-      "attempts": 1,
-      "transcript_source": "description"
+      "guid": "6f428431-60c1-4353-9e98-46b1f26d63a6",
+      "title": "Cosmic Queries – Planet 9",
+      "reason": "No transcript found via web search (startalkmedia.com, podscripts.co, podscribe.ai/com, happyscribe.com, snipd.com) or YouTube (no matching video uploaded yet — episode published only 1 day before processing).",
+      "first_seen": "2026-08-04",
+      "attempts": 1
+    },
+    {
+      "guid": "59f69546-8f2e-11f1-b7e8-734c9a083d4b",
+      "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+      "reason": "No public transcript found via web search (happyscribe/podscribe/therestishistory.com had no page for this episode). The only YouTube upload found is members-only early access content; both youtube-transcript-api and yt-dlp auto-sub extraction failed with 'Join this channel to get access to members-only content.'",
+      "first_seen": "2026-08-05",
+      "attempts": 1
+    },
+    {
+      "guid": "8d1ab14c-8fbe-11f1-9074-83a5cc59ebf7",
+      "title": "Should Tokenized Stock Only Come From Issuers? Yes, Says Carlos Domingo",
+      "reason": "Confirmed correct episode (unchainedcrypto.com article + matching YouTube video, duration matches exactly) but no usable transcript: unchainedcrypto.com transcript is gated behind 'Upgrade to Premium'; no results on podscribe.ai/happyscribe.com/snipd.ai; YouTube auto-captions blocked by persistent HTTP 429 IP-rate-limiting across multiple extraction methods.",
+      "first_seen": "2026-08-04",
+      "attempts": 1
+    },
+    {
+      "guid": "68620728-c700-47d3-b21b-fb5911453b6d",
+      "title": "Building the First Data Centers in Space",
+      "reason": "Episode too recent to be indexed by transcript sites (podscribe/happyscribe/snipd) or web search. Found a likely matching YouTube cross-post (video A9JDkiYEhfY, 'The Case for Data Centers in Space', duration matches) but auto-caption download was persistently blocked by HTTP 429 rate-limiting via both youtube-transcript-api and yt-dlp across multiple retries and player clients.",
+      "first_seen": "2026-08-05",
+      "attempts": 1
+    },
+    {
+      "guid": "17b96322-915c-11f1-aad7-53d361bc6996",
+      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad",
+      "reason": "No transcript found via any of the 3 rungs. transcript_url was empty. Web search found no transcript on Metacast, podscripts.co, Apple Podcasts, Spotify, or no-priors.com. YouTube search could not locate the specific video. Only a ~105-word RSS description was available, below the 200-word threshold.",
+      "first_seen": "2026-08-06",
+      "attempts": 1
+    },
+    {
+      "guid": "957c1926-90e9-11f1-9ed1-13281b99ca24",
+      "title": "Nicole Kagan: Empowering Kalshi Through Research",
+      "reason": "Matching YouTube video found (video e8WWXYl9DWw, duration matches) with auto-captions confirmed present, but caption retrieval was blocked by IP-level rate-limiting (HTTP 429 / IpBlocked) across curl, yt-dlp, youtube-transcript-api, and browser automation. No transcript on podscan.fm/metacast.app (403) or caption mirror sites. Only show-notes description available, not a verbatim transcript.",
+      "first_seen": "2026-08-06",
+      "attempts": 1
+    },
+    {
+      "guid": "b41d2792-90a5-11f1-9d9b-ef60b07cb2a8",
+      "title": "TIP836: Exor NV (EXO): The Massive Discount Continues To Widen w/ Kyle Grieve & Shawn O'Malley",
+      "reason": "Official transcript page exists on theinvestorspodcast.com but is login-gated; not yet indexed on podscripts.co (episode published today); no matching YouTube video found on the We Study Billionaires channel.",
+      "first_seen": "2026-08-06",
+      "attempts": 1
+    },
+    {
+      "guid": "6a73c343e188bf946fd27075",
+      "title": "#199 - Aubrey de Grey - The Man Who Says Ageing Can Be Cured",
+      "reason": "Matching YouTube video found (video v6X6LZscBAw, duration matches) with auto-captions confirmed present, but caption retrieval was blocked by IP-level rate-limiting (HTTP 429) across curl, yt-dlp (multiple player clients), youtube-transcript-api, and browser automation (Cloudflare-gated mirrors). No transcript published elsewhere for this brand-new episode.",
+      "first_seen": "2026-08-06",
+      "attempts": 1
+    },
+    {
+      "guid": "ea283f31-8b41-42a8-9147-b49f01293e32",
+      "title": "Introducing: Our Town",
+      "reason": "Transcript is incomplete; only a promotional trailer was provided, not a full episode.",
+      "first_seen": "2026-08-09",
+      "show": "Odd Lots",
+      "attempts": 1
     }
   ]
 }
