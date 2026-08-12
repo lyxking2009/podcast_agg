@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-08-09",
-  "last_run_completed_at": "2026-08-09T22:15:38Z",
+  "last_run_date": "2026-08-12",
+  "last_run_completed_at": "2026-08-12T22:21:29Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -3575,6 +3575,156 @@
       "date": "2026-08-09",
       "transcript_source": "youtube_autocaptions",
       "show": "Unchained"
+    },
+    "37d35612-91f3-11f1-95ce-3b61d2b75f2b": {
+      "date": "2026-08-10",
+      "transcript_source": "show_notes",
+      "show": "Animal Spirits Podcast"
+    },
+    "1dbe41e2-92a2-11f1-a745-675600bce80d": {
+      "date": "2026-08-10",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire"
+    },
+    "f7ff667e-d517-457f-b745-b49f0150c4e6": {
+      "date": "2026-08-10",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "c034bd92-91f9-11f1-a81e-afc3f496654c": {
+      "date": "2026-08-10",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod"
+    },
+    "23d4f7d4-7f6f-4d8e-962f-bef87c981949": {
+      "date": "2026-08-10",
+      "transcript_source": "show_notes",
+      "show": "Strategic Alternatives"
+    },
+    "5b2389e2-94f6-11f1-a687-d74c9e1696c3": {
+      "date": "2026-08-10",
+      "transcript_source": "show_notes",
+      "show": "The Compound and Friends"
+    },
+    "4e8c7a3d-d20e-484e-b9d5-e8f3ce5f7949": {
+      "date": "2026-08-10",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peterman Pod"
+    },
+    "0d5415a0-b084-46df-99f9-67822cedcddd": {
+      "date": "2026-08-10",
+      "transcript_source": "web",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "dc17bee9-e7e2-4c06-afdd-e80244a0e9db": {
+      "date": "2026-08-09",
+      "transcript_source": "web",
+      "show": "Acquired"
+    },
+    "7d61db08-8f2e-11f1-ada3-f3d3fca150a4": {
+      "date": "2026-08-09",
+      "transcript_source": "show_notes",
+      "show": "The Rest Is History"
+    },
+    "bc79d943-e6c0-492a-8df9-f7051b3734fc": {
+      "date": "2026-08-10",
+      "transcript_source": "web",
+      "show": "Machine Learning Street Talk (MLST)"
+    },
+    "9e923c4c-1c87-499b-90a4-9a21cc83e4b1": {
+      "date": "2026-08-10",
+      "transcript_source": "show_notes",
+      "show": "硅谷101"
+    },
+    "substack:post:210737923": {
+      "date": "2026-08-11",
+      "transcript_source": "web_youtube_autocaptions",
+      "show": "Dwarkesh Podcast"
+    },
+    "79312521-c8bf-4d26-803e-b4a2013623cd": {
+      "date": "2026-08-11",
+      "transcript_source": "rss_srt",
+      "show": "Everybody's Business"
+    },
+    "6a77b71ab5c73bab7c7535d0": {
+      "date": "2026-08-11",
+      "transcript_source": "show_notes",
+      "show": "In Good Company with Nicolai Tangen"
+    },
+    "be6f2778-94f0-11f1-8fc8-5fdf34225c7d": {
+      "date": "2026-08-11",
+      "transcript_source": "web",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy"
+    },
+    "aa87a476-c5cc-4173-a01b-f16d685fc812": {
+      "date": "2026-08-11",
+      "transcript_source": "show_notes",
+      "show": "StarTalk Radio"
+    },
+    "9a4df524-95b6-11f1-978b-6b34d7bdf846": {
+      "date": "2026-08-12",
+      "transcript_source": "web_youtube_autocaptions",
+      "show": "The Compound and Friends"
+    },
+    "6a7b2006d6c287f9ee750bd6": {
+      "date": "2026-08-11",
+      "transcript_source": "web_youtube_autocaptions",
+      "show": "The Peter McCormack Show"
+    },
+    "f995195e-95c0-11f1-b386-f333ad2528cc": {
+      "date": "2026-08-12",
+      "transcript_source": "web_youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "4303cc7a-1e19-48f5-9cbc-14f7b9781644": {
+      "date": "2026-08-11",
+      "transcript_source": "web",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "de1b9b26-95b6-11f1-93f0-1fcfd4ca2064": {
+      "date": "2026-08-12",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Animal Spirits Podcast"
+    },
+    "3c12671e-84ff-11f1-8d0e-b707887fefe1": {
+      "date": "2026-08-12",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Big Technology Podcast"
+    },
+    "https://lexfridman.com/?p=6494": {
+      "date": "2026-08-12",
+      "transcript_source": "web_lex_official",
+      "show": "Lex Fridman Podcast"
+    },
+    "4f54bf79-9531-4203-afb7-b4a40138e87e": {
+      "date": "2026-08-12",
+      "transcript_source": "rss_srt",
+      "show": "Masters in Business"
+    },
+    "8034eebc-95ad-11f1-80ab-abf806da9195": {
+      "date": "2026-08-12",
+      "transcript_source": "web_substack",
+      "show": "RiskReversal Pod"
+    },
+    "80ffb7ce-9660-11f1-9f9c-17f32c5891ec": {
+      "date": "2026-08-12",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "3514289e-953f-11f1-9edc-179a413bb578": {
+      "date": "2026-08-12",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Wiser World"
+    },
+    "cbb0afb6-92b0-11f1-b87f-43dc903ebdd0": {
+      "date": "2026-08-12",
+      "transcript_source": "show_notes",
+      "show": "The Meb Faber Show - Better Investing"
+    },
+    "9ca7e710-9676-11f1-aec7-03563e574aa9": {
+      "date": "2026-08-12",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)"
     }
   },
   "failures": [

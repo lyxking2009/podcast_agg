@@ -37,3 +37,9 @@
 - Unchained (34m, Sun Ragupathi — Veda CEO): how onchain vaults work ($67B TVL), the three layers of risk (smart contract / operational / economic), SEC Commissioner Hester Peirce's Howey-test statement on vaults, and the Kraken DeFi Earn partnership ($600M+ across 80K+ users).
 - Concurrent partial run (22:14Z) saw only 2 episodes / 0 feed errors and processed Lenny's; this run's fetch saw 4 episodes / 5 feed errors (transient Megaphone/Flightcast variability). Reconciliation: duplicate Lenny's vault file removed, state merged (3 additional processed entries), stale trailer failure removed.
 - State updated: last_run_date → 2026-08-09; 4 processed entries; 0 new failures (1 stale removed).
+
+
+## Late additions (recovered 2026-08-10 run)
+Two 08-09 episodes were published after this run completed (22:15Z) and were recovered by the 08-10 catch-up:
+- **Acquired — Disney: The Renaissance and the Empire** (~4h20m, web transcript): the 1984 near-breakup, Bass family rescue, Eisner-Wells-Katzenberg turnaround, CalArts pipeline, and the empire-era acquisitions (Pixar, Marvel, Lucasfilm, Fox, ESPN) — [[acquired__disney-the-renaissance-and-the-empire]]
+- **The Rest Is History — 695. Elizabeth I vs The Catholics: The Shadow War (Part 5)** (57m, show notes): Sir Philip Sidney, the 1585 Spanish-invasion danger, and the Tudor Cold War — [[the-rest-is-history__695.-elizabeth-i-vs-the-catholics-the-shadow-war-(part-5)]]
