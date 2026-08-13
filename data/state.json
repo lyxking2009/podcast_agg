@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-08-12",
-  "last_run_completed_at": "2026-08-12T22:21:29Z",
+  "last_run_date": "2026-08-13",
+  "last_run_completed_at": "2026-08-13T23:49:04Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -3725,6 +3725,31 @@
       "date": "2026-08-12",
       "transcript_source": "youtube_autocaptions",
       "show": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)"
+    },
+    "2f8edaf4-9698-11f1-bdc1-eb068382bf86": {
+      "date": "2026-08-13",
+      "transcript_source": "youtube_autocaptions",
+      "show": "No Priors: Artificial Intelligence | Technology | Startups"
+    },
+    "bfd63d35-c7ad-4a5c-a603-b4a400dbfa65": {
+      "date": "2026-08-13",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "501978d8-965c-11f1-8dd0-3b036759508b": {
+      "date": "2026-08-13",
+      "transcript_source": "description",
+      "show": "RiskReversal Pod"
+    },
+    "dc0e79f4-9753-11f1-8797-4369bcc34b47": {
+      "date": "2026-08-13",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "d443b078-a6df-481d-bc26-89dafcd0aa33": {
+      "date": "2026-08-13",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
     }
   },
   "failures": [

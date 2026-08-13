@@ -40,3 +40,12 @@
 - Transcripts: 5 episodes via YouTube auto-captions (Animal Spirits 477, Big Technology w/ Paul Kedrosky, TWIML #773, Unchained Bits+Bips EIP-8361 debate, Wiser World 101). Lex #500 via official lexfridman.com transcript page (episode conducted in Russian, English dub). Masters in Business bonus via Omny SRT from RSS. RiskReversal via Substack post (concurrent run); Meb Faber teaser via show notes (book promo, 13 min).
 - Two episodes (RiskReversal, Meb teaser) initially flagged as all-null error cases by the cron run's description-only fallback, but the concurrent manual run found real sources (Substack transcript / show notes) — reconciled, removed from failures.
 - State updated: last_run_date → 2026-08-12, +9 processed entries, 0 new failures.
+
+
+## Late additions (recovered 2026-08-13)
+
+| Show | Episode | Transcript source | Vault |
+|---|---|---|---|
+| The Rest Is History | 696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6) | show_notes | [[the-rest-is-history__696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6]] |
+
+- Recovered from prior-date re-fetch (published after 08-12 run's RSS fetch). Episode page is description-only — summarized from show notes.
