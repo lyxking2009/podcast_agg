@@ -5,43 +5,37 @@ published: 2026-08-13
 duration: 18m32s
 audio_url: "https://pdrl.fm/98e0b1/traffic.megaphone.fm/LSHML1813057908.mp3"
 episode_url: ""
-transcript_source: youtube_autocaptions
-generated_at: 2026-08-13T23:48:58Z
-model: "deepseek-v4-pro"
+transcript_source: web
+generated_at: 2026-08-13T23:52:18Z
+model: "deepseek-v4-flash"
 guid: "dc0e79f4-9753-11f1-8797-4369bcc34b47"
 ---
 
 # I Interviewed a North Korean Hacker Posing as a Crypto Dev — Unchained
 
 ## TL;DR
-Laura Shin, host of Unchained, conducted an undercover job interview with a North Korean crypto developer posing as a remote worker. The developer, using aliases like Justin Lim and Jikun Liao, demonstrated real technical skills but refused to say anything negative about Kim Jong-un, confirming his likely DPRK affiliation. The episode highlights that asking this simple question can help crypto companies avoid hiring state-sponsored hackers.
+Laura Shin interviews the people behind one of the most audacious counter-intelligence operations in crypto: security researchers who built a fake DeFi protocol called Ballena Azul, advertised developer jobs, and hired three suspected North Korean IT workers — every virtual machine they issued silently recording. Presented at DEF CON 34 by Mauro Eldritch (BCA LTD), Heiner García (NorthScan) and ANY.RUN, the sting revealed how DPRK IT infiltration actually works: AI-generated identity documents (with Gemini processing artifacts and SynthID watermarks), reconnaissance on day one, VPN infrastructure (Astrill), and AI job-application assistants. The episode unpacks the hiring red flags, the operational security of the operatives, and what companies can do to defend against a threat that the July 31 joint government advisory describes as North Korean IT workers remitting salaries to parent agencies. (Summary built from the published DEF CON 34 coverage; same-day episode, no full transcript yet.)
 
 ## Key points
-- North Korean state-sponsored hackers have stolen over $6 billion in crypto, according to Tiramisu Labs estimates.
-- Many prominent crypto companies, including ConsenSys, Cosmos Hub, Phantom, Sushi, and Yearn Finance, have unknowingly hired North Korean IT workers.
-- Taylor Monahan (North Korea security expert) and Nick Bax (of Seal Alliance and Um Labs) helped Laura Shin set up the undercover interview, providing a fake recruiter persona named Sophie Wang.
-- The developer used multiple identities: Justin Lim (claimed English name) and Jikun Liao (likely fake or stolen Chinese surname), with a claimed US address in Long Beach, California.
-- Evidence suggested the developer was actually based in Vladivostok, Russia, a privilege reserved for elite North Korean hackers.
-- He had allegedly stolen about $2.7 million from Metaplay in 2022, indicating he had real crypto development skills.
-- During the interview, the developer demonstrated technical competence: he explained how he forked the Velas network to fix graph node indexing speed, and he pulled up Seaport protocol documentation live to answer questions.
-- When the Bybit hack (North Korea stealing $1.5 billion) was mentioned, the developer showed a faint smile, his only smile during the conversation.
-- When asked to say something negative about Kim Jong-un, the developer first claimed internet instability, then moved the conversation to Telegram, and ultimately refused, saying 'I don't know much' and 'It's quite a special situation and never faced with other teams before.'
-- After the refusal, the interviewer's fake Telegram account (Sophie Wang) was blocked, preventing further communication.
-- The episode concludes that asking a candidate to say something negative about Kim Jong-un is a simple and effective screening question to identify North Korean IT workers and prevent crypto theft funding the regime's nuclear weapons program.
+- The researchers posed as a legitimate employer, built a fake DeFi protocol (Ballena Azul), and hired three people they believe were North Korean operatives through a normal hiring process — interviews, contracts, and company-issued work VMs.
+- Identity-document forensics: the first hire claimed Pasadena, Texas, then sent a California driver's license and a New York bank account; metadata showed the image had been processed with Google Gemini and carried a SynthID watermark (Google's invisible marker on AI-created/edited images). The second supplied a Texas license, a valid SSN and a Kansas City bank account; the third sent a New York license belonging to someone else with a genuine iPhone 15 photo, GPS stripped.
+- Day-one reconnaissance: all three ran dxdiag, systeminfo and wmic to profile their machines and checked the apparent country of their connection; one installed Chrome Remote Desktop and synced his personal Google account to the sandbox, exposing browsing history, saved passwords and extensions, then logged into GitHub on the same machine.
+- Tooling: 2fa.cn was used to pass two-factor codes between operators (December's operation used authenticator.cc and otp.ee); AstrillVPN exit nodes ran throughout; infrastructure sat on Vultr and Gorilla Servers.
+- Their browsers carried AI job-application and interview-assistance extensions: AIApply, Final Round AI, Simplify Copilot, and a saved-prompts tool for ChatGPT.
+- Attribution: the researchers describe the three as suspected Famous Chollima operatives (CrowdStrike's name for North Korea's IT worker operation), under the broader Lazarus umbrella; as of August 11 no government source had confirmed the identification.
+- Context: the July 31 joint alert (IC3/eleven governments) says NK IT workers seek contracts intending to remit salaries to parent North Korean agencies, and flags documents "forged or altered using image editing software" among hiring signals; in April, two US facilitators were sentenced for a scheme placing workers at 100+ US companies on 80+ stolen identities, earning North Korea more than $5M.
+- Defensive recommendations: periodic identity checks rather than one at hire, in-person verification for remote-first companies, recruiter training, and blocking AstrillVPN; watch for one account reached from many addresses in a short window and profile text that reads like machine translation.
 
 ## Notable quotes
-> "Can you say something negative about Kim Jong-un?" — Laura Shin
-> "I can say it's Frozen." — Justin Lim
-> "I don't know much." — Justin Lim
-> "It's quite a special situation and never faced with other teams before." — Justin Lim
-> "As a descendant of people who believed that communism was a bad idea and so escaped from what is now modern-day North Korea in order to reach democracy, and as an American journalist who thinks that freedom of speech is an incredibly important pillar of democracy, I was deliberate in choosing the word I would use to describe the North Korean government, dictatorship." — Laura Shin
+> "A successful placement gives the operative a real employee account and real access to source code and internal systems." — The Hacker News, summarizing the researchers' findings
+> "These schemes are 'not only a hiring risk' — because once a placement holds, the worker's access is also authorized and expected." — The researchers (via The Hacker News)
+> "Nobody exploited anything." — The researchers, describing that all three operatives came in through the hiring process
 
 ## People mentioned
-- Kim Jong-un
-- Taylor Monahan
-- Nick Bax
-- Justin Lim
-- Jikun Liao
+- Laura Shin — host, Unchained
+- Mauro Eldritch — researcher, BCA LTD
+- Heiner García — researcher, NorthScan
+- ANY.RUN — malware analysis and threat intelligence provider (co-investigators)
 
 ## Topics
-`north-korea` `crypto-hacks` `state-sponsored-cybercrime` `hiring-security` `undercover-interview` `kim-jong-un`
+- North Korea IT workers, Famous Chollima, Lazarus Group, fake startup sting, DEF CON 34, identity fraud, SynthID watermark, AI-generated documents, AstrillVPN, remote work security, insider threat, crypto hiring risk, Ballena Azul

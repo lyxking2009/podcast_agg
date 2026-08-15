@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-08-13",
-  "last_run_completed_at": "2026-08-13T23:49:04Z",
+  "last_run_date": "2026-08-14",
+  "last_run_completed_at": "2026-08-14T22:29:25Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -3728,7 +3728,7 @@
     },
     "2f8edaf4-9698-11f1-bdc1-eb068382bf86": {
       "date": "2026-08-13",
-      "transcript_source": "youtube_autocaptions",
+      "transcript_source": "web",
       "show": "No Priors: Artificial Intelligence | Technology | Startups"
     },
     "bfd63d35-c7ad-4a5c-a603-b4a400dbfa65": {
@@ -3738,18 +3738,116 @@
     },
     "501978d8-965c-11f1-8dd0-3b036759508b": {
       "date": "2026-08-13",
-      "transcript_source": "description",
+      "transcript_source": "web_substack",
       "show": "RiskReversal Pod"
     },
     "dc0e79f4-9753-11f1-8797-4369bcc34b47": {
       "date": "2026-08-13",
-      "transcript_source": "youtube_autocaptions",
+      "transcript_source": "web",
       "show": "Unchained"
     },
     "d443b078-a6df-481d-bc26-89dafcd0aa33": {
       "date": "2026-08-13",
-      "transcript_source": "youtube_autocaptions",
+      "transcript_source": "web",
       "show": "Y Combinator Startup Podcast"
+    },
+    "66edb3ac-94b9-11f1-ada5-b7fb80176bc4": {
+      "date": "2026-08-12",
+      "transcript_source": "show_notes",
+      "show": "The Rest Is History"
+    },
+    "73d6aee4-9576-11f1-9665-fbc582ea0b96": {
+      "date": "2026-08-13",
+      "transcript_source": "show_notes",
+      "show": "The Investor's Podcast (We Study Billionaires)"
+    },
+    "fd42c158-96c6-11f1-9422-27fc15508e8d": {
+      "date": "2026-08-13",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "https://www.bankless.com/podcast/rollup-bitcoins-fork-died-in-2-blocks-saylor-sells-again-robinhood-chain-fidelity-staking": {
+      "date": "2026-08-13",
+      "transcript_source": "web_search_fallback",
+      "show": "Bankless"
+    },
+    "906e5071-7abc-4f2c-acb5-b4a5013ff33f": {
+      "date": "2026-08-14",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots",
+      "title": "A Historic El Niño Is Coming That Could Cost the World Trillions"
+    },
+    "5c6c553a-9736-11f1-921a-e3d39afc3be4": {
+      "date": "2026-08-14",
+      "transcript_source": "show_notes",
+      "show": "The Meb Faber Show - Better Investing",
+      "title": "Luke Gromen: The Bull Market That Loses You Money | #645"
+    },
+    "bc74d966-ed79-49ff-a069-b4a501876ad5": {
+      "date": "2026-08-14",
+      "transcript_source": "rss_omny_srt",
+      "show": "Everybody's Business",
+      "title": "The Robots Have Stolen Your Summer"
+    },
+    "249c3ec2-9759-11f1-a9f7-1f2c7e5d9395": {
+      "date": "2026-08-14",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire",
+      "title": "Crypto’s Speculation Problem, Regulation Without CLARITY & The Gambling Economy"
+    },
+    "762b4fd0-8480-11f1-bb8f-9f45f6b3929e": {
+      "date": "2026-08-14",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Compound and Friends",
+      "title": "It's a bull market and nobody drinks anymore."
+    },
+    "flightcast:01KZZMDT2P0T93WGBRHWPJHNBF": {
+      "date": "2026-08-14",
+      "transcript_source": "rss",
+      "show": "Bankless",
+      "title": "EtherFi's Next Act: Stocks, Loans, and Global Banking | Mike Silagadze"
+    },
+    "8acfc324-9765-11f1-a08a-4f37f97dbfd7": {
+      "date": "2026-08-14",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained",
+      "title": "The Chopping Block: threadguy on Crypto's Social Trading War, Trader Celebrities & AI Agents"
+    },
+    "da2ad2eb-8e26-4fb7-8518-b49e0015aa37": {
+      "date": "2026-08-14",
+      "transcript_source": "rss_omny_srt",
+      "show": "Money Stuff: The Podcast",
+      "title": "Re-Run: Boaz Weinstein"
+    },
+    "02639498-9819-11f1-a1c0-3b68ff765878": {
+      "date": "2026-08-14",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained",
+      "title": "Bitcoin Has Been Oversold for Months. Is a Buy Signal Next?"
+    },
+    "593d83d2-876b-11f1-962a-7feaf7d912bc": {
+      "date": "2026-08-14",
+      "transcript_source": "show_notes",
+      "show": "Big Technology Podcast",
+      "title": "Best of Big Technology: How Ozempic Changes Our Bodies, Minds, and Economy — With Johann Hari"
+    },
+    "f0ae6c11-88e8-48df-a8c8-b4a600ede892": {
+      "date": "2026-08-14",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business",
+      "title": "Understanding Hyperscalers: Masters in Business with Ankur Crawford"
+    },
+    "62b8bff8-9738-11f1-9102-b3f85bcf5499": {
+      "date": "2026-08-14",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod",
+      "title": "Vincent Daniel: AI Buildout Credit Risks Are a Feature, Not a Bug"
+    },
+    "6a7f1715ff328abd848935d7": {
+      "date": "2026-08-14",
+      "transcript_source": "show_notes",
+      "show": "The Peter McCormack Show",
+      "title": "#201 - Connor Leahy - The AI That Escaped: Inside OpenAI's Rogue Agent Incident"
     }
   },
   "failures": [
@@ -3985,13 +4083,6 @@
       "attempts": 1
     },
     {
-      "guid": "b071c148-4c08-11f1-a608-c3028bde68e1",
-      "title": "91. Eight Qualities of a Peacemaker: What I've Learned as a Student of Peacemaking",
-      "reason": "No transcript found — not available on Apple Podcasts page, not on YouTube, podcast website has no transcript for this episode",
-      "first_seen": "2026-05-13",
-      "attempts": 1
-    },
-    {
       "guid": "6a060f17a8fad4c1bec32880",
       "title": "#175 - Dr Melvin Vopson - A Physicist Says Reality May Be Code",
       "reason": "No transcript found: episode just published (May 14), YouTube upload not yet available, no other transcript source",
@@ -4010,27 +4101,6 @@
       "title": "Tom Lee: The Market Can Climb Higher—But Expect Turbulence | #630",
       "reason": "No transcript source found — audio-only episode, no YouTube upload available yet",
       "first_seen": "2026-05-15",
-      "attempts": 1
-    },
-    {
-      "guid": "666a8252-603e-11f1-99de-135c737a61e4",
-      "title": "America's Trillion-Dollar Race to Catch Chinese Miners with Brian Paes-Braga",
-      "reason": "No transcript available — Megaphone audio-only, no YouTube/web transcript found",
-      "first_seen": "2026-06-05",
-      "attempts": 1
-    },
-    {
-      "guid": "5917a07f-52b0-4ecb-ba6e-e57f7cc0e106",
-      "title": "Physics & Philosophy with Sean Carroll",
-      "reason": "No transcript available — Simplecast audio-only, no YouTube/web transcript found",
-      "first_seen": "2026-06-05",
-      "attempts": 1
-    },
-    {
-      "guid": "027c3430-6114-11f1-9f97-7768ee497a43",
-      "title": "Is Polymarket's Oracle Problem Getting Out of Hand? - Uneasy Money",
-      "reason": "No transcript available — Megaphone audio-only, no YouTube/web transcript found",
-      "first_seen": "2026-06-05",
       "attempts": 1
     },
     {
@@ -4079,22 +4149,6 @@
       "reason": "no_transcript_found",
       "first_seen": "2026-06-19",
       "show": "Big Technology Podcast",
-      "attempts": 1
-    },
-    {
-      "guid": "6a39271e054cf438c4f16197",
-      "title": "Snowflake CEO: AI Agents (Hindi version)",
-      "reason": "Hindi-only auto-captions, no English subtitles available",
-      "first_seen": "2026-06-22",
-      "show": "In Good Company with Nicolai Tangen",
-      "attempts": 1
-    },
-    {
-      "guid": "25d5ad89-3020-479f-a315-949da3818403",
-      "title": "Why TC Energy sees renewed opportunity in Canada",
-      "reason": "no_transcript_found",
-      "first_seen": "2026-06-22",
-      "show": "Strategic Alternatives",
       "attempts": 1
     },
     {

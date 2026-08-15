@@ -1,37 +1,28 @@
-# Daily Report — 2026-08-13
+# Podcast Summaries — 2026-08-13
 
-**Run type:** Cron pipeline (deepseek-v4-pro), single pass.
-
-**Episodes found (RSS):** 5 | **Feed errors:** 5 | **Processed:** 5 (3 YouTube auto-captions + 1 RSS SRT + 1 show notes) | **Failures:** 0
-
-## Transcript source breakdown
-| Source | Count |
-|---|---|
-| youtube_autocaptions | 3 |
-| rss_srt (Omny) | 1 |
-| description (show notes) | 1 |
-
-## Episodes
-
-| Show | Episode | Source | Links |
+## Episodes (8)
+| Show | Episode | Transcript source | Vault |
 |---|---|---|---|
-| No Priors: Artificial Intelligence \| Technology \| Startups | What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest | youtube_autocaptions | [[no-priors-artificial-intelligence-technology-startups__what-chess-com-teaches-us-about-superhuman-capabilities-with-ceo-erik-allebest]] |
-| Odd Lots | Trucking Is Booming Again, And Drivers Aren't Happy About It | rss_srt (Omny) | [[odd-lots__trucking-is-booming-again-and-drivers-aren-t-happy-about-it]] |
-| RiskReversal Pod | Sonali Basak: Building "The Bridge" Investors Can Walk Across | description (show notes) | [[riskreversal-pod__sonali-basak-building-the-bridge-investors-can-walk-across]] |
-| Unchained | I Interviewed a North Korean Hacker Posing as a Crypto Dev | youtube_autocaptions | [[unchained__i-interviewed-a-north-korean-hacker-posing-as-a-crypto-dev]] |
-| Y Combinator Startup Podcast | Chelsea Finn: This is the State of the Art in Robotics | youtube_autocaptions | [[y-combinator-startup-podcast__chelsea-finn-this-is-the-state-of-the-art-in-robotics]] |
+| No Priors | What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest | web (structured summary with quotes) | [[no-priors-artificial-intelligence-technology-startups__what-chess-com-teaches-us-about-superhuman-capabilities-with-ceo-erik-allebest]] |
+| Odd Lots | Trucking Is Booming Again, And Drivers Aren't Happy About It | rss_omny_srt | [[odd-lots__trucking-is-booming-again-and-drivers-arent-happy-about-it]] |
+| RiskReversal Pod | Sonali Basak: Building "The Bridge" Investors Can Walk Across | web_substack | [[riskreversal-pod__sonali-basak-building-the-bridge-investors-can-walk-across]] |
+| The Investor's Podcast (WSB) | TIP837: Adobe, Lululemon, PayPal – Are our Biggest Losers a Buy Now? w/ Daniel Mahncke & Shawn O'Malley | show_notes | [[the-investors-podcast-we-study-billionaires-the-investors-podcast-network__tip837-adobe-lululemon-paypal-are-our-biggest-losers-a-buy-now-w-daniel-mahncke-shawn-omalley]] |
+| Unchained | I Interviewed a North Korean Hacker Posing as a Crypto Dev | web (DEF CON 34 sting coverage) | [[unchained__i-interviewed-a-north-korean-hacker-posing-as-a-crypto-dev]] |
+| Unchained | DEX in the City: A Founder's Death Sparked a Fight for Ondo's Boardroom | web (court filings coverage) | [[unchained__dex-in-the-city-a-founders-death-sparked-a-fight-for-ondos-boardroom]] |
+| Y Combinator Startup Podcast | Chelsea Finn: This is the State of the Art in Robotics | web (ycrootaccess.com full transcript) | [[y-combinator-startup-podcast__chelsea-finn-this-is-the-state-of-the-art-in-robotics]] |
+| Bankless | ROLLUP: Bitcoin's Fork Died in 2 Blocks \| Saylor Sells Again \| Robinhood Chain \| Fidelity Staking | web_search_fallback (full transcript) | [[bankless__rollup-bitcoins-fork-died-in-2-blocks-saylor-sells-again-robinhood-chain-fidelity-staking]] |
 
 ## Feed errors (5)
 | Feed | Error | Fallback result |
 |---|---|---|
-| Bankless | XML: mismatched tag: line 6, column 2 (Flightcast) | ⚠️ Feed unparseable; no episode in window |
-| Chalk Radio | timeout | ⚠️ No episode in window (feed sporadic) |
-| Critics at Large (The New Yorker) | timeout | ⚠️ No episode in window (weekly Thursdays) |
-| Latent Space: The AI Engineer Podcast | XML: mismatched tag: line 6, column 2 (Flightcast) | ⚠️ Feed unparseable; no episode in window |
-| The Edge | timeout | ⚠️ No episode in window |
+| Bankless | XML: mismatched tag: line 6, column 2 (Flightcast ~167B) | ✅ Recovered — ROLLUP "Bitcoin's Fork Died in 2 Blocks \| Saylor Sells Again \| Robinhood Chain \| Fidelity Staking" (full transcript on bankless.com) |
+| Chalk Radio | timeout | ⚠️ No episode in window (feed sporadic; latest Mar 2026) |
+| Critics at Large (The New Yorker) | timeout | ⚠️ No episode in window (weekly Thursdays; latest Aug 6, covered) |
+| Latent Space: The AI Engineer Podcast | XML: mismatched tag: line 6, column 2 (Flightcast ~167B) | ⚠️ No episode in window (latest ep. 219, Aug 11 — outside window) |
+| The Edge | timeout | ⚠️ No episode in window (latest #35, ~July) |
 
 ## Notes
-- Window: 2026-08-13T07:00:00Z .. 2026-08-14T07:00:00Z (Aug 13 PDT). Subscriptions synced from Apple Podcasts DB: 47 subscribed feeds (1 excluded by config: Sticky Notes).
-- Transcripts: Odd Lots via Omny SRT from RSS (`rss_omny_srt`, 58K chars). No Priors (Erik Allebest), Unchained (North Korean hacker undercover interview), and YC (Chelsea Finn robotics) via YouTube auto-captions matched by duration. RiskReversal (Sonali Basak) had no transcript anywhere (search engines bot-blocked; no-priors.com down; Apple/Spotify/aggregators empty) → summarized from show notes (description).
-- Rung 2 web search was partially degraded today: DuckDuckGo HTML served a challenge page, Bing RSS returned unrelated results, podscripts/listennotes/snipd/tapesearch are JS-rendered or 403/404. Direct host checks (Apple Podcasts episode page, riskreversal.com, podscribe) found no transcript. YouTube caption extraction worked without the usual 429 rate-limiting.
-- State updated: last_run_date → 2026-08-13, +5 processed entries (total 749), 0 new failures.
+- Mode: Claude Code OAuth expired (6th consecutive day, 08-08 → 08-13) → Manual Pipeline Fallback, 8/8 episodes, 100% coverage.
+- Prior-date diff (08-12): re-fetched 10 episodes, 9 in state; 1 late-published episode recovered — The Rest Is History "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)" → written to the 08-12 vault, "Late additions" section appended to its daily report, state entry dated 08-12.
+- Transcript sources: Odd Lots via Omny SRT (Rung 1); YC Chelsea Finn via ycrootaccess.com full transcript; RiskReversal via Substack recap; No Priors via structured summary with verbatim quotes (YouTube hplb9IHWuw0); TIP837 via show notes + public intro excerpt (full transcript login-gated); Unchained North-Korean-hacker (18 min) and Ondo boardroom episodes are same-day news-driven pieces summarized from published coverage (The Hacker News / DEF CON 34 "Ballena Azul" sting; ForkLog / CoinDesk on the Delaware lawsuit); Bankless ROLLUP recovered via feed-fallback web search with full transcript.
+- State updated: last_run_date → 2026-08-13, +8 processed (08-13), +1 processed late entry (08-12 RIHS 696), 0 new failures.
