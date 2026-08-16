@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-08-14",
-  "last_run_completed_at": "2026-08-14T22:29:25Z",
+  "last_run_date": "2026-08-15",
+  "last_run_completed_at": "2026-08-16T00:34:36Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -3848,6 +3848,12 @@
       "transcript_source": "show_notes",
       "show": "The Peter McCormack Show",
       "title": "#201 - Connor Leahy - The AI That Escaped: Inside OpenAI's Rogue Agent Incident"
+    },
+    "2d7b952e-9830-11f1-9ef2-c3c020365371": {
+      "date": "2026-08-14",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained",
+      "title": "Uneasy Money: An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds."
     }
   },
   "failures": [
@@ -4381,6 +4387,14 @@
       "title": "#199 - Aubrey de Grey - The Man Who Says Ageing Can Be Cured",
       "reason": "Matching YouTube video found (video v6X6LZscBAw, duration matches) with auto-captions confirmed present, but caption retrieval was blocked by IP-level rate-limiting (HTTP 429) across curl, yt-dlp (multiple player clients), youtube-transcript-api, and browser automation (Cloudflare-gated mirrors). No transcript published elsewhere for this brand-new episode.",
       "first_seen": "2026-08-06",
+      "attempts": 1
+    },
+    {
+      "guid": "bankless:jim-bianco-raising-rates-2026-08-14",
+      "title": "EARLY ACCESS - Why Raising Rates Would Actually Calm Markets | Jim Bianco",
+      "reason": "premium-gated (EARLY ACCESS); no public transcript or full YouTube upload found",
+      "first_seen": "2026-08-15",
+      "show": "Bankless",
       "attempts": 1
     }
   ]

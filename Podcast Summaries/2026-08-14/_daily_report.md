@@ -42,3 +42,12 @@
 - Big Technology is a 'Best of' rerun (Johann Hari / Ozempic) — summarized from Apple Podcasts show notes.
 - Empire (uKzFs-1YTTg), TCAF 255 (kidfan-Crqs), Chopping Block threadguy (l9v9wX7vhP8) YouTube uploads verified 2026-08-14.
 - Rejected lookalike videos: Unchained 9x1rshbRMfM (Feb 5 Bits+Bips, wrong date) and McCormack rf2KFVcKQdQ (Mar 10 'AI is MUTATING', wrong date) — both verified against upload dates before use.
+
+## Late additions (recovered 2026-08-15)
+
+| Show | Episode | Transcript source |
+|---|---|---|
+| [[unchained__uneasy-money-an-agent-deleted-kain-s-database-two-ai-models-rebuilt-it-in-30-seconds]] | Uneasy Money: An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds. | youtube_autocaptions |
+
+- Late-published 08-14 episode (published after the 08-14 run's RSS fetch); found via prior-date diff (guid `2d7b952e` not in `processed`). Full episode recovered from Unchained YouTube (lyoyPVQN9RU, 72 min).
+- Episode count for 08-14 is now **14** (13 original + 1 late addition).
