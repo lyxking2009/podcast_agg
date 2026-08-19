@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-08-15",
-  "last_run_completed_at": "2026-08-16T00:34:36Z",
+  "last_run_date": "2026-08-18",
+  "last_run_completed_at": "2026-08-19T00:55:25Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -3854,6 +3854,66 @@
       "transcript_source": "youtube_autocaptions",
       "show": "Unchained",
       "title": "Uneasy Money: An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds."
+    },
+    "substack:post:209801560": {
+      "date": "2026-08-16",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Lenny's Podcast: Product | Career | Growth"
+    },
+    "28bcf18e-9616-11f1-8291-0b1d8892bae3": {
+      "date": "2026-08-16",
+      "transcript_source": "show_notes",
+      "show": "The Investor's Podcast (We Study Billionaires)"
+    },
+    "f0d4749a-9728-11f1-a724-e7821230328e": {
+      "date": "2026-08-16",
+      "transcript_source": "show_notes",
+      "show": "The Rest Is History"
+    },
+    "4fd75bad-403f-47c1-b23c-b4a60141b176": {
+      "date": "2026-08-17",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "026190f4-982c-11f1-a4e0-0361e878c1ec": {
+      "date": "2026-08-17",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire"
+    },
+    "3b33eaea-997a-11f1-a697-87c35001f8bf": {
+      "date": "2026-08-17",
+      "transcript_source": "web_substack",
+      "show": "RiskReversal Pod"
+    },
+    "ac12474a-9815-11f1-a62e-3381b922c7fd": {
+      "date": "2026-08-17",
+      "transcript_source": "web",
+      "show": "Animal Spirits Podcast"
+    },
+    "00fdc75f-de66-4cd4-84f1-325e8d0ee5ff": {
+      "date": "2026-08-17",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peterman Pod"
+    },
+    "b0356202-9aa0-11f1-b3c3-6bc8a0cf3d6f": {
+      "date": "2026-08-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy"
+    },
+    "6a830b9855b9192dc92b757d": {
+      "date": "2026-08-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peter McCormack Show"
+    },
+    "9f886e84-e012-42c3-94db-80ec4393aafa": {
+      "date": "2026-08-18",
+      "transcript_source": "show_notes",
+      "show": "StarTalk Radio"
+    },
+    "f22093e6-9ac6-11f1-aa57-23eadad59cc7": {
+      "date": "2026-08-18",
+      "transcript_source": "web",
+      "show": "Training Data"
     }
   },
   "failures": [
@@ -4395,6 +4455,22 @@
       "reason": "premium-gated (EARLY ACCESS); no public transcript or full YouTube upload found",
       "first_seen": "2026-08-15",
       "show": "Bankless",
+      "attempts": 1
+    },
+    {
+      "guid": "flightcast:01M07EEZQSF6A681CHRHSRVS8T",
+      "title": "Why Raising Rates Would Actually Calm Markets | Jim Bianco",
+      "reason": "no_transcript_found (Bankless EARLY ACCESS premium-only; no public transcript or full YouTube upload)",
+      "first_seen": "2026-08-17",
+      "show": "Bankless",
+      "attempts": 1
+    },
+    {
+      "guid": "4b4da076-9b35-11f1-9974-b352594fd5cf",
+      "title": "Treasury yields break out, how to invest with Bill Ackman, Workday rumors, off-balance sheet madness",
+      "reason": "no_transcript_found: episode published 2026-08-18 ~15:31 PDT (18 min after prior run's state save); Rung1: no RSS podcast:transcript; Rung2: 5 web searches + podscripts/podscribe/happyscribe/Spotify checked - episode too new to be indexed anywhere; official YouTube upload Wcr7QLv79wU (4262s) has no captions yet (auto-captions pending); Rung3: RSS description has only ~60 words of actual content (rest is boilerplate) -> DeepSeek returned incomplete/error JSON",
+      "first_seen": "2026-08-18",
+      "show": "The Compound and Friends",
       "attempts": 1
     }
   ]
