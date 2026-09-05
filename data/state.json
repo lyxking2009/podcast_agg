@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-08-18",
-  "last_run_completed_at": "2026-08-19T00:55:25Z",
+  "last_run_date": "2026-09-05",
+  "last_run_completed_at": "2026-09-05T22:22:44Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -3914,6 +3914,376 @@
       "date": "2026-08-18",
       "transcript_source": "web",
       "show": "Training Data"
+    },
+    "flightcast:01M11A54ZMPFREGVETD07ND2ZM": {
+      "date": "2026-08-27",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "c00bb124-af61-414f-8956-8c9a9e49c8e1": {
+      "date": "2026-08-28",
+      "transcript_source": "rss",
+      "show": "Practical AI"
+    },
+    "23fe5a8c-d1c2-4e74-975b-b4b30028ce5d": {
+      "date": "2026-08-27",
+      "transcript_source": "rss",
+      "show": "Odd Lots"
+    },
+    "279d157e-c876-49c7-b4ea-b4b30188131e": {
+      "date": "2026-08-28",
+      "transcript_source": "rss",
+      "show": "Everybody's Business"
+    },
+    "5d168bda-ebfd-485d-a948-b4b4011d13e0": {
+      "date": "2026-08-28",
+      "transcript_source": "rss",
+      "show": "Odd Lots"
+    },
+    "flightcast:01M135123JK3TW1ZV6ESQD9DN4": {
+      "date": "2026-08-28",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "7dbcc2ce-8728-4bcb-8ec9-b4b401502701": {
+      "date": "2026-08-28",
+      "transcript_source": "rss",
+      "show": "Masters in Business"
+    },
+    "substack:post:211586245": {
+      "date": "2026-08-30",
+      "transcript_source": "web",
+      "show": "Lenny's Podcast: Product | Career | Growth"
+    },
+    "964f1a0e-a243-11f1-8c3a-8bca9168f55a": {
+      "date": "2026-08-29",
+      "transcript_source": "web",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
+    },
+    "095923e3-5c15-4936-b26b-b4b70018f8d6": {
+      "date": "2026-08-31",
+      "transcript_source": "rss",
+      "show": "Odd Lots"
+    },
+    "flightcast:01M1BNK2E5C197RY5BCEQPHCWP": {
+      "date": "2026-08-31",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "ffabb0eb-48cc-4ad4-8c96-b4b701728958": {
+      "date": "2026-09-01",
+      "transcript_source": "rss",
+      "show": "Odd Lots"
+    },
+    "flightcast:01M1E2FC535A4YQ20Y23PKC67B": {
+      "date": "2026-09-01",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "substack:post:213682035": {
+      "date": "2026-09-01",
+      "transcript_source": "web",
+      "show": "Dwarkesh Podcast"
+    },
+    "6a971c7bda248a131d19f94e": {
+      "date": "2026-09-01",
+      "transcript_source": "web",
+      "show": "The Peter McCormack Show"
+    },
+    "95e15ca6-a68c-11f1-82f5-d7274d1f365b": {
+      "date": "2026-09-01",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "c0a161b0-8e73-11f1-9c7a-c330e4146bfd": {
+      "date": "2026-09-02",
+      "transcript_source": "web",
+      "show": "Big Technology Podcast"
+    },
+    "1a332d18-95b7-11f1-9f4a-cb3e67cc0741": {
+      "date": "2026-09-02",
+      "transcript_source": "web",
+      "show": "Animal Spirits Podcast"
+    },
+    "e14f9556-5b43-46c7-baa6-b4b9011ff5ce": {
+      "date": "2026-09-02",
+      "transcript_source": "rss",
+      "show": "Masters in Business"
+    },
+    "ffd66e68-a686-11f1-9679-c3c7f9b69acf": {
+      "date": "2026-09-02",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "52b31e33-08b2-4ea7-a5d0-b4b9014b34d9": {
+      "date": "2026-09-03",
+      "transcript_source": "rss",
+      "show": "Odd Lots"
+    },
+    "7bb54711-ad56-4a39-85ae-290d2a0eaff5": {
+      "date": "2026-09-03",
+      "transcript_source": "rss",
+      "show": "Practical AI"
+    },
+    "7bb83d7a-7427-4960-ae15-a0727384e534": {
+      "date": "2026-09-02",
+      "transcript_source": "web",
+      "show": "Machine Learning Street Talk (MLST)"
+    },
+    "flightcast:01M1K8M10CRHBM65FPWPZA7SJW": {
+      "date": "2026-09-03",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "8476d0dc-a726-11f1-86e6-bbc25e1787ef": {
+      "date": "2026-09-03",
+      "transcript_source": "web",
+      "show": "No Priors: Artificial Intelligence | Technology | Startups"
+    },
+    "4344a06e-a733-11f1-9478-1fcaff2fc28b": {
+      "date": "2026-09-03",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "17b8d184-a7d5-11f1-b9d5-a75ef6fdbd78": {
+      "date": "2026-09-03",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "dc36d7b4-a1cb-11f1-a66e-afd86ce968a2": {
+      "date": "2026-08-27",
+      "transcript_source": "web",
+      "show": "No Priors: Artificial Intelligence | Technology | Startups"
+    },
+    "73a69583-98ee-43d6-a892-3e7c93012dd9": {
+      "date": "2026-08-27",
+      "transcript_source": "description",
+      "show": "硅谷101"
+    },
+    "8cf12bf4-a23a-11f1-82f6-cbfa5f24bab5": {
+      "date": "2026-08-27",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "cc425097-55f4-4ae8-90a8-96d293d2d261": {
+      "date": "2026-08-27",
+      "transcript_source": "web",
+      "show": "StarTalk Radio"
+    },
+    "726a0700-a277-11f1-a82d-2b688e9aeb85": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod"
+    },
+    "0925fc06-a25c-11f1-a873-1f7b71598f77": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "Empire"
+    },
+    "ef0eecf4-9b4b-11f1-8994-a7fbce92c516": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "The Compound and Friends"
+    },
+    "e35994e4-a2fe-11f1-a827-6bd07974134e": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "65f101f2-a2a1-11f1-a9eb-13b261f05ba3": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "6a91c47c1d52ae16ba14c227": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "The Peter McCormack Show"
+    },
+    "a8d4e21a-e812-4c4a-b9c2-bd4f83e1fd8b": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "60826062-a305-11f1-b1d0-db4141affa08": {
+      "date": "2026-08-28",
+      "transcript_source": "web",
+      "show": "Big Technology Podcast"
+    },
+    "2bdbe73b-7c85-4c22-96c3-6a0028809f1a": {
+      "date": "2026-08-29",
+      "transcript_source": "web",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "ebf0ddd2-a27d-11f1-856e-4bca37660dcf": {
+      "date": "2026-08-31",
+      "transcript_source": "web",
+      "show": "Animal Spirits Podcast"
+    },
+    "acf07f8a-a3fd-11f1-be41-3b2b77c7e4a5": {
+      "date": "2026-08-31",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod"
+    },
+    "34abe5ea-a228-11f1-be4e-6bb51731e262": {
+      "date": "2026-08-31",
+      "transcript_source": "web",
+      "show": "Empire"
+    },
+    "3454c6f0-8341-457f-9f61-91c10d959048": {
+      "date": "2026-08-31",
+      "transcript_source": "description",
+      "show": "Strategic Alternatives"
+    },
+    "bac046b0-a1a8-11f1-8a7f-6f109965994a": {
+      "date": "2026-08-31",
+      "transcript_source": "web",
+      "show": "The Meb Faber Show - Better Investing"
+    },
+    "64bd7aac-114a-4cda-9b6d-9209c1c5081b": {
+      "date": "2026-08-31",
+      "transcript_source": "web",
+      "show": "StarTalk Radio"
+    },
+    "987a3d0c-a547-11f1-907d-e7244a2569a6": {
+      "date": "2026-09-01",
+      "transcript_source": "web",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy"
+    },
+    "2361fcb0-a56c-11f1-bcee-5b403a4e1902": {
+      "date": "2026-09-01",
+      "transcript_source": "web",
+      "show": "Training Data"
+    },
+    "6846cf95-d9a2-4ae4-adb8-9aa0d57b8d9b": {
+      "date": "2026-09-01",
+      "transcript_source": "description",
+      "show": "Strategic Alternatives"
+    },
+    "dc2b8d24-a61b-11f1-88be-237abfdc47ee": {
+      "date": "2026-09-01",
+      "transcript_source": "web",
+      "show": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)"
+    },
+    "TheMasterInvestorPodcast.podbean.com/ff1e087f-d9ef-3c90-b02e-ee3e30fa6f9a": {
+      "date": "2026-09-01",
+      "transcript_source": "description",
+      "show": "The Master Investor Podcast with Wilfred Frost"
+    },
+    "6a9555dfcb03bea43d4c43d4": {
+      "date": "2026-09-01",
+      "transcript_source": "web",
+      "show": "In Good Company with Nicolai Tangen"
+    },
+    "681d511a-a675-11f1-9424-1f1297af7a2b": {
+      "date": "2026-09-02",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod"
+    },
+    "2136fe1e-a692-11f1-b4a0-67b9ac11c241": {
+      "date": "2026-09-02",
+      "transcript_source": "web",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
+    },
+    "6ea4e3b2-a57c-11f1-ae54-6f8f6d162167": {
+      "date": "2026-09-03",
+      "transcript_source": "description",
+      "show": "Critics at Large | The New Yorker"
+    },
+    "7a53925c-a1f9-11f1-a932-7b1f586fd0d6": {
+      "date": "2026-08-30",
+      "transcript_source": "web_podscripts",
+      "show": "The Rest Is History"
+    },
+    "83bd3dde-b8d4-4e25-9c71-a86ce0e92c4e": {
+      "date": "2026-08-31",
+      "transcript_source": "web_podscripts",
+      "show": "The Peterman Pod"
+    },
+    "substack:post:213603862": {
+      "date": "2026-08-31",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Dwarkesh Podcast"
+    },
+    "3fc03eb0-a6d1-11f1-b97a-9bfd05675a3b": {
+      "date": "2026-09-02",
+      "transcript_source": "web_podscripts",
+      "show": "The Rest Is History"
+    },
+    "7bed9ee5-27ad-4a5f-997f-6edb31ddb397": {
+      "date": "2026-09-04",
+      "transcript_source": "web_podscripts",
+      "show": "StarTalk Radio"
+    },
+    "52ff00be-a7ea-11f1-a5b7-4b3e97ac985e": {
+      "date": "2026-09-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "RiskReversal Pod"
+    },
+    "0a8f697a-a7d8-11f1-b525-4fda1480b35b": {
+      "date": "2026-09-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire"
+    },
+    "ff98fd8a-9b4b-11f1-b50f-cf5b549715b7": {
+      "date": "2026-09-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Compound and Friends"
+    },
+    "c694e8c5-eabb-4938-af42-ebbff57b6a47": {
+      "date": "2026-09-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "7c65ddda-c090-461a-b909-ce3011d76e27": {
+      "date": "2026-09-05",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "478d5e08-a617-11f1-9b76-47712b8adf1b": {
+      "date": "2026-09-01",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Compound and Friends"
+    },
+    "6a99b142054653259af8ce1f": {
+      "date": "2026-09-03",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peter McCormack Show"
+    },
+    "9a6415dc-a88c-11f1-bf94-13d879424fa0": {
+      "date": "2026-09-04",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "82ec84cc-a894-11f1-b793-07d840ec7784": {
+      "date": "2026-09-04",
+      "transcript_source": "description",
+      "show": "Big Technology Podcast"
+    },
+    "7d156235-f387-442d-92d2-b4ba0105ac94": {
+      "date": "2026-09-04",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "flightcast:01M1NRYPADQ77QQEZTD1E9FW5J": {
+      "date": "2026-09-04",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "46aeeae5-1456-46c2-b316-b4ba01843585": {
+      "date": "2026-09-04",
+      "transcript_source": "rss_omny_srt",
+      "show": "Everybody's Business"
+    },
+    "49d2136c-7d8a-4883-abe9-b4bb00c0bdfa": {
+      "date": "2026-09-04",
+      "transcript_source": "rss_omny_srt",
+      "show": "Money Stuff: The Podcast"
+    },
+    "5d9514ad-9566-44e0-9f59-b4bb01564214": {
+      "date": "2026-09-04",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business"
     }
   },
   "failures": [
@@ -4471,6 +4841,143 @@
       "reason": "no_transcript_found: episode published 2026-08-18 ~15:31 PDT (18 min after prior run's state save); Rung1: no RSS podcast:transcript; Rung2: 5 web searches + podscripts/podscribe/happyscribe/Spotify checked - episode too new to be indexed anywhere; official YouTube upload Wcr7QLv79wU (4262s) has no captions yet (auto-captions pending); Rung3: RSS description has only ~60 words of actual content (rest is boilerplate) -> DeepSeek returned incomplete/error JSON",
       "first_seen": "2026-08-18",
       "show": "The Compound and Friends",
+      "attempts": 1
+    },
+    {
+      "guid": "bac046b0-a1a8-11f1-8a7f-6f109965994a",
+      "title": "Paul Kedrosky: AI is the First Bubble With Every Ingredient at Once | #648",
+      "reason": "model error: Transcript is unavailable or incomplete, so a meaningful summary cannot be produced.",
+      "first_seen": "2026-08-31",
+      "attempts": 1,
+      "show": "The Meb Faber Show - Better Investing",
+      "date": "2026-08-31"
+    },
+    {
+      "guid": "dc2b8d24-a61b-11f1-88be-237abfdc47ee",
+      "title": "World Models and the Future of Spatial AI with Justin Johnson - #775",
+      "reason": "model error: Transcript is incomplete and fewer than 200 words of substantive content are available.",
+      "first_seen": "2026-09-01",
+      "attempts": 1,
+      "show": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)",
+      "date": "2026-09-01"
+    },
+    {
+      "guid": "2136fe1e-a692-11f1-b4a0-67b9ac11c241",
+      "title": "TIP843: AppLovin (APP): The 30-Bagger Down More Than Half w/ Kyle Grieve & Shawn O'Malley",
+      "reason": "model error: The transcript is incomplete; it contains only the opening minutes and does not cover the episode's substantive discussion. Full transcript is available only to logged-in users.",
+      "first_seen": "2026-09-02",
+      "attempts": 1,
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+      "date": "2026-09-02"
+    },
+    {
+      "guid": "59937b76-7973-11f1-bb33-e7edfe0d0cdd",
+      "title": "What is Gen Z Afraid Of?",
+      "reason": "model error: Transcript is unavailable or too short; episode description provided.",
+      "first_seen": "2026-08-27",
+      "attempts": 2,
+      "show": "Critics at Large | The New Yorker",
+      "date": "2026-08-27"
+    },
+    {
+      "guid": "6a9035d5d8ffec4c4142aac0",
+      "title": "Friday Wrap-Up: A Hedge Fund Legend and Reflections on the Global AI Race",
+      "reason": "model error: Transcript is fewer than 200 words and clearly incomplete; it appears to be an episode description rather than a full transcript.",
+      "first_seen": "2026-08-27",
+      "attempts": 1,
+      "show": "In Good Company with Nicolai Tangen",
+      "date": "2026-08-27"
+    },
+    {
+      "guid": "d3072578-a3af-11f1-bac4-67a7ac3cb628",
+      "title": "Episode #252 ... Slaughterhouse-Five - Kurt Vonnegut",
+      "reason": "model error: Transcript is fewer than 200 words and appears to be an episode description rather than a full transcript.",
+      "first_seen": "2026-08-29",
+      "attempts": 2,
+      "show": "Philosophize This!",
+      "date": "2026-08-29",
+      "last_seen": "2026-09-05"
+    },
+    {
+      "guid": "7a53925c-a1f9-11f1-a932-7b1f586fd0d6",
+      "title": "701. Roman Civil War: Rise of the General (Part 1)",
+      "reason": "model error: Transcript is fewer than 200 words and is an episode description, not a full transcript.",
+      "first_seen": "2026-08-30",
+      "attempts": 1,
+      "show": "The Rest Is History",
+      "date": "2026-08-30"
+    },
+    {
+      "guid": "83bd3dde-b8d4-4e25-9c71-a86ce0e92c4e",
+      "title": "Creator of Scala: Comparing Languages And How AI Will Impact Them | Martin Odersky",
+      "reason": "model error: Transcript is incomplete or not a full transcript; only episode description provided.",
+      "first_seen": "2026-08-31",
+      "attempts": 1,
+      "show": "The Peterman Pod",
+      "date": "2026-08-31"
+    },
+    {
+      "guid": "substack:post:213603862",
+      "title": "The rise and fall of agent civilizations",
+      "reason": "model error: Transcript is fewer than 200 words and clearly incomplete.",
+      "first_seen": "2026-08-31",
+      "attempts": 1,
+      "show": "Dwarkesh Podcast",
+      "date": "2026-08-31"
+    },
+    {
+      "guid": "478d5e08-a617-11f1-9b76-47712b8adf1b",
+      "title": "Tim Cook the GOAT? Snowflake earnings preview, the software comeback, reactions to Ed Zitron",
+      "reason": "model error: No transcript provided; input contains only episode description and sponsor/disclaimer text.",
+      "first_seen": "2026-09-01",
+      "attempts": 1,
+      "show": "The Compound and Friends",
+      "date": "2026-09-01"
+    },
+    {
+      "guid": "00abfc1d-6369-4a08-9d40-fbd439054471",
+      "title": "Government policies 'won’t turn the tide' of the energy transition",
+      "reason": "model error: Transcript is fewer than 200 words and appears to be an episode description, not a complete transcript.",
+      "first_seen": "2026-09-02",
+      "attempts": 2,
+      "show": "Strategic Alternatives",
+      "date": "2026-09-02",
+      "last_seen": "2026-09-05"
+    },
+    {
+      "guid": "3fc03eb0-a6d1-11f1-b97a-9bfd05675a3b",
+      "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+      "reason": "model error: Insufficient transcript: provided text is an episode description, not a full transcript, with fewer than 200 words of substantive content.",
+      "first_seen": "2026-09-02",
+      "attempts": 1,
+      "show": "The Rest Is History",
+      "date": "2026-09-02"
+    },
+    {
+      "guid": "6a99b142054653259af8ce1f",
+      "title": "#208 - Ann Pettifor - \"A $40 Trillion Debt Crash Is Coming”",
+      "reason": "model error: Transcript not provided; only episode description and timestamps were available.",
+      "first_seen": "2026-09-03",
+      "attempts": 1,
+      "show": "The Peter McCormack Show",
+      "date": "2026-09-03"
+    },
+    {
+      "guid": "6a997eda809ae7c2f44b7529",
+      "title": "Friday Wrap-Up: Leadership Longevity and Nicolai's biggest regret",
+      "show": "In Good Company with Nicolai Tangen",
+      "reason": "model error: Transcript is unavailable or incomplete; only a description was provided.",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "attempts": 1
+    },
+    {
+      "guid": "da834682-a734-11f1-8edb-97993c4bbe64",
+      "title": "Why Gold Stopped Being a Commodity (AllianceBernstein’s Inigo Fraser Jenkins) | #649",
+      "show": "The Meb Faber Show - Better Investing",
+      "reason": "model error: Transcript unavailable or incomplete; only episode description provided.",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "attempts": 1
     }
   ]
