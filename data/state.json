@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-06",
-  "last_run_completed_at": "2026-09-06T22:21:19Z",
+  "last_run_date": "2026-09-08",
+  "last_run_completed_at": "2026-09-08T22:31:23Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4289,6 +4289,90 @@
       "date": "2026-09-06",
       "transcript_source": "youtube_autocaptions",
       "show": "Lenny's Podcast: Product | Career | Growth"
+    },
+    "bbee8dff-1ad3-4ccd-b707-b4bb00f7df11": {
+      "date": "2026-09-07",
+      "transcript_source": "rss_omny",
+      "show": "Odd Lots",
+      "title": "Why Money Launderers Love $100 Bills"
+    },
+    "799c90fe-a887-11f1-96e9-97223821da2e": {
+      "date": "2026-09-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "RiskReversal Pod",
+      "title": "The Fed, Oil, and a Trade War With Canada Investors Aren't Pricing In"
+    },
+    "ef38aea4-a708-11f1-aab6-ab8eb8d899c2": {
+      "date": "2026-09-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire",
+      "title": "Cloudflare CEO: The Man Deciding The Internet's Next Business Model"
+    },
+    "f75e375e-a27e-11f1-b816-770516012c73": {
+      "date": "2026-09-07",
+      "transcript_source": "description",
+      "show": "Animal Spirits Podcast",
+      "title": "Talk Your Book: AI Winners & Losers"
+    },
+    "ce4c02c6-4ce2-4c8d-8383-c8580b6a38b4": {
+      "date": "2026-09-07",
+      "transcript_source": "web",
+      "show": "The Peterman Pod",
+      "title": "How Anthropic Builds And How Engineering Will Change Soon"
+    },
+    "flightcast:01M1VR9184WGEH9R12ZAB3FZWZ": {
+      "date": "2026-09-07",
+      "transcript_source": "rss_vtt",
+      "show": "Bankless",
+      "title": "The New Economics of Crypto Tokens"
+    },
+    "7d58c850-aabe-11f1-a89f-5fe1f0517a53": {
+      "date": "2026-09-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained",
+      "title": "How GenLayer Is Building a Court System for Disputes Between AI Agents"
+    },
+    "6a9eea38ffe0e274914680c0": {
+      "date": "2026-09-07",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peter McCormack Show",
+      "title": "#209 - Johann Hari - We Built A World Humans Can't Survive"
+    },
+    "9f8773fe-2345-4ea7-8455-b4b100a0d8c9": {
+      "date": "2026-09-07",
+      "transcript_source": "skipped_trailer",
+      "show": "Masters in Business",
+      "title": "Introducing: Bloomberg Money (30s promo)"
+    },
+    "15a690ac-ab0e-11f1-b645-033fb2279e5b": {
+      "date": "2026-09-08",
+      "transcript_source": "web",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy",
+      "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]"
+    },
+    "substack:post:214070217": {
+      "date": "2026-09-08",
+      "transcript_source": "web",
+      "show": "Lenny's Podcast: Product | Career | Growth",
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)"
+    },
+    "76f67fe4-9746-439f-bb44-780733211675": {
+      "date": "2026-09-08",
+      "transcript_source": "web",
+      "show": "Machine Learning Street Talk (MLST)",
+      "title": "AI 2040: Plan A report - Daniel Kokotajlo & Thomas Larsen"
+    },
+    "df070e09-1166-4d9f-b96f-f7647860321a": {
+      "date": "2026-09-08",
+      "transcript_source": "description",
+      "show": "Strategic Alternatives",
+      "title": "The Great Recalibration: What comes next for consumer staples?"
+    },
+    "da834682-a734-11f1-8edb-97993c4bbe64": {
+      "date": "2026-09-08",
+      "transcript_source": "web",
+      "show": "The Meb Faber Show - Better Investing",
+      "title": "Why Gold Stopped Being a Commodity (AllianceBernstein’s Inigo Fraser Jenkins) | #649"
     }
   },
   "failures": [
@@ -4984,6 +5068,16 @@
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-05",
       "attempts": 1
+    },
+    {
+      "guid": "5049fc9e-abc7-11f1-95fd-4f15cbd4b5e6",
+      "title": "Stocks Aren't as Expensive as You Think | WAYT?",
+      "show": "The Compound and Friends",
+      "reason": "model error: Transcript unavailable; episode description insufficient (all-null summary JSON)",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "attempts": 1,
+      "date": "2026-09-08"
     }
   ]
 }
