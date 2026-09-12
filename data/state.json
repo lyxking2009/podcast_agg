@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-09",
-  "last_run_completed_at": "2026-09-09T22:21:57Z",
+  "last_run_date": "2026-09-12",
+  "last_run_completed_at": "2026-09-12T22:11:22Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4403,6 +4403,131 @@
       "date": "2026-09-09",
       "transcript_source": "youtube_autocaptions",
       "show": "The Peter McCormack Show"
+    },
+    "flightcast:01M27M3P21S7762F9X1MX2ZWWB": {
+      "date": "2026-09-11",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "6aa2983ec939da279540bada": {
+      "date": "2026-09-10",
+      "transcript_source": "web",
+      "show": "In Good Company with Nicolai Tangen"
+    },
+    "c7965c50-9d08-454c-af24-b4c1018b3319": {
+      "date": "2026-09-11",
+      "transcript_source": "rss_omny_srt",
+      "show": "Everybody's Business",
+      "late_addition": true
+    },
+    "2a24f8ba-ae20-11f1-81d9-6f0c65fb2149": {
+      "date": "2026-09-11",
+      "transcript_source": "web",
+      "show": "Big Technology Podcast"
+    },
+    "substack:post:215199144": {
+      "date": "2026-09-11",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Dwarkesh Podcast",
+      "late_addition": true
+    },
+    "6bbe160e-ad61-11f1-b3a5-b7e2cc423dca": {
+      "date": "2026-09-11",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire",
+      "late_addition": true
+    },
+    "b4983645-b3ed-4e11-8644-d7acf6e3c033": {
+      "date": "2026-09-11",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Machine Learning Street Talk (MLST)",
+      "late_addition": true
+    },
+    "79108b5f-801e-4801-9260-b4c2016f01ac": {
+      "date": "2026-09-11",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business",
+      "late_addition": true
+    },
+    "3185c85c-664e-438d-90c4-b4c20100cec0": {
+      "date": "2026-09-11",
+      "transcript_source": "rss_omny_srt",
+      "show": "Money Stuff: The Podcast",
+      "late_addition": true
+    },
+    "620a27ee-8907-4f6b-9009-b4c001681c89": {
+      "date": "2026-09-09",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business",
+      "late_addition": true
+    },
+    "e7f48b14-a789-11f1-ae45-0b669e864200": {
+      "date": "2026-09-09",
+      "transcript_source": "show_notes",
+      "show": "The Rest Is History",
+      "late_addition": true
+    },
+    "2ecd3b38-aca0-11f1-b6c4-13e4bbce7d30": {
+      "date": "2026-09-10",
+      "transcript_source": "web"
+    },
+    "ac7406bd-0582-4820-af93-b4c100274867": {
+      "date": "2026-09-10",
+      "transcript_source": "rss"
+    },
+    "8a1c70d7-502d-40f8-b16e-341761a7f41b": {
+      "date": "2026-09-10",
+      "transcript_source": "rss"
+    },
+    "79b7c34a-ab4f-11f1-ac50-ab4dcd939161": {
+      "date": "2026-09-10",
+      "transcript_source": "show_notes",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+      "late_addition": true
+    },
+    "b36b4cc0-ac9d-11f1-8bce-6bf7d9dd6aa9": {
+      "date": "2026-09-10",
+      "transcript_source": "web"
+    },
+    "2844ab58-ad67-11f1-8aa0-9b69f5f7f790": {
+      "date": "2026-09-10",
+      "transcript_source": "web"
+    },
+    "b614da06-213b-4d27-ae05-b4c101309140": {
+      "date": "2026-09-11",
+      "transcript_source": "rss"
+    },
+    "c69b2070-ad5d-11f1-bb4c-23a3baab784e": {
+      "date": "2026-09-11",
+      "transcript_source": "web"
+    },
+    "141637aa-9b4c-11f1-87d9-37d1e22ad6aa": {
+      "date": "2026-09-11",
+      "transcript_source": "web"
+    },
+    "fa41fc5a-ac95-11f1-a31d-8f08fb5752eb": {
+      "date": "2026-09-11",
+      "transcript_source": "web"
+    },
+    "6aa41c255b93419447f100e3": {
+      "date": "2026-09-11",
+      "transcript_source": "web"
+    },
+    "9643d886-ae20-11f1-b8b4-b3c5b9f5bdb8": {
+      "date": "2026-09-11",
+      "transcript_source": "web"
+    },
+    "84e5f9f2-bff2-403b-bb41-b4c20134a223": {
+      "date": "2026-09-12",
+      "transcript_source": "rss"
+    },
+    "8a800373-10ea-4204-8d82-b7fad9603c9b": {
+      "date": "2026-09-12",
+      "transcript_source": "web"
+    },
+    "a6d2d0ce-d712-4a71-b739-4e6d02505c72": {
+      "date": "2026-09-10",
+      "transcript_source": "web"
     }
   },
   "failures": [
@@ -5108,6 +5233,14 @@
       "last_seen": "2026-09-08",
       "attempts": 1,
       "date": "2026-09-08"
+    },
+    {
+      "guid": "6a9eb387d024784c996d6b3e",
+      "title": "XPeng Co-President: China's EV Race, Flying Cars and Humanoid Robots",
+      "reason": "no_transcript_found",
+      "first_seen": "2026-09-12",
+      "show": "In Good Company with Nicolai Tangen",
+      "attempts": 1
     }
   ]
 }
