@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-12",
-  "last_run_completed_at": "2026-09-12T22:11:22Z",
+  "last_run_date": "2026-09-13",
+  "last_run_completed_at": "2026-09-13T22:03:08Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4528,6 +4528,16 @@
     "a6d2d0ce-d712-4a71-b739-4e6d02505c72": {
       "date": "2026-09-10",
       "transcript_source": "web"
+    },
+    "2452854b-6113-480e-bd95-aee136d6d1ea": {
+      "date": "2026-09-13",
+      "transcript_source": "web",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "6aa623ef9d32647781683c93": {
+      "date": "2026-09-13",
+      "transcript_source": "description",
+      "show": "西西弗高速"
     }
   },
   "failures": [
