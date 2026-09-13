@@ -1,6 +1,6 @@
 {
   "last_run_date": "2026-09-13",
-  "last_run_completed_at": "2026-09-13T22:03:08Z",
+  "last_run_completed_at": "2026-09-13T22:05:20Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4531,13 +4531,18 @@
     },
     "2452854b-6113-480e-bd95-aee136d6d1ea": {
       "date": "2026-09-13",
-      "transcript_source": "web",
+      "transcript_source": "youtube_autocaptions",
       "show": "Y Combinator Startup Podcast"
     },
     "6aa623ef9d32647781683c93": {
       "date": "2026-09-13",
-      "transcript_source": "description",
+      "transcript_source": "show_notes",
       "show": "西西弗高速"
+    },
+    "28b23b0e-ae8f-11f1-a3f4-433754979554": {
+      "date": "2026-09-13",
+      "transcript_source": "web",
+      "show": "The Investor's Podcast (We Study Billionaires)"
     }
   },
   "failures": [
