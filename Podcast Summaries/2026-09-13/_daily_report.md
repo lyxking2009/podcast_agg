@@ -30,3 +30,10 @@ All five errored feeds were resolved by direct-curl checks — **no in-window ep
 
 - Sunday run: 3 episodes across all 47 feeds (weekend pattern — low volume, expected). A verification pass over every feed's newest 8 items found zero missing/undated entries.
 - yt-dlp hit a stray `/tmp/inspect.py` shadowing the stdlib (module name collision) — fixed by running yt-dlp from a non-`/tmp` cwd.
+
+## Late additions (recovered 2026-09-14)
+
+Both episodes published after this date's 15:00 PT RSS fetch. Recovered by the 2026-09-14 prior-date diff.
+
+- [[acquired__the-home-depot]]  ·  `rss_transistor` (full transcript from transistor)
+- [[the-rest-is-history__705-queen-victoria-s-revenge-the-mad-emperor-of-abyssinia-part-1]]  ·  `show_notes`

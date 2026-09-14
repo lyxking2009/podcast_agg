@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-13",
-  "last_run_completed_at": "2026-09-13T22:05:20Z",
+  "last_run_date": "2026-09-14",
+  "last_run_completed_at": "2026-09-14T22:06:04Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4543,6 +4543,68 @@
       "date": "2026-09-13",
       "transcript_source": "web",
       "show": "The Investor's Podcast (We Study Billionaires)"
+    },
+    "1664f593-6ca2-4a3e-bbe6-b4c201317baa": {
+      "date": "2026-09-14",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "6ed55a0c-ae40-11f1-8e50-b344b257eafd": {
+      "date": "2026-09-14",
+      "transcript_source": "show_notes",
+      "show": "Animal Spirits Podcast"
+    },
+    "157d7298-ae2a-11f1-9f09-7fe3ded3235a": {
+      "date": "2026-09-14",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire"
+    },
+    "4a276c86-30f8-41ad-afce-5c3cafab293c": {
+      "date": "2026-09-14",
+      "transcript_source": "show_notes",
+      "show": "Flirting with Models"
+    },
+    "05a9d7a4-9b0e-49ec-99c1-cb90da7a28fa": {
+      "date": "2026-09-14",
+      "transcript_source": "web",
+      "show": "Machine Learning Street Talk (MLST)"
+    },
+    "8026bdd4-ae02-11f1-a403-5f776351d46c": {
+      "date": "2026-09-14",
+      "transcript_source": "web_substack",
+      "show": "RiskReversal Pod"
+    },
+    "92258213-3681-4fef-99d6-36088812e38b": {
+      "date": "2026-09-14",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peterman Pod"
+    },
+    "66de98da-af36-11f1-b3f4-4f29d8d9042d": {
+      "date": "2026-09-14",
+      "transcript_source": "show_notes",
+      "show": "Wiser World"
+    },
+    "flightcast:01M2FJXD36WWSVB61P3AZ9T0X9": {
+      "date": "2026-09-14",
+      "transcript_source": "rss_vtt",
+      "show": "Bankless"
+    },
+    "substack:post:215289811": {
+      "date": "2026-09-14",
+      "transcript_source": "web_substack",
+      "show": "Latent Space: The AI Engineer Podcast"
+    },
+    "68b66323-6e74-4c90-8157-ef3f1ed0d042": {
+      "date": "2026-09-13",
+      "transcript_source": "rss_transistor",
+      "show": "Acquired",
+      "late_addition": true
+    },
+    "5c0bf304-adf5-11f1-a227-3f46219e3faa": {
+      "date": "2026-09-13",
+      "transcript_source": "show_notes",
+      "show": "The Rest Is History",
+      "late_addition": true
     }
   },
   "failures": [
