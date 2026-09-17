@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-15",
-  "last_run_completed_at": "2026-09-15T22:17:14Z",
+  "last_run_date": "2026-09-17",
+  "last_run_completed_at": "2026-09-17T22:14:57Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4608,18 +4608,128 @@
     },
     "bd7d8052-b13e-11f1-8e96-ebe207990ba6": {
       "date": "2026-09-15",
-      "transcript_source": "description",
+      "transcript_source": "web",
       "show": "Unchained"
     },
     "d2e9aa74-b080-11f1-8007-f31e2b6b4e53": {
       "date": "2026-09-15",
-      "transcript_source": "web",
+      "transcript_source": "youtube_autocaptions",
       "show": "Training Data"
     },
     "5207ae6b-de37-4063-b419-058ae6782077": {
       "date": "2026-09-15",
-      "transcript_source": "web",
+      "transcript_source": "youtube_autocaptions",
       "show": "Machine Learning Street Talk (MLST)"
+    },
+    "88fee8b7-98cf-46f0-9a69-e3f39cfe3979": {
+      "date": "2026-09-15",
+      "transcript_source": "show_notes",
+      "show": "StarTalk Radio"
+    },
+    "flightcast:01M2MQYMF288AHVR8VTM0Z1H9B": {
+      "date": "2026-09-16",
+      "transcript_source": "rss",
+      "show": "Bankless"
+    },
+    "e9bb1e9a-b1d4-11f1-82a0-bf81de838a7e": {
+      "date": "2026-09-16",
+      "transcript_source": "web",
+      "show": "Big Technology Podcast"
+    },
+    "f227bf2c-a615-11f1-bc68-079b10fe5155": {
+      "date": "2026-09-17",
+      "transcript_source": "web",
+      "show": "Animal Spirits Podcast"
+    },
+    "59bee96e-7973-11f1-bb33-ebdbcdf3ed7d": {
+      "date": "2026-09-17",
+      "transcript_source": "web",
+      "show": "Critics at Large | The New Yorker"
+    },
+    "87191ece-b17d-11f1-82f8-a3ebc660a3bc": {
+      "date": "2026-09-16",
+      "transcript_source": "web",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy"
+    },
+    "substack:post:215893904": {
+      "date": "2026-09-16",
+      "transcript_source": "rss",
+      "show": "Latent Space: The AI Engineer Podcast"
+    },
+    "substack:post:216149332": {
+      "date": "2026-09-17",
+      "transcript_source": "web",
+      "show": "Dwarkesh Podcast"
+    },
+    "125988ba-e2f6-4996-8cf7-b4c7010fc6d3": {
+      "date": "2026-09-16",
+      "transcript_source": "rss",
+      "show": "Masters in Business"
+    },
+    "https://lexfridman.com/?p=6554": {
+      "date": "2026-09-16",
+      "transcript_source": "web",
+      "show": "Lex Fridman Podcast"
+    },
+    "feacf9a3-586b-4106-8da3-aab51f1c2765": {
+      "date": "2026-09-17",
+      "transcript_source": "rss",
+      "show": "Practical AI"
+    },
+    "ae8e06da-4095-4c0f-8fdb-b4c0013c37f4": {
+      "date": "2026-09-17",
+      "transcript_source": "rss",
+      "show": "Odd Lots"
+    },
+    "69002e00-b1fa-11f1-b529-7b6ccdc2d2b5": {
+      "date": "2026-09-17",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod"
+    },
+    "TheMasterInvestorPodcast.podbean.com/bf09bb5b-25e0-3990-a063-e632e625915b": {
+      "date": "2026-09-16",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Master Investor Podcast with Wilfred Frost"
+    },
+    "51ef88a4-b183-11f1-b502-4724cb5513d0": {
+      "date": "2026-09-16",
+      "transcript_source": "web",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
+    },
+    "78de6472-b047-11f1-8db3-b311e9cdbee0": {
+      "date": "2026-09-16",
+      "transcript_source": "show_notes",
+      "show": "The Rest Is History"
+    },
+    "6aaa7711bf7eb386d39b5e4d": {
+      "date": "2026-09-16",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peter McCormack Show"
+    },
+    "5a17b890-b20e-11f1-bc6f-87362412e42a": {
+      "date": "2026-09-17",
+      "transcript_source": "show_notes",
+      "show": "The TWIML AI Podcast"
+    },
+    "b5d931ee-b228-11f1-bb31-ab357624e60d": {
+      "date": "2026-09-16",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "80135ddb-8865-4447-9aa7-ea65ad06624a": {
+      "date": "2026-09-16",
+      "transcript_source": "web",
+      "show": "Strategic Alternatives"
+    },
+    "8498e2f8-b261-11f1-ac59-b7b6360f8711": {
+      "date": "2026-09-17",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "786d63c4-d46c-4ff3-80f8-fc895b2a57f0": {
+      "date": "2026-09-15",
+      "transcript_source": "show_notes",
+      "show": "硅谷101"
     }
   },
   "failures": [
