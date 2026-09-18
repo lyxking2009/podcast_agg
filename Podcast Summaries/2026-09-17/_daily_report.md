@@ -21,3 +21,15 @@
 - RSS feeds were heavily truncated this run (29–30 parse errors: the parallel fetcher's 20 s per-feed timeout cut large feeds mid-stream at ~500 KB/s). All failed feeds were re-fetched directly with a 150 s timeout, recovering 18 in-window episodes the standard fetch missed.
 - Feed errors still unresolved: Bankless and Latent Space (Flightcast 167-byte error) — both resolved by direct curl; The Edge + Chalk Radio + Critics at Large (timeout) — no in-window episodes recovered by fallback search.
 
+
+
+## Late additions (recovered 2026-09-18)
+
+Two episodes published on 2026-09-17 after that day's RSS fetch were recovered by the prior-date diff and added to this date's vault:
+
+| Show | Episode | Transcript source |
+|---|---|---|
+| Unchained | [[unchained__uneasy-money-what-crypto-s-gensler-years-say-about-the-ai-slowdown-debate]] | `youtube_autocaptions` |
+| 矽谷101 | [[矽谷101__外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建]] | `youtube_autocaptions` (zh-Hans) |
+
+Recovered at 2026-09-18T22:32:42Z.

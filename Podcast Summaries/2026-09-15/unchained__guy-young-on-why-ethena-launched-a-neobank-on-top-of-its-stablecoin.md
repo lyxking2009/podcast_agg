@@ -2,40 +2,35 @@
 podcast: "Unchained"
 episode: "Guy Young on Why Ethena Launched a Neobank on Top of Its Stablecoin"
 published: 2026-09-15
-duration: "52m08s"
+duration: 52m08s
 audio_url: "https://pdrl.fm/98e0b1/traffic.megaphone.fm/LSHML2055585578.mp3"
-episode_url: "https://unchainedcrypto.com/guy-young-on-why-ethena-launched-a-neobank-on-top-of-its-stablecoin"
-transcript_source: description
-generated_at: 2026-09-15T22:16:50Z
-model: "deepseek-v4-pro"
+episode_url: "https://www.youtube.com/watch?v=kkpYfNuTdbI"
+transcript_source: web
+generated_at: 2026-09-15T22:17:48Z
+model: "deepseek-v4-flash"
 guid: "bd7d8052-b13e-11f1-8e96-ebe207990ba6"
 ---
 
 # Guy Young on Why Ethena Launched a Neobank on Top of Its Stablecoin — Unchained
 
-> ⚠️ Based on episode description only — full transcript was unavailable.
-
 ## TL;DR
-
-Guy Young, founder of Ethena Labs, discusses the launch of Ethena Pay, a neobank offering 6% yield on dollar deposits and 5% cashback in AVAX while obscuring that user balances are self-custodial stablecoins rather than bank deposits. He argues that yield, not brand loyalty, will onboard the next hundred million crypto users, and explains why DeFi TVL's failure to surpass 2021 highs pushed him to build a consumer fintech. They also cover USDe's backing shift to AAA-rated RWA lending, compliance risks from KYC breaches, and why card spend and FX fees are the real revenue focus.
+Guy Young, founder and CEO of Ethena Labs, joins Unchained to explain why Ethena moved from a DeFi-native synthetic dollar into consumer distribution by launching EthenaPay — a self-custodial neobank app built on Avalanche that runs entirely on USDe rather than USDC or USDT. The episode's thesis is vertical integration: by owning the last mile (app, virtual Visa card, IBAN rails, savings), Ethena captures more of the economics and the customer relationship, at the cost of making the whole pitch depend on user trust in USDe itself. Note: the full episode's YouTube upload carries no auto-captions and the show's own page is description-only, so this summary is reconstructed from published coverage of the launch and the episode's framing rather than from a verbatim transcript.
 
 ## Key points
-
-- Ethena Labs launched Ethena Pay, a neobank that pays 6% yield on dollar deposits and 5% cashback in AVAX, while deliberately hiding from users that their balance is held in a self-custodial stablecoin wallet, not a traditional bank account.
-- Guy Young was motivated to build a neobank after observing that DeFi's total value locked never reclaimed its 2021 peak even four years and a full bull market later, convincing him the onchain dream needed a consumer backup plan.
-- Young does not see Tether-backed Plasma as a competitor, arguing that yield rather than brand loyalty is what will pull the next hundred million users onto crypto rails.
-- Ethena Pay is rolling out to nearly 50 countries with a slow, controlled go-to-market strategy, prioritizing compliance and risk management over rapid expansion.
-- Ethena Pay chose Avalanche over Ethereum for settlement, likely due to lower transaction costs and faster finality suitable for payment use cases.
-- USDe's backing has shifted from a basis trade (delta-neutral derivatives positions) toward AAA-rated real-world-asset lending, increasing the collateral's safety and yield stability.
-- A Revolut-style KYC breach represents a compliance risk that Ethena cannot fully control because it relies on third-party KYC providers, highlighting the systemic vulnerability in fintech onboarding.
-- Guy Young is focused on revenue from card spend and FX fees rather than USDe's own yield, indicating the neobank's business model relies on transaction volume and foreign exchange margins.
-- Within the first two weeks of launch, Ethena Pay received 7-figure deposits, which surprised Young and suggests demand from larger depositors seeking yield on stablecoin balances.
+- Ethena launched EthenaPay on 1 September 2026 — a self-custodial consumer money app that holds dollar balances in USDe on Avalanche, rather than in USDC or USDT. Guy Young frames it as the first neobanking app vertically integrated with a stablecoin issuer's own product.
+- Product scope: a phone app, a virtual Visa card, fiat IBAN deposit details, international transfers, and daily rewards on balances — organised around three jobs the company describes as save, send, spend.
+- Funds arrive as USDe whether the user deposits fiat via IBAN or crypto into their wallet; outbound transfers to external bank accounts settle in the recipient's local currency. The virtual Visa card can be generated in under a minute and works at Visa's ~130 million merchant locations.
+- Yield and rewards are tiered and capped: roughly 5% on balances up to $5,000 for Standard users and up to 6% for Pro and VIP tiers with higher caps, plus cashback paid in AVAX. Pro is unlocked by locking $2,000 of ENA or referring 10 users; VIP requires $10,000 of ENA or 50 referrals.
+- The 6% savings rate drew scrutiny about where the yield actually comes from. Young said USDe's protocol rate funds the savings yield, but did not disclose the funding source for the rest of the rewards — and the terms label the rewards discretionary, so the headline rate can move with funding conditions rather than being a fixed deposit rate.
+- Cashback is calculated from the dollar value of a purchase but credited in AVAX, so its dollar value can fall or rise after it lands in the user's account.
+- Rollout was phased: an iOS beta opening to roughly 400 early-access users with weekly expansion through September, across 48–49 launch countries while skipping the US and EU. US persons cannot access the spend card.
+- Self-custody is the core claim — Ethena Pay says it does not hold customer funds — but the product still depends on licensed banking partners and a third-party card issuer, so the fiat rails remain intermediation by other names.
+- The main risk is the asset at the centre: USDe is a synthetic, uninsured dollar whose yield depends on funding conditions, so trust in USDe is the entire basis of the account.
+- Strategically, the move trades crypto-native distribution for consumer ownership of the last mile — Ethena gets more of the economics and the direct customer relationship, and the neobank becomes a distribution channel for its own stablecoin rather than a third party's.
 
 ## People mentioned
-
-- Guy Young
-- Laura Shin
+- Guy Young — founder and CEO, Ethena Labs
+- Laura Shin — host, Unchained
 
 ## Topics
-
-`stablecoins` `neobanks` `defi` `crypto-payments` `real-world-assets` `avalanche`
+Ethena, USDe, stablecoins, neobank, EthenaPay, Avalanche, AVAX, ENA, self-custody, Visa card, IBAN rails, yield, vertical integration

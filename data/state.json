@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-17",
-  "last_run_completed_at": "2026-09-17T22:14:57Z",
+  "last_run_date": "2026-09-18",
+  "last_run_completed_at": "2026-09-18T22:32:42Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4730,6 +4730,91 @@
       "date": "2026-09-15",
       "transcript_source": "show_notes",
       "show": "硅谷101"
+    },
+    "3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb": {
+      "date": "2026-09-18",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "4b9e41fc-b075-11f1-b2c3-bb78519eab92": {
+      "date": "2026-09-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Meb Faber Show - Better Investing"
+    },
+    "46fc7b20-b2ee-11f1-81df-7b5152d8e927": {
+      "date": "2026-09-18",
+      "transcript_source": "web_substack",
+      "show": "RiskReversal Pod"
+    },
+    "41ecc624-1e14-471a-96f5-b4c801817748": {
+      "date": "2026-09-18",
+      "transcript_source": "rss_omny_srt",
+      "show": "Everybody's Business"
+    },
+    "1eb64eec-b2db-11f1-b062-17d12708daa4": {
+      "date": "2026-09-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire"
+    },
+    "6aac23e0bf7eb386d302a26a": {
+      "date": "2026-09-18",
+      "transcript_source": "show_notes",
+      "show": "In Good Company with Nicolai Tangen"
+    },
+    "7d3e615b-9db0-4ebc-baa7-b4c901597c1b": {
+      "date": "2026-09-18",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business"
+    },
+    "6a5aab7a-29f7-4572-907e-b4c900f5ffe7": {
+      "date": "2026-09-18",
+      "transcript_source": "rss_omny_srt",
+      "show": "Money Stuff: The Podcast"
+    },
+    "51c4092c-b309-11f1-8603-fb8d30e1277f": {
+      "date": "2026-09-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "No Priors: Artificial Intelligence | Technology | Startups"
+    },
+    "ccee1bdc-a442-4345-b34a-beedb0f4aec8": {
+      "date": "2026-09-18",
+      "transcript_source": "show_notes",
+      "show": "StarTalk Radio"
+    },
+    "2b810f32-9b4c-11f1-9d71-bb2356ffd2e4": {
+      "date": "2026-09-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Compound and Friends"
+    },
+    "6aad4ef90521dc2c810dc46c": {
+      "date": "2026-09-18",
+      "transcript_source": "show_notes",
+      "show": "The Peter McCormack Show"
+    },
+    "72c1b60e-b301-11f1-81e2-0ff5a53ef22b": {
+      "date": "2026-09-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "140d3694-c691-4128-be71-7927e6ee17f0": {
+      "date": "2026-09-18",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "flightcast:01M2S8072CGP3Q31Q6VF87BKQR": {
+      "date": "2026-09-18",
+      "transcript_source": "web_search_fallback",
+      "show": "Bankless"
+    },
+    "18488322-b2ea-11f1-8bd9-23e1fa2386e7": {
+      "date": "2026-09-17",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "78ec2d74-0ad7-4c6f-9764-728eec0e6e87": {
+      "date": "2026-09-17",
+      "transcript_source": "youtube_autocaptions",
+      "show": "矽谷101"
     }
   },
   "failures": [
