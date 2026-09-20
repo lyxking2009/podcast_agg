@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-19",
-  "last_run_completed_at": "2026-09-19T22:08:35Z",
+  "last_run_date": "2026-09-20",
+  "last_run_completed_at": "2026-09-20T22:03:55Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4825,6 +4825,26 @@
       "date": "2026-09-19",
       "transcript_source": "local_whisper_asr",
       "show": "Big Technology Podcast"
+    },
+    "8e30cc48-c94f-47b3-b450-b4ca014b861f": {
+      "date": "2026-09-20",
+      "transcript_source": "skipped_trailer",
+      "show": "Odd Lots"
+    },
+    "substack:post:213758597": {
+      "date": "2026-09-20",
+      "transcript_source": "web",
+      "show": "Lenny's Podcast: Product | Career | Growth"
+    },
+    "4ef72174-b3a0-11f1-af22-4fb4eaf093bd": {
+      "date": "2026-09-20",
+      "transcript_source": "web",
+      "show": "Critics at Large | The New Yorker"
+    },
+    "3a8c39aa-b318-11f1-aa0a-d323fb577b4e": {
+      "date": "2026-09-19",
+      "transcript_source": "web",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     }
   },
   "failures": [

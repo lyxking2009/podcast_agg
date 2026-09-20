@@ -1,8 +1,9 @@
 ---
 date: 2026-09-19
-episodes_processed: 2
+episodes_processed: 3
 episodes_found_in_rss: 2
 feed_fallbacks_recovered: 0
+late_additions: 1
 generated_at: 2026-09-19T22:06:00Z
 revised_at: 2026-09-19T22:08:35Z
 generated_by: "Hermes cron (manual pipeline fallback — Claude Code OAuth expired, 15th consecutive day)"
@@ -61,4 +62,5 @@ Re-fetched 2026-09-18 independently and diffed every GUID against `state.json` `
 - **Big Technology Podcast** is a same-day Megaphone-hosted news roundtable (Ranjan Roy, Margins) with no RSS transcript tag and no published transcript or YouTube upload at run time. The first pass summarised the publisher's ten-point running order (`show_notes`); it was then replaced with a **real transcript obtained locally**: the published MP3 (99 MB, 67m57s) was transcribed with faster-whisper `small.en` (CPU, int8, 1,370 segments, 11,593 words, 273 s wall time) and the episode re-summarised from it at 22:08Z — hence `transcript_source: local_whisper_asr` and four verbatim, speaker-attributed quotes (spot-checked against the transcript). This is the Rung-4 escalation for hosts that ship neither an RSS transcript track nor a timely third-party transcript.
 - **Arc context worth noting:** this Big Technology episode continues the show's four-week AI-risk arc (2026-09-11 "Will AI Wipe Out Humanity? (And Who Profits)", 2026-09-16 Nate Soares) and its final topic — "the frontier AI business shows signs of slowing" — is the same slowdown theme that dominated the 2026-09-18 In Good Company wrap-up. Two independent shows converging on frontier-AI revenue deceleration in the same week.
 - **Revision (22:08Z):** the Big Technology entry above was re-generated from the local ASR transcript; the earlier `show_notes`-based file (slugged `…anthropic-and-openai…`) was removed so the vault holds exactly one file per GUID. Post-revision the 2026-09-19 directory contains exactly two episode files — one per in-window GUID — plus this report (verified by listing after the rewrite).
+- **Late addition (2026-09-20 run):** The Investor's Podcast — *RWH072: The Making of A Money Master w/ Rob Vinall* published 2026-09-19 17:00 PT, after this run's feed fetch, and was processed by the 2026-09-20 run (full 22,079-word podscripts transcript). Its summary is filed in this 2026-09-19 directory by published date.
 - Claude Code OAuth remains expired (15th consecutive day, 2026-08-08 → 2026-09-19) — manual pipeline fallback used as documented.
