@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-20",
-  "last_run_completed_at": "2026-09-20T22:03:55Z",
+  "last_run_date": "2026-09-21",
+  "last_run_completed_at": "2026-09-21T22:09:13Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -4842,9 +4842,40 @@
       "show": "Critics at Large | The New Yorker"
     },
     "3a8c39aa-b318-11f1-aa0a-d323fb577b4e": {
-      "date": "2026-09-19",
-      "transcript_source": "web",
+      "date": "2026-09-20",
+      "transcript_source": "youtube_autocaptions",
       "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
+    },
+    "8d30821d-cf7d-4147-b00e-b4cb01647404": {
+      "date": "2026-09-21",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "5aad98f5-7294-4fb4-bd28-f091ec21d3bd": {
+      "date": "2026-09-21",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Machine Learning Street Talk (MLST)"
+    },
+    "c7969f5b-163e-43ff-b0d9-54a34021b2af": {
+      "date": "2026-09-21",
+      "transcript_source": "web_substack",
+      "show": "The Peterman Pod"
+    },
+    "flightcast:01M31NN7M7AFMPFJSG8VBD53Z0": {
+      "date": "2026-09-21",
+      "transcript_source": "rss_vtt",
+      "show": "Bankless"
+    },
+    "1ee7716e-b3d2-11f1-a924-87a8fb61e822": {
+      "date": "2026-09-21",
+      "transcript_source": "web_podscripts",
+      "show": "Animal Spirits Podcast"
+    },
+    "0322655e-b118-11f1-b8eb-f79d9c6ca5d1": {
+      "date": "2026-09-20",
+      "transcript_source": "web_podscripts",
+      "show": "The Rest Is History",
+      "late_addition": true
     }
   },
   "failures": [
