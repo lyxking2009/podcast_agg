@@ -1,7 +1,7 @@
 ---
 date: 2026-09-23
-episodes_processed: 11
-episodes_found_in_rss: 11
+episodes_processed: 10
+episodes_found_in_rss: 10
 feed_fallbacks_recovered: 0
 trailers_skipped: 0
 late_additions: 1
@@ -20,9 +20,9 @@ generated_by: "Hermes cron (podcast aggregation pipeline, deepseek-v4-pro)"
 | Feeds fetched | 47 (46 active, 1 excluded by config) |
 | Feed errors | 0 |
 | Episodes found in scan window | 8 (primary pass) |
-| Episodes summarized | 11 (8 primary + 3 from concurrent sibling pass) |
+| Episodes summarized | 10 for 09-23 (8 primary + 2 from concurrent sibling pass), plus 1 late addition filed under 09-22 |
 | Failures | 0 |
-| Transcript coverage | 11/11 (100%) |
+| Transcript coverage | 11/11 new episodes (100%) |
 | Trailers/promos skipped | 0 |
 | Rung 1 / Rung 2 / Rung 3 | 2 / 6 / 0 |
 | Pipeline | Hermes-native (RSS fetch → transcript ladder → DeepSeek `deepseek-v4-pro` → Markdown) |
@@ -34,15 +34,16 @@ All 46 active feeds returned parseable XML on the first parallel pass (Chrome Us
 | Source | Count |
 |---|---|
 | `youtube_autocaptions` | 6 |
+| `web` | 2 |
 | `rss_vtt` | 1 |
 | `rss_omny_srt` | 1 |
-| `web` | 2 |
-| `show_notes` | 1 |
+
+(The 2026-09-22 late addition `Compound and Friends` used `show_notes`.)
 
 | Published | Episodes |
 |---|---|
 | 2026-09-22 | 1 (late addition) |
-| 2026-09-23 | 11 |
+| 2026-09-23 | 10 |
 
 ## Episodes
 
@@ -81,4 +82,4 @@ Verification sweep: a second fetch pass over `2026-09-22T07:00:00+00:00` → `20
 - **Latent Space show notes are not a transcript.** `latent.space/p/bio-security-is-an-ai-arms-race-eric` carries editorial notes plus one pull quote; the full episode only exists as the YouTube upload (`B7DdNj_VjcU`, 1h32m). Don't count the Substack page as a transcript hit next time.
 - **Thematic convergence: AI moving from demo to regulated infrastructure.** Hutter's TabPFN (tabular foundation models beating XGBoost), Nguyen's biosecurity arms race (genomes can't be patched, so screening must be AI-native), Mohan's YouTube AI-tooling strategy, Range's SEC-regulated agentic wealth advisor and the Bits + Bips regime-change debate all describe the same shift — models are being pushed into domains with real consequences, real regulators and real liability.
 - **Toolchain note:** the previously used caption downloader (`/opt/homebrew/Cellar/yt-dlp/2026.7.4` under `python3.14`) is broken — that Cellar pin now holds 2026.8.19 with no `yt_dlp` module. The working binary is the pyenv shim (`/Users/yuxinglin/.pyenv/shims/yt-dlp`, 2026.07.04) plus `youtube_transcript_api` from the system Python. `timeout(1)` is not available on this macOS box (use `gtimeout` or no timeout).
-- **No duplicate GUIDs in state.** All 11 new GUIDs verified present exactly once; `processed` map grew 976 → 987; `last_run_date` = `2026-09-23`.
+- **No duplicate GUIDs.** All 11 new GUIDs verified present exactly once in `state.json` and exactly once as a vault file (after removing the sibling duplicates); `processed` map grew 976 → 987; `last_run_date` = `2026-09-23`.
