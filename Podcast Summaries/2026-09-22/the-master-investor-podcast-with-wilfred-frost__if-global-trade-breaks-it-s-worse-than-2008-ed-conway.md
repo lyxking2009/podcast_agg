@@ -1,7 +1,7 @@
 ---
 podcast: "The Master Investor Podcast with Wilfred Frost"
 episode: "If Global Trade Breaks, It’s Worse Than 2008 | Ed Conway"
-published: 2026-09-21
+published: 2026-09-22
 duration: "1h3m2s"
 audio_url: "https://mcdn.podbean.com/mf/web/fjsfdesime67iuvr/MI_EDCONWAY_AUDIO_v1.mp3"
 episode_url: "https://TheMasterInvestorPodcast.podbean.com/e/if-global-trade-breaks-it-s-worse-than-2008-ed-conway/"

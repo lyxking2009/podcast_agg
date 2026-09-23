@@ -40,16 +40,16 @@ Normal Tuesday volume: seven episodes published across 09-21/09-22 were picked u
 
 | Published | Episodes |
 |---|---|
-| 2026-09-21 | 3 |
-| 2026-09-22 | 4 |
+| 2026-09-21 | 1 |
+| 2026-09-22 | 6 |
 
 ## Episodes
 
 | Show | Episode | Published | Duration | Source |
 |---|---|---|---|---|
 | Latent Space: The AI Engineer Podcast | [[latent-space-the-ai-engineer-podcast__jev-system-one-models-for-prod-not-god-with-diogo-almeida-ceo-typesafe-ai]] | 2026-09-21 | 2h20m53s | `rss_substack` |
-| The Master Investor Podcast with Wilfred Frost | [[the-master-investor-podcast-with-wilfred-frost__if-global-trade-breaks-it-s-worse-than-2008-ed-conway]] | 2026-09-21 | 1h3m2s | `youtube_autocaptions` |
-| StarTalk with Neil deGrasse Tyson | [[startalk-with-neil-degrasse-tyson__lost-in-space-game-night]] | 2026-09-21 | 42m14s | `youtube_autocaptions` |
+| The Master Investor Podcast with Wilfred Frost | [[the-master-investor-podcast-with-wilfred-frost__if-global-trade-breaks-it-s-worse-than-2008-ed-conway]] | 2026-09-22 | 1h3m2s | `youtube_autocaptions` |
+| StarTalk with Neil deGrasse Tyson | [[startalk-with-neil-degrasse-tyson__lost-in-space-game-night]] | 2026-09-22 | 42m14s | `youtube_autocaptions` |
 | Invest Like the Best with Patrick O'Shaughnessy | [[invest-like-the-best-with-patrick-o-shaughnessy__gabe-stengel-building-investing-superintelligence-invest-like-the-best-ep-492]] | 2026-09-22 | 1h4m24s | `web_podscripts` |
 | The Memo by Howard Marks | [[the-memo-by-howard-marks__shall-we-repeal-the-laws-of-economics-part-iii]] | 2026-09-22 | 27m16s | `web_oaktree_pdf` |
 | The Peter McCormack Show | [[the-peter-mccormack-show__214-prof-richard-werner-they-are-traitors-how-central-banks-sabotage-wealth-crea]] | 2026-09-22 | 1h6m19s | `youtube_autocaptions` |
@@ -72,3 +72,10 @@ Normal Tuesday volume: seven episodes published across 09-21/09-22 were picked u
 - **Thematic convergence: fiscal/financial plumbing.** Marks on Treasury buybacks failing to hold down long yields, Werner on central banks engineering credit creation, and Conway on the fragility of just-in-time global trade all describe the same substrate — the institutions that move money and goods are the ones under strain. Stengel's Rogo episode is the counterpoint: AI-native software attacking exactly that plumbing from below.
 - **Claude Code OAuth remains expired** (since 2026-08-08, now 18th consecutive day); the Hermes-native pipeline was used end-to-end as documented.
 - **No duplicate GUIDs.** Each of the seven episodes produced exactly one vault file and one `state.json` entry; a frontmatter scan confirms one file per GUID for this date.
+
+
+---
+
+## Late additions (recovered 2026-09-23)
+
+- **[[the-compound-and-friends__metas-muse-launch-josh-is-wrong-on-netflix-internals-weaken-10-year-bonds-at-5-buffett-steps-away\|The Compound and Friends — Meta’s Muse launch, Josh is wrong on Netflix, internals weaken, 10-year bonds at 5%%, Buffett steps away]]** — `show_notes`. This episode (guid `020e7f50-b69e-11f1-92e2-33e6a76bb77b`) published after the 09-22 run’s fetch window; it was caught by the prior-date re-fetch on 2026-09-23 and is recorded in state with `date: 2026-09-22`.

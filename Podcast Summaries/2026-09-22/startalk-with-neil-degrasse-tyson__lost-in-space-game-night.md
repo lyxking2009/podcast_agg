@@ -1,7 +1,7 @@
 ---
 podcast: "StarTalk with Neil deGrasse Tyson"
 episode: "Lost in Space Game Night"
-published: 2026-09-21
+published: 2026-09-22
 duration: "42m14s"
 audio_url: "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d2f15d70-e357-46b5-bcc9-634090d46e8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=d2f15d70-e357-46b5-bcc9-634090d46e8a&feed=4T39_jAj"
 episode_url: "siriusxm.com"
