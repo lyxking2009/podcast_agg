@@ -83,3 +83,15 @@ Verification sweep: a second fetch pass over `2026-09-22T07:00:00+00:00` → `20
 - **Thematic convergence: AI moving from demo to regulated infrastructure.** Hutter's TabPFN (tabular foundation models beating XGBoost), Nguyen's biosecurity arms race (genomes can't be patched, so screening must be AI-native), Mohan's YouTube AI-tooling strategy, Range's SEC-regulated agentic wealth advisor and the Bits + Bips regime-change debate all describe the same shift — models are being pushed into domains with real consequences, real regulators and real liability.
 - **Toolchain note:** the previously used caption downloader (`/opt/homebrew/Cellar/yt-dlp/2026.7.4` under `python3.14`) is broken — that Cellar pin now holds 2026.8.19 with no `yt_dlp` module. The working binary is the pyenv shim (`/Users/yuxinglin/.pyenv/shims/yt-dlp`, 2026.07.04) plus `youtube_transcript_api` from the system Python. `timeout(1)` is not available on this macOS box (use `gtimeout` or no timeout).
 - **No duplicate GUIDs.** All 11 new GUIDs verified present exactly once in `state.json` and exactly once as a vault file (after removing the sibling duplicates); `processed` map grew 976 → 987; `last_run_date` = `2026-09-23`.
+
+
+## Late additions (recovered 2026-09-24)
+
+A prior-date re-fetch run on 2026-09-24 returned 10 episodes for 2026-09-23; two were absent from `state.json` and have been added here (append-only — this report's original content is unchanged).
+
+| Show | Episode | Source | Guid |
+|---|---|---|---|
+| The Rest Is History | 708. The Terror: The Reign of Robespierre (Part 2) | `web` (podscripts.co) | `f3fe2076-b67c-11f1-ba50-83337ba68545` |
+| 硅谷101 | E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口?｜对话Eight Sleep创始人 | `youtube_autocaptions` (English original interview, 42.8K chars) | `833a6b89-e6a1-4d61-a3b3-46f4d664894e` |
+
+The Rest Is History's Terror miniseries (episodes 707–712, all published 20 Sep 2026) publishes several parts at once, so part 2 fell outside the 2026-09-23 run's earlier fetch. 硅谷101 E252 published 23 Sep 2026, after the 2026-09-23 pipeline had completed at 22:10Z.
