@@ -76,3 +76,15 @@ The browser-UA recovery sequence (parallel fetch → plain curl → Chrome-UA cu
 - **Coverage gap source note**: 8 of 13 items were summarized from publisher show notes or structured summaries rather than verbatim transcripts (`show_notes` × 6, plus the Compound and Meb Faber chaptered notes counted there, RiskReversal Substack structured summary, In Good Company Acast notes). This is a direct consequence of the YouTube 429 block plus those shows not publishing transcripts; each summary cites its source in the vault frontmatter.
 - The 3 Omny SRT episodes (Everybody's Business, Money Stuff, Odd Lots) and StarTalk’s published S12E21 transcript are full verbatim sources.
 - State updated: `last_run_date` = 2026-09-25; 12 processed entries dated 2026-09-25 plus 1 late-addition entry dated 2026-09-24; `failures` unchanged.
+
+## Concurrent sibling run (reconciliation)
+
+A second instance of the same 3 PM cron job ran in parallel on 2026-09-25 and finished at 22:07:41Z; this vault and the state update above are its output. The sibling did not commit, so the 2026-09-25 vault, the revised 2026-09-24 report and `data/state.json` were committed and pushed by the other instance at 22:14Z (`1cd2837`). No episode was re-summarized and no file was overwritten.
+
+The second instance independently reached the same conclusion on the transcript ladder and confirmed three points worth recording:
+
+- **YouTube is globally blocked, not per-video.** `yt-dlp` returned `HTTP Error 429` on every `timedtext` fetch across player clients (`web`, `web_safari`, `tv`, `android_vr`, `ios`). Direct probes of `youtube.com/api/timedtext` and the legacy `video.google.com/timedtext` endpoint returned `HTTP 200` with a **zero-byte body**, and third-party caption services (`youtubetotranscript.com` 403; `notegpt.io` auth wall; `youtubetranscript.com` "YouTube is currently blocking us from fetching subtitles"). The raw `captionTracks` JSON is still served in the watch page, so the block is on the caption CDN, not discovery.
+- **Paid transcript sources were correctly rejected.** `spoken.md` lists 1,029 RiskReversal transcripts behind a per-episode credit key (demo key restricted to one episode); `podscripts.co` has no show pages for RiskReversal, Empire, Meb Faber or In Good Company, and its search endpoint 404s.
+- **Publisher-hosted transcripts are not reachable for the Friday shows.** Big Technology's `transcriptInfo` is `null` on its Apple episode pages and its Substack archive carries an accompanying article, not a transcript; NBIM's `nbim.no/en/publications/podcast/<slug>/transcript` pattern 404s for the Friday Wrap-Up (the site's episode list is JS-rendered).
+
+Audio-only shows with no published transcript therefore correctly fell to `show_notes`, consistent with this report's source table.
