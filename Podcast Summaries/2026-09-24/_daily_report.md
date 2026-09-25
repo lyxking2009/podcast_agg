@@ -4,7 +4,7 @@ episodes_processed: 8
 episodes_found_in_rss: 6
 feed_fallbacks_recovered: 2
 trailers_skipped: 0
-late_additions: 0
+late_additions: 1
 generated_at: 2026-09-25T00:14:21Z
 generated_by: "Hermes cron (podcast aggregation pipeline, deepseek-v4-flash manual fallback)"
 ---
@@ -104,3 +104,8 @@ A scheduled Hermes cron run (`deepseek-v4-pro`) executed the same pipeline indep
 - **State hygiene:** The `Critics at Large` entry used a synthetic key (`critics-at-large-2026-09-24-survival-stories`), so the real RSS guid `4902f8c2-b79e-11f1-86d2-a72bb864ff96` would not dedupe on future runs and the episode would be re-summarized. The guid is now mapped in `state.json` alongside the synthetic key.
 - **Final coverage:** 10/10 in-window episodes present in `state.json` with a vault file. Transcript ladder for this window: rung 1 = 3, rung 2 = 7, rung 3 = 0 (no description fallbacks); no failures.
 
+## Late additions (recovered 2026-09-25)
+
+| Show | Episode | Source | Note |
+|---|---|---|---|
+| Latent Space: The AI Engineer Podcast | Runway’s WorldPrompt and the Engineering of Real-Time Worlds | web_search_fallback | Published 2026-09-24 18:30 PT — after this run’s 3 PM fetch, and the Flightcast feed errored again in both the 09-24 and 09-25 runs. Recovered via browser-UA direct fetch on 2026-09-25 (HTTP 200, 13.9 MB, `substack:post:217289983`) and summarized from the public post at latent.space/p/runway. |
