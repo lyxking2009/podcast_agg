@@ -88,3 +88,12 @@ The second instance independently reached the same conclusion on the transcript 
 - **Publisher-hosted transcripts are not reachable for the Friday shows.** Big Technology's `transcriptInfo` is `null` on its Apple episode pages and its Substack archive carries an accompanying article, not a transcript; NBIM's `nbim.no/en/publications/podcast/<slug>/transcript` pattern 404s for the Friday Wrap-Up (the site's episode list is JS-rendered).
 
 Audio-only shows with no published transcript therefore correctly fell to `show_notes`, consistent with this report's source table.
+
+## Late additions (recovered 2026-09-26)
+
+| Show | Episode | Duration | Source | Note |
+|---|---|---|---|---|
+| Masters in Business | Investing In The Great Wealth Transfer: Masters in Business with Adam Frank | 1h10m54s | rss_omny_srt | Published 2026-09-25 15:07 PT (raw `<pubDate>` Fri, 25 Sep 2026 22:07:33 +0000) — after this run's RSS fetch; state was committed at 22:07:41Z. Found by the 2026-09-26 prior-date diff. Full Omny SRT transcript. |
+| Latent Space: The AI Engineer Podcast | OpenRouter: from Seed to Stripe — with OpenRouter's Alex Atallah & AMP's Anjney Midha | 1h20m43s | web | Published 2026-09-25 16:14 PT (raw `<pubDate>` Fri, 25 Sep 2026 23:14:41 GMT) — after the 3 PM run. The feed errored with the Flightcast 167-byte response in both runs; recovered on 2026-09-26 via browser-UA direct fetch. Public Substack post with transcript excerpts. |
+
+Both files were written into the 2026-09-25 vault directory (grouped by publication date). `last_run_date` remains 2026-09-26 and is unchanged by this append, which is additive only.
