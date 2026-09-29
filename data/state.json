@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-09-27",
-  "last_run_completed_at": "2026-09-27T22:04:39Z",
+  "last_run_date": "2026-09-29",
+  "last_run_completed_at": "2026-09-29T22:40:11Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -5117,6 +5117,76 @@
       "date": "2026-09-27",
       "transcript_source": "web",
       "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+    },
+    "91f43632-b93c-11f1-9606-3bc35154374d": {
+      "date": "2026-09-28",
+      "transcript_source": "web_podscripts",
+      "show": "Animal Spirits Podcast"
+    },
+    "72db537c-bb24-11f1-805d-739c8a3d8d83": {
+      "date": "2026-09-28",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy"
+    },
+    "7a3568d9-8263-4e3a-8f8f-b4d00139959f": {
+      "date": "2026-09-28",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "235d31ba-b90a-11f1-bb6c-3343ab7defdd": {
+      "date": "2026-09-28",
+      "transcript_source": "youtube_autocaptions",
+      "show": "RiskReversal Pod"
+    },
+    "80b7d736-bb51-11f1-b64a-cbff8f6575d5": {
+      "date": "2026-09-28",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Compound and Friends"
+    },
+    "TheMasterInvestorPodcast.podbean.com/7a2da00a-0adc-3a83-8cd1-46214fb3162a": {
+      "date": "2026-09-28",
+      "transcript_source": "show_notes",
+      "show": "The Master Investor Podcast with Wilfred Frost"
+    },
+    "c70e7e91-caf7-431c-91b2-723a9b1e3d33": {
+      "date": "2026-09-28",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peterman Pod"
+    },
+    "flightcast:01M3KMPHJEJRMNN8X1XN1E07P1": {
+      "date": "2026-09-28",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Bankless"
+    },
+    "5b3a78c0-b826-11f1-8f96-8ba30ba9f7aa": {
+      "date": "2026-09-27",
+      "transcript_source": "web_podscripts",
+      "show": "The Rest Is History"
+    },
+    "0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d": {
+      "date": "2026-09-27",
+      "transcript_source": "youtube_autocaptions",
+      "show": "\u7845\u8c37101"
+    },
+    "589a3ac9-fbd2-492d-8c18-a0a2315d1b8a": {
+      "date": "2026-09-29",
+      "transcript_source": "web",
+      "show": "StarTalk with Neil deGrasse Tyson"
+    },
+    "6abbc7456ffb28f8d6c9c497": {
+      "date": "2026-09-29",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The Peter McCormack Show"
+    },
+    "substack:post:217893105": {
+      "date": "2026-09-29",
+      "transcript_source": "web",
+      "show": "Latent Space: The AI Engineer Podcast"
+    },
+    "a4ae7f12-bc4d-11f1-bf0c-1fda5ade33f6": {
+      "date": "2026-09-29",
+      "transcript_source": "whisper_asr",
+      "show": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)"
     }
   },
   "failures": [
