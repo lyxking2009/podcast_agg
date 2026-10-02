@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-10-01",
-  "last_run_completed_at": "2026-10-01T23:35:56Z",
+  "last_run_date": "2026-10-02",
+  "last_run_completed_at": "2026-10-02T22:17:21Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -5302,6 +5302,71 @@
       "date": "2026-10-01",
       "transcript_source": "web",
       "show": "Critics at Large | The New Yorker"
+    },
+    "2555f07c-bdf3-11f1-9318-139d5901557b": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "Empire"
+    },
+    "6abf58f7f5a87132b394a2f0": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "In Good Company with Nicolai Tangen"
+    },
+    "afbe784f-9233-4fb6-9366-b4d700ac004b": {
+      "date": "2026-10-02",
+      "transcript_source": "rss_omny_srt",
+      "show": "Masters in Business"
+    },
+    "e426b829-e22f-4759-b9cc-b4d70116d973": {
+      "date": "2026-10-02",
+      "transcript_source": "rss_omny_srt",
+      "show": "Money Stuff: The Podcast"
+    },
+    "44fa0b1c-be0b-11f1-b00d-cb6a27141e9e": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "No Priors: Artificial Intelligence | Technology | Startups"
+    },
+    "4dabf3ec-4fc6-4bb9-a7a7-b4d601226e6f": {
+      "date": "2026-10-02",
+      "transcript_source": "rss_omny_srt",
+      "show": "Odd Lots"
+    },
+    "26953760-bdb5-11f1-8190-5758b2d5703c": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "RiskReversal Pod"
+    },
+    "46019756-3fd8-4893-af81-e3fe0ba0a21c": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "StarTalk with Neil deGrasse Tyson"
+    },
+    "fbaca536-ab19-11f1-84a3-a3cf7672b4d2": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "The Compound and Friends"
+    },
+    "c4c01396-bd25-11f1-a562-334d5e307abc": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "The Meb Faber Show - Better Investing"
+    },
+    "b1a5987e-be17-11f1-8324-3fb19afb6e4b": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "Unchained"
+    },
+    "flightcast:01M3XCGWVPMBC1VYZ848WZSH87": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "Bankless"
+    },
+    "substack:post:218414422": {
+      "date": "2026-10-02",
+      "transcript_source": "web",
+      "show": "Latent Space: The AI Engineer Podcast"
     }
   },
   "failures": [
