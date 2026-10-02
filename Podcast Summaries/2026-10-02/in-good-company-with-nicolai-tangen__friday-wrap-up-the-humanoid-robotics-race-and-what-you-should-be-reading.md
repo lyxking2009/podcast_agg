@@ -14,13 +14,13 @@ guid: "6abf58f7f5a87132b394a2f0"
 # Friday Wrap-Up: The Humanoid Robotics Race and What You Should Be Reading — In Good Company with Nicolai Tangen
 
 ## TL;DR
-In this Friday wrap-up, hosts Nicolai Tangen and Marte Skar discuss Horizon Robotics founder Kai Ju's view that specializing in self-driving chips can make a 'terrible business' a great one, and why China's overlapping supplier cluster likely wins the humanoid robotics race. They break down the concentrated chip supply chain from NVIDIA and ASML to TSMC, noting top 10 tech holdings now make up 25% of the fund and AI infrastructure spending could reach $7–9 trillion over four years. Tangen also recommends reading widely and highlights Adam Grant's new book 'Vibe'.
+In this Friday wrap-up, hosts Nicolai Tangen and Marthe Skaar discuss Horizon Robotics founder Kai Yu's view that specializing in self-driving chips can make a 'terrible business' a great one, and why China's overlapping supplier cluster likely wins the humanoid robotics race. They break down the concentrated chip supply chain from NVIDIA and ASML to TSMC, noting top 10 tech holdings now make up 25% of the fund and AI infrastructure spending could reach $7–9 trillion over four years. Tangen also recommends reading widely and highlights Adam Grant's new book 'Vibe'.
 
 ## Key points
-- Kai Ju, founder and CEO of Horizon Robotics, positions the company as a supplier of systems and chips for self-driving cars, holding a large market share among both Chinese and European automakers despite being relatively unknown.
+- Kai Yu, founder and CEO of Horizon Robotics, positions the company as a supplier of systems and chips for self-driving cars, holding a large market share among both Chinese and European automakers despite being relatively unknown.
 - Nicolai Tangen's view shifted from expecting Silicon Valley to lead self-driving to observing Waymo in San Francisco: first ride scary, second natural, third makes drivers seem unnecessary; he believes autonomous taxis will take over and eventually enable hands-off, eyes-off, and mind-off driving.
 - Tangen argues self-driving cars will be safer than human-driven cars and free up time, comparing the transition to elevators losing operators after a 1930s–40s strike, predicting people will wonder why they ever steered themselves in 20 years.
-- Kai Ju deliberately avoids building cars, aiming to be 'the Microsoft and Intel for robots with Horizon inside'; he says specializing in chips is necessary because gathering training data and ensuring safety is a huge job in itself.
+- Kai Yu deliberately avoids building cars, aiming to be 'the Microsoft and Intel for robots with Horizon inside'; he says specializing in chips is necessary because gathering training data and ensuring safety is a huge job in itself.
 - The chip business is described as 'terrible' because it takes five to eight years before a chip makes money, but this barrier can make it a great business as few competitors can enter; safety thresholds are extremely high because self-driving accidents are perceived more seriously.
 - China's supply chain is described as a 'wonderland' where the whole country works like one village, creating a mutually reinforcing cluster of sub-suppliers that is very difficult to replicate.
 - The same actuator, sensor, and visual sensor suppliers needed for electric vehicles and self-driving cars overlap with those needed for humanoid robots, leading Tangen to state he cannot see anyone other than the Chinese winning the humanoid robotics race.
@@ -39,7 +39,7 @@ In this Friday wrap-up, hosts Nicolai Tangen and Marte Skar discuss Horizon Robo
 > "I think in 20 years time, you're just going to wonder why we were sitting there and turning that wheel ourselves." — Nicolai Tangen
 
 ## People mentioned
-- Kai Ju
+- Kai Yu
 - Adam Grant
 - Bill Gates
 
