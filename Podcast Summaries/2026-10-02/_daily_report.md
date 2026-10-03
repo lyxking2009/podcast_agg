@@ -86,3 +86,8 @@ Re-fetched 2026-10-01 and diffed GUIDs against `state.json` `processed`: **10/10
 - Unchained: [[unchained__the-chopping-block-bitget-s-387-million-dollar-hack-kalshi-s-cooked-perps-volume]]
 - Bankless: [[bankless__rollup-uptober-green-light-robinhood-goes-all-in-400m-bitget-hack-prediction-markets-to-scotus]]
 - Latent Space: The AI Engineer Podcast: [[latent-space-the-ai-engineer-podcast__academia-is-for-ambition-alex-zhang-mit]]
+
+
+## Late additions (recovered 2026-10-03)
+
+- **Big Technology Podcast** - [[big-technology-podcast__anthropics-ipo-leak-openais-dots-vs-metas-muse-visual-turing-test]] (pubDate 2026-10-02 21:59Z, missed by the 2026-10-02 run's fetch) - `web` source (full podscripts.co transcript). Covers the leaked Anthropic S-1, the $518B / 80%-binding compute commitment, record-low S&P 500 breadth, OpenAI's Dots vs. Meta's Muse, the frontier-vs-open-weight debate, and the Tavus "Griffin" visual Turing test.
