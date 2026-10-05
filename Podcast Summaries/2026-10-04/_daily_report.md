@@ -48,3 +48,11 @@ generated_by: "Hermes cron (podcast aggregation pipeline)"
 - The Investor's Podcast (We Study Billionaires): [[the-investors-podcast-we-study-billionaires-the-investors-podcast-network__tip851-heico-vs-transdigm-whose-aerospace-monopoly-is-better-w-kyle-grieve-and-shawn-omalley]]
 - Lenny's Podcast: [[lenny-s-podcast-product-career-growth__openais-head-of-chatgpt-were-entering-a-new-era-of-ai-again-tibo-sottiaux]]
 - Bankless: [[bankless__vvv-community-call-september]]
+
+## Late additions (recovered 2026-10-05)
+
+| Show | Episode | Duration | Source | Content source |
+|---|---|---|---|---|
+| The Rest Is History | [[the-rest-is-history__711-the-terror-killing-god-part-5]] | 1:16:57 | `web` | podscripts.co full transcript |
+
+Published 2026-10-04 23:05 UTC (16:05 PT) — after the 2026-10-04 run's 22:18Z RSS fetch, so it was missed by the same-day run and recovered by the next day's prior-date diff.
