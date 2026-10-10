@@ -48,3 +48,11 @@ generated_by: "Hermes cron (podcast aggregation pipeline)"
 
 - **Timezone note:** Unchained's feed stamps `-0000` but means UTC. `Wed, 07 Oct 2026 03:54:00 -0000` = 2026-10-06 20:54 PT, corroborated by the episode page ("October 6, 2026 at 11:56 pm ET"). Correctly classified as a 10-06 late addition, not an in-window episode.
 - **Duplicate run:** A second instance of this cron job ran concurrently and emitted alternate-slug files for Big Technology and RiskReversal built from show notes (YouTube captions had 429'd for it). Those were removed in favour of the transcript-grounded versions above; the two 10-06 late additions it produced were retained and recorded in `state.json`.
+
+## Late additions (recovered 2026-10-08)
+
+| Show | Episode | Duration | Source | Content source |
+|---|---|---|---|---|
+| The Rest Is History | [[the-rest-is-history__712-the-terror-the-fall-of-robespierre-part-6]] | 1h36m55s | `show_notes` | therestishistory.com episode page (description only — no transcript published); YouTube early-access upload is members-only |
+
+_Recovered on 2026-10-08 by re-fetching the 2026-10-07 window and diffing GUIDs against `state.json` — this episode was published after the 2026-10-07 run's RSS fetch._

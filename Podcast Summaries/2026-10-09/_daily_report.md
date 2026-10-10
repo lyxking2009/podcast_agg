@@ -66,4 +66,3 @@ generated_by: "Hermes cron (podcast aggregation pipeline)"
 - No `failures` entries: every in-window episode yielded an acceptable transcript or structured source.
 - YouTube auto-captions for No Priors (`up4sG9RM20M`), Unchained NEAR (`SHFrG_QOzQM`) and Chopping Block (`f1R55panuL4`) all returned HTTP 429 (rate-limited) — web sources used instead.
 - Bankless uses a non-RSS GUID key (`bankless:rollup-2026-10-09`) because its feed failed and supplied no GUID.
-
