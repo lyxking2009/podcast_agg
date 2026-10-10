@@ -45,9 +45,9 @@ generated_by: "Hermes cron (podcast aggregation pipeline)"
 
 - No `failures` entries: both in-window episodes yielded acceptable transcripts.
 - A prior-date diff of 2026-10-09 against `state.json` found no late-published 10-09 episodes (all 12 feed items already processed).
-- **Concurrent sibling run:** a sibling session processed the Latent Space episode in parallel (its file dated `published: 2026-10-10`, model `deepseek-v4-pro`). The two runs were reconciled — one file per GUID, its (verified) content retained under a single canonical filename, my duplicate from the `2026-10-09/` directory removed. The episode is dated by the feed's own offset (`Sat, 10 Oct 2026 00:31:26 GMT`), matching `fetch_episodes_parallel.py`'s `pub_date` convention.
+- **Concurrent sibling run:** a sibling session processed the Latent Space episode in parallel (its file dated `published: 2026-10-10`, model `deepseek-v4-pro`). The two runs were reconciled — one file per GUID, its (verified) content retained under a single canonical filename, my duplicate from the `2026-10-09/` directory removed. The episode is dated by the feed's own offset (`Sat, 10 Oct 2026 00:31:26 GMT`), matching `fetch_episodes_parallel.py`'s `pub_date` convention. The sibling subsequently re-dated its own state entry to `2026-10-09` and removed its vault file; both were corrected back to `2026-10-10` (feed-offset convention + the Step-0 PT window 10-09 15:00→10-10 15:00), so state and vault agree.
 - Feed errors were re-checked with a browser User-Agent before concluding — all six returned HTTP 200 with the UA, confirming the failures were transient (Flightcast error pages / timeouts without a UA).
-- `last_run_date` advanced 2026-10-09 → 2026-10-10; state records `substack:post:219666029` (date 2026-10-09) and `387cf19d-15d2-40f5-9752-7893a16aa830` (date 2026-10-10).
+- `last_run_date` advanced 2026-10-09 → 2026-10-10; state records `substack:post:219666029` (date 2026-10-10) and `387cf19d-15d2-40f5-9752-7893a16aa830` (date 2026-10-10).
 
 ## Duplicate run note
 
