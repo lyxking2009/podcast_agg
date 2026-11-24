@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-23",
-  "last_run_completed_at": "2026-11-23T23:19:48Z",
+  "last_run_date": "2026-11-24",
+  "last_run_completed_at": "2026-11-24T23:05:36Z",
   "processed": {
     "ba11bcd6-2009-4d79-98f8-b46001259850": {
       "date": "2026-06-06",
@@ -860,7 +860,7 @@
     "338add54-5b12-11f1-b3cc-97c2839c1c63": {
       "date": "2026-05-31",
       "transcript_source": "web_podscripts",
-      "show": "The Investor's Podcast (We Study Billionaires) \u2014 The Investor's Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires) — The Investor's Podcast Network"
     },
     "8e8dfaac-5d37-11f1-97a8-03d1c644b93e": {
       "date": "2026-05-31",
@@ -1073,7 +1073,7 @@
       "date": "2026-06-04",
       "transcript_source": "web",
       "show": "Latent Space: The AI Engineer Podcast",
-      "episode_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs"
+      "episode_title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs"
     },
     "web_search_fallback:the-edge:2026-06-04": {
       "date": "2026-06-04",
@@ -1096,7 +1096,7 @@
       "date": "2026-06-04",
       "transcript_source": "web_search_fallback",
       "show": "Latent Space: The AI Engineer Podcast",
-      "episode_title": "The modern AI Drone tech stack \u2014 Yaroslav Azhnyuk, The Fourth Law"
+      "episode_title": "The modern AI Drone tech stack — Yaroslav Azhnyuk, The Fourth Law"
     },
     "8118c9de-60d8-11f1-8396-f304a5cefb39": {
       "date": "2026-06-05",
@@ -1401,7 +1401,7 @@
     "259291f5-2715-4dde-bcfe-b5beb4df5793": {
       "date": "2026-06-12",
       "transcript_source": "skipped_no_transcript",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "substack:post:198591984": {
       "date": "2026-06-14",
@@ -2259,7 +2259,7 @@
       "transcript_source": "web_search_fallback_paywalled",
       "show": "Bankless",
       "episode_title": "The Rise of Robinhood Chain: Tokenized Stocks, Perps, and 27M Users | Johann Kerbrat",
-      "note": "Early Access episode \u2014 Bankless Premium only, no transcript accessible"
+      "note": "Early Access episode — Bankless Premium only, no transcript accessible"
     },
     "web_search_fallback:latent-space:2026-07-05": {
       "date": "2026-07-05",
@@ -2309,7 +2309,7 @@
     "6a4b85b52e335a35a80eec92": {
       "date": "2026-07-06",
       "transcript_source": "web",
-      "show": "\u897f\u897f\u5f17\u9ad8\u901f"
+      "show": "西西弗高速"
     },
     "web_search_fallback:bankless:2026-07-06": {
       "date": "2026-07-06",
@@ -2776,7 +2776,7 @@
     "c7f51890-7fef-11f1-b70c-8b92740a4dcd": {
       "date": "2026-07-16",
       "transcript_source": "web-summary",
-      "show": "The Investor\u2019s Podcast (We Study Billionaires)"
+      "show": "The Investor’s Podcast (We Study Billionaires)"
     },
     "web_search_fallback:bankless:2026-07-16": {
       "date": "2026-07-16",
@@ -3416,7 +3416,7 @@
     "6c9d13b1-ac9a-4a7a-a35b-99bfb8374668": {
       "date": "2026-08-04",
       "transcript_source": "web",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "web_search_fallback:bankless:2026-08-05-kalshi": {
       "date": "2026-08-05",
@@ -3634,7 +3634,7 @@
     "9e923c4c-1c87-499b-90a4-9a21cc83e4b1": {
       "date": "2026-08-10",
       "transcript_source": "show_notes",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "substack:post:210737923": {
       "date": "2026-08-11",
@@ -3775,7 +3775,7 @@
       "date": "2026-08-14",
       "transcript_source": "rss_omny_srt",
       "show": "Odd Lots",
-      "title": "A Historic El Ni\u00f1o Is Coming That Could Cost the World Trillions"
+      "title": "A Historic El Niño Is Coming That Could Cost the World Trillions"
     },
     "5c6c553a-9736-11f1-921a-e3d39afc3be4": {
       "date": "2026-08-14",
@@ -3793,7 +3793,7 @@
       "date": "2026-08-14",
       "transcript_source": "youtube_autocaptions",
       "show": "Empire",
-      "title": "Crypto\u2019s Speculation Problem, Regulation Without CLARITY & The Gambling Economy"
+      "title": "Crypto’s Speculation Problem, Regulation Without CLARITY & The Gambling Economy"
     },
     "762b4fd0-8480-11f1-bb8f-9f45f6b3929e": {
       "date": "2026-08-14",
@@ -3829,7 +3829,7 @@
       "date": "2026-08-14",
       "transcript_source": "show_notes",
       "show": "Big Technology Podcast",
-      "title": "Best of Big Technology: How Ozempic Changes Our Bodies, Minds, and Economy \u2014 With Johann Hari"
+      "title": "Best of Big Technology: How Ozempic Changes Our Bodies, Minds, and Economy — With Johann Hari"
     },
     "f0ae6c11-88e8-48df-a8c8-b4a600ede892": {
       "date": "2026-08-14",
@@ -3958,7 +3958,7 @@
     "964f1a0e-a243-11f1-8c3a-8bca9168f55a": {
       "date": "2026-08-29",
       "transcript_source": "web",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "095923e3-5c15-4936-b26b-b4b70018f8d6": {
       "date": "2026-08-31",
@@ -4058,7 +4058,7 @@
     "73a69583-98ee-43d6-a892-3e7c93012dd9": {
       "date": "2026-08-27",
       "transcript_source": "description",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "8cf12bf4-a23a-11f1-82f6-cbfa5f24bab5": {
       "date": "2026-08-27",
@@ -4183,7 +4183,7 @@
     "2136fe1e-a692-11f1-b4a0-67b9ac11c241": {
       "date": "2026-09-02",
       "transcript_source": "web",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "6ea4e3b2-a57c-11f1-ae54-6f8f6d162167": {
       "date": "2026-09-03",
@@ -4372,7 +4372,7 @@
       "date": "2026-09-08",
       "transcript_source": "web",
       "show": "The Meb Faber Show - Better Investing",
-      "title": "Why Gold Stopped Being a Commodity (AllianceBernstein\u2019s Inigo Fraser Jenkins) | #649"
+      "title": "Why Gold Stopped Being a Commodity (AllianceBernstein’s Inigo Fraser Jenkins) | #649"
     },
     "74986540-abb8-11f1-86fe-c3c5906dca89": {
       "date": "2026-09-09",
@@ -4482,7 +4482,7 @@
     "79b7c34a-ab4f-11f1-ac50-ab4dcd939161": {
       "date": "2026-09-10",
       "transcript_source": "show_notes",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "late_addition": true
     },
     "b36b4cc0-ac9d-11f1-8bce-6bf7d9dd6aa9": {
@@ -4537,7 +4537,7 @@
     "6aa623ef9d32647781683c93": {
       "date": "2026-09-13",
       "transcript_source": "show_notes",
-      "show": "\u897f\u897f\u5f17\u9ad8\u901f"
+      "show": "西西弗高速"
     },
     "28b23b0e-ae8f-11f1-a3f4-433754979554": {
       "date": "2026-09-13",
@@ -4694,7 +4694,7 @@
     "51ef88a4-b183-11f1-b502-4724cb5513d0": {
       "date": "2026-09-16",
       "transcript_source": "web",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "78de6472-b047-11f1-8db3-b311e9cdbee0": {
       "date": "2026-09-16",
@@ -4729,7 +4729,7 @@
     "786d63c4-d46c-4ff3-80f8-fc895b2a57f0": {
       "date": "2026-09-15",
       "transcript_source": "show_notes",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb": {
       "date": "2026-09-18",
@@ -4814,7 +4814,7 @@
     "78ec2d74-0ad7-4c6f-9764-728eec0e6e87": {
       "date": "2026-09-17",
       "transcript_source": "youtube_autocaptions",
-      "show": "\u77fd\u8c37101"
+      "show": "矽谷101"
     },
     "3c42dc4e-ca08-46cf-b2c6-b4c90112084e": {
       "date": "2026-09-19",
@@ -4844,7 +4844,7 @@
     "3a8c39aa-b318-11f1-aa0a-d323fb577b4e": {
       "date": "2026-09-20",
       "transcript_source": "youtube_autocaptions",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "8d30821d-cf7d-4147-b00e-b4cb01647404": {
       "date": "2026-09-21",
@@ -5015,7 +5015,7 @@
     "833a6b89-e6a1-4d61-a3b3-46f4d664894e": {
       "date": "2026-09-24",
       "transcript_source": "youtube_autocaptions",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "4902f8c2-b79e-11f1-86d2-a72bb864ff96": {
       "date": "2026-09-24",
@@ -5116,7 +5116,7 @@
     "758baeec-b830-11f1-aaab-b3e5d1445637": {
       "date": "2026-09-27",
       "transcript_source": "web",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "91f43632-b93c-11f1-9606-3bc35154374d": {
       "date": "2026-09-28",
@@ -5166,7 +5166,7 @@
     "0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d": {
       "date": "2026-09-27",
       "transcript_source": "youtube_autocaptions",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "589a3ac9-fbd2-492d-8c18-a0a2315d1b8a": {
       "date": "2026-09-29",
@@ -5281,7 +5281,7 @@
     "0b644f51-461c-4ddb-b707-d2a39b9a7d80": {
       "date": "2026-09-29",
       "transcript_source": "web",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "37524676-bc55-11f1-8ce2-6fe1418ab721": {
       "date": "2026-09-29",
@@ -5627,7 +5627,7 @@
     "8fa0b58e-8359-4609-8e84-30c9a632df50": {
       "date": "2026-10-08",
       "transcript_source": "web",
-      "show": "\u7845\u8c37101",
+      "show": "硅谷101",
       "late_addition": true,
       "recovered_on": "2026-10-09"
     },
@@ -5765,7 +5765,7 @@
     "ac20b35e-c770-11f1-b2e5-0374e92dcb81": {
       "date": "2026-10-15",
       "transcript_source": "web",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "3928fcec-c8d0-11f1-981c-7b09ade47b6d": {
       "date": "2026-10-15",
@@ -5895,7 +5895,7 @@
     "a85702fa-c946-11f1-806f-d3194f922a31": {
       "date": "2026-10-18",
       "transcript_source": "description",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "fe62cf6e-c96c-11f1-a55f-87ce580e654e": {
       "date": "2026-10-18",
@@ -5940,7 +5940,7 @@
     "9e6e1db1-f30b-492d-8a09-d8756b9df700": {
       "date": "2026-10-19",
       "transcript_source": "description",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "32688ea9-4cbb-4bb4-8b3c-b4e8018899f5": {
       "date": "2026-10-20",
@@ -6000,7 +6000,7 @@
     "8698c51a-cd09-11f1-8856-1f8a748dd5ee": {
       "date": "2026-10-22",
       "transcript_source": "description",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "f4c72f28-ce57-11f1-ab3a-8f87c495b76f": {
       "date": "2026-10-22",
@@ -6040,7 +6040,7 @@
     "e4a0dc30-ce42-11f1-a6ca-63c886fe435e": {
       "date": "2026-10-25",
       "transcript_source": "description",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "de4fd93c-ce77-11f1-9f35-638763245acb": {
       "date": "2026-10-26",
@@ -6270,7 +6270,7 @@
     "f6618818-b288-4798-bab8-d60d77c70aff": {
       "date": "2026-11-09",
       "transcript_source": "show_notes",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "6af1d61ece118fd5b575a14b": {
       "date": "2026-11-09",
@@ -6338,7 +6338,7 @@
       "date": "2026-11-03",
       "transcript_source": "web",
       "show": "RiskReversal Pod",
-      "episode_title": "Dan Ives: How to Survive AI\u2019s Volatile \"Air Pockets\""
+      "episode_title": "Dan Ives: How to Survive AI’s Volatile \"Air Pockets\""
     },
     "dcc2cce0-d7a6-11f1-90a6-53bcea3e9b73": {
       "date": "2026-11-03",
@@ -6386,7 +6386,7 @@
       "date": "2026-11-03",
       "transcript_source": "web",
       "show": "The Compound and Friends",
-      "episode_title": "The AI Theme Isn\u2019t Dead, Apple and Palantir Report, Alphabet\u2019s Very Bad Day, HALO Is Back"
+      "episode_title": "The AI Theme Isn’t Dead, Apple and Palantir Report, Alphabet’s Very Bad Day, HALO Is Back"
     },
     "f29ea7b5-e6fa-4167-a7c4-b4f80178bb5e": {
       "date": "2026-11-04",
@@ -6397,7 +6397,7 @@
     "e5add9c2-d74b-11f1-8e45-0774bf628137": {
       "date": "2026-11-04",
       "transcript_source": "description",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "episode_title": "TIP858: McDonald's ($MCD): Generational Compounder in Historical Drawdown w/ Daniel Mahncke & Shawn O'Malley"
     },
     "468e99b6-7c28-4fc4-86d7-b4f8016f319d": {
@@ -6428,7 +6428,7 @@
       "date": "2026-11-05",
       "transcript_source": "description",
       "show": "Critics at Large | The New Yorker",
-      "episode_title": "The Cozy Conservatism of \u201cThe Gilded Age\u201d"
+      "episode_title": "The Cozy Conservatism of “The Gilded Age”"
     },
     "03f99d40-d8c2-11f1-9c96-7b13ace0b070": {
       "date": "2026-11-05",
@@ -6476,7 +6476,7 @@
       "date": "2026-11-06",
       "transcript_source": "web",
       "show": "The Compound and Friends",
-      "episode_title": "You Ain\u2019t Seen Nothing Yet with Daniel Clifton"
+      "episode_title": "You Ain’t Seen Nothing Yet with Daniel Clifton"
     },
     "flightcast:01M6R2W29DPGTWAMW866SW0SV5": {
       "date": "2026-11-06",
@@ -6517,7 +6517,7 @@
     "c6787ef2-d9e1-11f1-92ef-431892dae065": {
       "date": "2026-11-07",
       "transcript_source": "description",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "episode_title": "TIP859: Mercado Libre ($MELI): We Doubled Down on Meli w/ Daniel Mahncke & Shawn O'Malley"
     },
     "01a1a3f4-4773-7ef4-9673-59b03a12c34b": {
@@ -6536,13 +6536,13 @@
       "date": "2026-11-09",
       "transcript_source": "rss_vtt",
       "show": "Latent Space: The AI Engineer Podcast",
-      "episode_title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI \u2014 Garrett Lord & Team"
+      "episode_title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team"
     },
     "01a1bcf7-771f-7da1-affb-a7ead0a1434c": {
       "date": "2026-11-08",
       "transcript_source": "rss_vtt",
       "show": "Latent Space: The AI Engineer Podcast",
-      "episode_title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering \u2014 Mihail Eric, Monaco"
+      "episode_title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco"
     },
     "01a1c6f7-44d3-7eaf-95ea-cb9de51baff2": {
       "date": "2026-11-10",
@@ -6912,7 +6912,7 @@
     "c6add4e8-ddc5-11f1-b4ba-471dfa89a146": {
       "date": "2026-11-19",
       "transcript_source": "description",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "9c10505a-78a3-4ced-a0fb-5d94632e0363": {
       "date": "2026-11-17",
@@ -6927,7 +6927,7 @@
     "c76f0198-e263-11f1-8486-fb6fc3f190ad": {
       "date": "2026-11-19",
       "transcript_source": "description",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network"
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network"
     },
     "709a1220-554f-493f-8b16-8e1ff7b10d0e": {
       "date": "2026-11-10",
@@ -7057,7 +7057,7 @@
     "bc105fa7-23de-4c70-a338-6d70daf9aed1": {
       "date": "2026-11-22",
       "transcript_source": "show_notes",
-      "show": "\u7845\u8c37101"
+      "show": "硅谷101"
     },
     "01a1f60c-1b1f-7366-a794-20e0b0bcdc8a": {
       "date": "2026-11-19",
@@ -7118,6 +7118,56 @@
       "date": "2026-11-23",
       "transcript_source": "rss",
       "show": "Bankless"
+    },
+    "b08ef052-68b5-45b7-913d-1bd7041b4a6e": {
+      "date": "2026-11-24",
+      "transcript_source": "description",
+      "show": "StarTalk with Neil deGrasse Tyson"
+    },
+    "e1cd0e3e-9e03-40db-bc4b-b50b0165eab4": {
+      "date": "2026-11-24",
+      "transcript_source": "rss",
+      "show": "Odd Lots"
+    },
+    "a34549b8-e370-11f1-939b-ff49e9f6f462": {
+      "date": "2026-11-24",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Empire"
+    },
+    "9a5d37c6-e7d9-11f1-b2ec-930476c9d7cf": {
+      "date": "2026-11-24",
+      "transcript_source": "web_kazuha_summary",
+      "show": "Invest Like the Best with Patrick O'Shaughnessy"
+    },
+    "fa4bc7f0-e514-11f1-8a20-23a2aece5414": {
+      "date": "2026-11-24",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Training Data"
+    },
+    "24c46131-e4f1-4f43-97d2-5de83de089ae": {
+      "date": "2026-11-24",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Y Combinator Startup Podcast"
+    },
+    "9294c3be-e83e-11f1-84c1-ffe7c3ba21de": {
+      "date": "2026-11-24",
+      "transcript_source": "youtube_autocaptions",
+      "show": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)"
+    },
+    "04211822-e838-11f1-8bbe-0b7c80bf7a3f": {
+      "date": "2026-11-24",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Unchained"
+    },
+    "5cc398a8-e822-11f1-b097-0f454450a69c": {
+      "date": "2026-11-24",
+      "transcript_source": "youtube_autocaptions",
+      "show": "Moonshots with Peter Diamandis"
+    },
+    "substack:post:226413128": {
+      "date": "2026-11-24",
+      "transcript_source": "rss",
+      "show": "Dwarkesh Podcast"
     }
   },
   "failures": [
@@ -7137,7 +7187,7 @@
     },
     {
       "guid": "db567f94-f8b7-4c3a-9854-8ef474661feb",
-      "title": "\"Finding Satoshi\"\u2014How a Private Investigator Solved the Mystery of Bitcoin's Creator | Bill Cohan & Tyler Maroney",
+      "title": "\"Finding Satoshi\"—How a Private Investigator Solved the Mystery of Bitcoin's Creator | Bill Cohan & Tyler Maroney",
       "reason": "parsing summary JSON: {  \"tldr\": null,  \"key_points\": null,  \"notable_quotes\": null,  \"people_mentioned\": null,  \"topics\": null,  \"error\": \"Transcript is not a full transcript; only an outline with timestamps and promotional material is provided.\"}",
       "first_seen": "2026-05-04",
       "attempts": 1
@@ -7172,7 +7222,7 @@
     },
     {
       "guid": "c62404c3-837e-4c17-bdbd-8893edc035cd",
-      "title": "Cosmic Queries \u2013 Starquakes with Conny Aerts",
+      "title": "Cosmic Queries – Starquakes with Conny Aerts",
       "reason": "parsing summary JSON: {  \"tldr\": null,  \"key_points\": null,  \"notable_quotes\": null,  \"people_mentioned\": null,  \"topics\": null,  \"error\": \"Transcript incomplete and too short to summarize (length < 200 words).\"}",
       "first_seen": "2026-05-08",
       "attempts": 1
@@ -7291,7 +7341,7 @@
     },
     {
       "guid": "4b081434-b581-4698-89e5-0da4b7b1f12e",
-      "title": "Schubert: Die Sch\u00f6ne Mullerin Mini-Episode No. 1 (Free Preview)",
+      "title": "Schubert: Die Schöne Mullerin Mini-Episode No. 1 (Free Preview)",
       "reason": "parsing summary JSON: {  \"tldr\": null,  \"key_points\": null,  \"notable_quotes\": null,  \"people_mentioned\": null,  \"topics\": null,  \"content_warnings\": null,  \"error\": \"Transcript is fewer than 200 words and is a preview, not a full episode.\"}",
       "first_seen": "2026-05-08",
       "attempts": 1
@@ -7306,7 +7356,7 @@
     {
       "guid": "substack:post:196468137",
       "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
-      "reason": "Transcript paywalled behind Substack \u2014 no public transcript available",
+      "reason": "Transcript paywalled behind Substack — no public transcript available",
       "first_seen": "2026-05-10",
       "attempts": 1
     },
@@ -7333,7 +7383,7 @@
     },
     {
       "guid": "1ad4a324-0c27-43fd-b451-b4394faf8e82",
-      "title": "John Gu \u2013 Crypto Market Making",
+      "title": "John Gu – Crypto Market Making",
       "reason": "No transcript source found",
       "first_seen": "2026-05-11",
       "attempts": 1
@@ -7361,15 +7411,15 @@
     },
     {
       "guid": "27d52ebe-ddbb-4402-98db-27011c4b5a16",
-      "title": "Bonus Episode: Beethoven 5 en fran\u00e7ais!",
-      "reason": "Skipped \u2014 French classical music podcast, non-English",
+      "title": "Bonus Episode: Beethoven 5 en français!",
+      "reason": "Skipped — French classical music podcast, non-English",
       "first_seen": "2026-05-15",
       "attempts": 1
     },
     {
       "guid": "f2a37050-4f43-11f1-abd4-5b429f429528",
-      "title": "Tom Lee: The Market Can Climb Higher\u2014But Expect Turbulence | #630",
-      "reason": "No transcript source found \u2014 audio-only episode, no YouTube upload available yet",
+      "title": "Tom Lee: The Market Can Climb Higher—But Expect Turbulence | #630",
+      "reason": "No transcript source found — audio-only episode, no YouTube upload available yet",
       "first_seen": "2026-05-15",
       "attempts": 1
     },
@@ -7407,10 +7457,10 @@
     },
     {
       "guid": "47b7778e-1ed6-4dab-b7c9-8b4a6555b867",
-      "title": "E240\uff5cOpenAI\u8054\u624bPE\u7838\u4e0b40\u4ebf\u7f8e\u5143\uff0c\u804a\u804a\u7845\u8c37\u6700\u706b\u65b0\u804c\u4f4dFDE",
+      "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
       "reason": "no_transcript_found",
       "first_seen": "2026-06-17",
-      "show": "\u7845\u8c37101",
+      "show": "硅谷101",
       "attempts": 1
     },
     {
@@ -7543,10 +7593,10 @@
     },
     {
       "guid": "5aeaeb64-9165-4271-9884-23329b511e11",
-      "title": "E245\uff5c\u85cf\u5728\u5927\u6a21\u578b\u80cc\u540e\u7684\u65b0\u95fb\u4eba",
+      "title": "E245｜藏在大模型背后的新闻人",
       "reason": "no_transcript_found",
       "first_seen": "2026-07-23",
-      "show": "\u7845\u8c37101",
+      "show": "硅谷101",
       "attempts": 1
     },
     {
@@ -7583,7 +7633,7 @@
     },
     {
       "guid": "f8763094-8d19-11f1-bbcb-5bbb7ea893bb",
-      "title": "Leopold Blows Up, OpenAI Drastically Cuts Prices, Microsoft\u2019s Best Day",
+      "title": "Leopold Blows Up, OpenAI Drastically Cuts Prices, Microsoft’s Best Day",
       "reason": "no_transcript_found: episode published ~2 hours before pipeline run, no transcript on bigtechnology.com/substack, podscripts.co, scripod.com, tapesearch.com, Apple Podcasts; no YouTube upload yet",
       "first_seen": "2026-07-31",
       "show": "Big Technology Podcast",
@@ -7599,8 +7649,8 @@
     },
     {
       "guid": "6f428431-60c1-4353-9e98-46b1f26d63a6",
-      "title": "Cosmic Queries \u2013 Planet 9",
-      "reason": "No transcript found via web search (startalkmedia.com, podscripts.co, podscribe.ai/com, happyscribe.com, snipd.com) or YouTube (no matching video uploaded yet \u2014 episode published only 1 day before processing).",
+      "title": "Cosmic Queries – Planet 9",
+      "reason": "No transcript found via web search (startalkmedia.com, podscripts.co, podscribe.ai/com, happyscribe.com, snipd.com) or YouTube (no matching video uploaded yet — episode published only 1 day before processing).",
       "first_seen": "2026-08-04",
       "attempts": 1
     },
@@ -7707,7 +7757,7 @@
     },
     {
       "guid": "00abfc1d-6369-4a08-9d40-fbd439054471",
-      "title": "Government policies 'won\u2019t turn the tide' of the energy transition",
+      "title": "Government policies 'won’t turn the tide' of the energy transition",
       "reason": "model error: Transcript is fewer than 200 words and appears to be an episode description, not a complete transcript.",
       "first_seen": "2026-09-02",
       "attempts": 2,
@@ -7752,7 +7802,7 @@
     },
     {
       "guid": "89c095f2-656e-4be2-a667-b919352b0002",
-      "title": "Philip & Allan Maymin \u2013 Compounding Through Risk, Not Return (S7E35)",
+      "title": "Philip & Allan Maymin – Compounding Through Risk, Not Return (S7E35)",
       "reason": "not_processed_manual_budget (Claude Code unavailable: not logged in; YouTube subtitles HTTP 429)",
       "first_seen": "2026-10-15",
       "show": "Flirting with Models",
@@ -7784,7 +7834,7 @@
     },
     {
       "guid": "01M49N916NJDJVTX7KS03F21XV",
-      "title": "S2 E1: It\u2019s Not Just Reading",
+      "title": "S2 E1: It’s Not Just Reading",
       "reason": "not_processed_manual_budget (Claude Code unavailable: not logged in; YouTube subtitles HTTP 429)",
       "first_seen": "2026-10-15",
       "show": "Sold a Story",
@@ -7811,7 +7861,7 @@
       "title": "RWH073: Unstoppable w/ Sir Michael Moritz",
       "reason": "not_processed_manual_budget (Claude Code unavailable: not logged in; YouTube subtitles HTTP 429)",
       "first_seen": "2026-10-15",
-      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
+      "show": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "attempts": 1
     },
     {
@@ -7863,7 +7913,7 @@
     },
     {
       "guid": "youtube:LL0YmIyBKSU",
-      "title": "\u26a1\ufe0f The 2026 Software Factory Standard \u2014 Zach Lloyd, Warp.dev",
+      "title": "⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev",
       "show": "Latent Space: The AI Engineer Podcast",
       "reason": "empty summary: Transcript is incomplete or missing; only a link to the full show is provided.",
       "first_seen": "2026-11-09",
@@ -7879,7 +7929,7 @@
     },
     {
       "guid": "youtube:QmDLDy3ZSNE",
-      "title": "\u26a1 Behind Latent Space: A Rare Look Inside the Pod | AIEi Shanghai",
+      "title": "⚡ Behind Latent Space: A Rare Look Inside the Pod | AIEi Shanghai",
       "show": "Latent Space: The AI Engineer Podcast",
       "reason": "empty summary: Transcript is incomplete or too short.",
       "first_seen": "2026-11-09",
@@ -7895,7 +7945,7 @@
     },
     {
       "guid": "9354120e-d8ae-11f1-8b6d-77fdfffc0707",
-      "title": "Can AI Keep Going After The Democrats\u2019 Big Win? \u2014 With Teddy Schleifer",
+      "title": "Can AI Keep Going After The Democrats’ Big Win? — With Teddy Schleifer",
       "show": "Big Technology Podcast",
       "reason": "empty summary: Transcript is unavailable or too short to summarize.",
       "first_seen": "2026-11-09",
@@ -7911,7 +7961,7 @@
     },
     {
       "guid": "a12a9c5a-d88a-11f1-9d3d-5f001e97d304",
-      "title": "SocGen\u2019s Albert Edwards on 10% Yields and a 50% to 60% Drop | #656",
+      "title": "SocGen’s Albert Edwards on 10% Yields and a 50% to 60% Drop | #656",
       "show": "The Meb Faber Show - Better Investing",
       "reason": "empty summary: Transcript is incomplete or unavailable; only a brief episode description with timestamp outline was provided.",
       "first_seen": "2026-11-09",
@@ -7927,7 +7977,7 @@
     },
     {
       "guid": "youtube:P735f1xlpL0",
-      "title": "Deep Dive: Anthropic S-1 Myths and Mythos \u2014 Jamin Ball, Altimeter",
+      "title": "Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter",
       "show": "Latent Space: The AI Engineer Podcast",
       "reason": "empty summary: Transcript is incomplete and contains fewer than 200 words.",
       "first_seen": "2026-11-09",
@@ -7949,7 +7999,7 @@
     },
     {
       "guid": "40e82f5e-dd1e-11f1-a32e-b33c3d6e1b8c",
-      "title": "Canva Is Tackling AI Design\u2019s Most Frustrating Problem with Stefano Corazza- #784",
+      "title": "Canva Is Tackling AI Design’s Most Frustrating Problem with Stefano Corazza- #784",
       "reason": "deepseek: http 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 48ebb50e-99cb-41c5-a8e2-1ed32dceaa3f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
       "first_seen": "2026-11-10",
       "attempts": 1
@@ -7984,14 +8034,14 @@
     },
     {
       "guid": "995147a6-dd2e-11f1-97c4-1bce59a2589c",
-      "title": "722. The Charge of the Light Brigade: The Tsar\u2019s Terrible Siege (Part 2)",
+      "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
       "reason": "deepseek: http 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 72e09352-bcb0-4c2d-a5ca-581925ac3ec8)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
       "first_seen": "2026-11-12",
       "attempts": 1
     },
     {
       "guid": "7786780e-ddd2-11f1-9ae2-13f9e06a3dc6",
-      "title": "Storm Clouds Ahead For Apple?, Debating Amazon\u2019s Bee Frontier, AI as UI",
+      "title": "Storm Clouds Ahead For Apple?, Debating Amazon’s Bee Frontier, AI as UI",
       "reason": "deepseek: http 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ad5f4cd7-0f78-4126-a5d8-b73ffc53c94e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
       "first_seen": "2026-11-11",
       "attempts": 1

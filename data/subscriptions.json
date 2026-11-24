@@ -91,6 +91,13 @@
     "web_url": "http://www.flirtingwithmodels.com/"
   },
   {
+    "uuid": "9712D718-32FF-47B6-8201-E631CE1F5C28",
+    "title": "How I AI",
+    "author": "Claire Vo",
+    "feed_url": "https://anchor.fm/s/1035b1568/podcast/rss",
+    "web_url": "https://podcasters.spotify.com/pod/show/pen-name"
+  },
+  {
     "uuid": "9F050F95-B7B1-4852-981A-89CCCF9CF6C9",
     "title": "In Good Company with Nicolai Tangen",
     "author": "Norges Bank Investment Management",
@@ -145,6 +152,20 @@
     "author": "Bloomberg",
     "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ee4336cb-155f-4488-90e0-b1400134e40e/77e6a3a7-290d-4a82-8164-b14001353ef2/podcast.rss",
     "web_url": "https://www.iheart.com/podcast/164725399"
+  },
+  {
+    "uuid": "19DB6749-9845-4C49-92DB-F434D4CC087B",
+    "title": "Moonshots with Peter Diamandis",
+    "author": "PHD Ventures",
+    "feed_url": "https://feeds.megaphone.fm/DVVTS2890392624",
+    "web_url": "https://www.diamandis.com/podcast"
+  },
+  {
+    "uuid": "C09EB497-53A7-4CEF-8671-F9EDC5E031E5",
+    "title": "Naval",
+    "author": "Naval",
+    "feed_url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml",
+    "web_url": "https://nav.al"
   },
   {
     "uuid": "019B8427-CD6E-45DD-BD75-8D4BE7F66363",
@@ -225,7 +246,7 @@
   },
   {
     "uuid": "D715D279-B51D-40EE-9563-DBEBBD1CA1FA",
-    "title": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
+    "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
     "author": "The Investor's Podcast Network",
     "feed_url": "https://feeds.megaphone.fm/PPLLC8974708240",
     "web_url": "https://www.theinvestorspodcast.com"
@@ -309,22 +330,22 @@
   },
   {
     "uuid": "A41F5F19-F649-4AEB-8BC9-C79BB1D025BC",
-    "title": "\u674e\u8bde",
-    "author": "\u674e\u8bde",
+    "title": "李诞",
+    "author": "李诞",
     "feed_url": "https://feed.xyzfm.space/l3c8em3l8hfn",
     "web_url": "https://www.xiaoyuzhoufm.com/podcast/65bb55f6513a776b57dedb32?utm_source=rss"
   },
   {
     "uuid": "3BF66B90-581D-44F8-BADE-4F4B69CE260B",
-    "title": "\u7845\u8c37101",
-    "author": "\u7845\u8c37101",
+    "title": "硅谷101",
+    "author": "硅谷101",
     "feed_url": "https://feeds.fireside.fm/sv101/rss",
     "web_url": "https://sv101.fireside.fm"
   },
   {
     "uuid": "7055F50C-5C3E-4B84-BB67-4CDD6C28C0E4",
-    "title": "\u897f\u897f\u5f17\u9ad8\u901f",
-    "author": "\u897f\u897f\u5f17\u9ad8\u901f",
+    "title": "西西弗高速",
+    "author": "西西弗高速",
     "feed_url": "https://feed.xyzfm.space/76evp7fxkeu8",
     "web_url": "https://www.xiaoyuzhoufm.com/podcast/665c17db078f60650296f455?utm_source=rss"
   }
